@@ -1,0 +1,19 @@
+{
+  "name": "vernac-gxs-voice-agent",
+  "version": "1.0.0",
+  "description": "Voice-to-Voice Debt Collection Agent for GXS Bank",
+  "main": "index.html",
+  "scripts": {
+    "start": "python server.py",
+    "test": "python test_e2e.py"
+  },
+  "keywords": [
+    "voice-ai",
+    "azure-openai",
+    "gpt-4o-realtime",
+    "debt-collection",
+    "websocket"
+  ],
+  "author": "GXS Bank",
+  "license": "PROPRIETARY"
+}

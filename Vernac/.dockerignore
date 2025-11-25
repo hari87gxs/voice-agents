@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+server.log
+nohup.out
+
+# Environment variables (IMPORTANT: Don't commit secrets!)
+.env
+
+# MacOS
+.DS_Store
+
+# Test files
+test_*.py
+run_tests.py
+
+# Documentation (optional - comment out if you want to include)
+README.md
+ARCHITECTURE.md
+CODE_EXPLANATION.md
+CONFIG_GUIDE.md

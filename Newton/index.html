@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Newton - Science Teacher</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', cursive, sans-serif;
+            background: linear-gradient(135deg, #56CCF2 0%, #2F80ED 50%, #1CB5E0 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            padding: 20px;
+            position: relative;
+            overflow-x: hidden;
+            overflow-y: auto;
+        }
+        
+        /* Animated clouds */
+        body::before {
+            content: '☁️ ☁️ ☁️';
+            position: absolute;
+            top: 20px;
+            left: -100px;
+            font-size: 48px;
+            animation: float-clouds 30s linear infinite;
+            opacity: 0.7;
+        }
+        
+        body::after {
+            content: '☁️ ☁️';
+            position: absolute;
+            top: 100px;
+            right: -100px;
+            font-size: 36px;
+            animation: float-clouds-reverse 25s linear infinite;
+            opacity: 0.6;
+        }
+        
+        @keyframes float-clouds {
+            from { transform: translateX(0); }
+            to { transform: translateX(calc(100vw + 200px)); }
+        }
+        
+        @keyframes float-clouds-reverse {
+            from { transform: translateX(0); }
+            to { transform: translateX(calc(-100vw - 200px)); }
+        }
+        
+        .container {
+            background: white;
+            border-radius: 30px;
+            box-shadow: 0 25px 70px rgba(0, 0, 0, 0.25);
+            max-width: 900px;
+            width: 100%;
+            overflow: visible;
+            border: 5px solid #FFD93D;
+            position: relative;
+            z-index: 1;
+            margin: 20px 0;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #6BCF7F 0%, #4CAF50 100%);
+            color: white;
+            padding: 40px 30px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        /* Newton under apple tree illustration */
+        .header::before {
+            content: '🌳';
+            position: absolute;
+            font-size: 120px;
+            right: 30px;
+            bottom: -20px;
+            opacity: 0.3;
+            transform: rotate(-10deg);
+        }
+        
+        .header::after {
+            content: '🍎';
+            position: absolute;
+            font-size: 40px;
+            right: 80px;
+            top: 40px;
+            animation: apple-fall 3s ease-in-out infinite;
+        }
+        
+        @keyframes apple-fall {
+            0%, 100% { transform: translateY(0) rotate(0deg); }
+            50% { transform: translateY(10px) rotate(5deg); }
+        }
+        
+        .header h1 {
+            font-size: 36px;
+            margin-bottom: 10px;
+            font-weight: 700;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+            position: relative;
+            z-index: 1;
+        }
+        
+        .header p {
+            font-size: 18px;
+            opacity: 0.95;
+            font-weight: 500;
+            position: relative;
+            z-index: 1;
+        }
+        
+        .content {
+            padding: 30px;
+        }
+        
+        .controls {
+            display: flex;
+            gap: 15px;
+            justify-content: center;
+            margin-bottom: 30px;
+        }
+        
+        .btn {
+            padding: 18px 45px;
+            font-size: 18px;
+            font-weight: 700;
+            border: none;
+            border-radius: 50px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        .btn:hover {
+            transform: translateY(-3px) scale(1.05);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+        }
+        
+        .btn:active {
+            transform: translateY(0) scale(1);
+        }
+        
+        .btn-start {
+            background: linear-gradient(135deg, #FF6B6B 0%, #FF8E53 100%);
+            color: white;
+        }
+        
+        .btn-start:disabled {
+            background: #ddd;
+            cursor: not-allowed;
+            transform: none;
+            box-shadow: none;
+        }
+        
+        .btn-end {
+            background: linear-gradient(135deg, #4ECDC4 0%, #44A08D 100%);
+            color: white;
+        }
+        
+        .btn-end:disabled {
+            background: #ddd;
+            cursor: not-allowed;
+            transform: none;
+            box-shadow: none;
+        }
+        
+        .btn-download {
+            background: linear-gradient(135deg, #FFD93D 0%, #FFAA00 100%);
+            color: #333;
+            font-size: 14px;
+            padding: 10px 20px;
+        }
+            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+            color: white;
+            padding: 10px 25px;
+            font-size: 14px;
+        }
+        
+        .btn-download:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+            transform: none;
+        }
+        
+        .status {
+            background: linear-gradient(135deg, #FFF9C4 0%, #FFF59D 100%);
+            border: 3px solid #FFD93D;
+            padding: 20px 25px;
+            margin-bottom: 25px;
+            border-radius: 20px;
+            font-size: 16px;
+            font-weight: 600;
+            color: #333;
+            text-align: center;
+            box-shadow: 0 4px 15px rgba(255, 217, 61, 0.3);
+        }
+        
+        .status.error {
+            background: linear-gradient(135deg, #FFCDD2 0%, #EF9A9A 100%);
+            border-color: #F44336;
+            color: #B71C1C;
+        }
+        
+        .status.success {
+            background: linear-gradient(135deg, #C8E6C9 0%, #A5D6A7 100%);
+            border-color: #4CAF50;
+            color: #1B5E20;
+        }
+        
+        .transcript-section {
+            margin-top: 20px;
+        }
+        
+        .transcript-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+        
+        .transcript-header h2 {
+            font-size: 18px;
+            color: #333;
+        }
+        
+        .transcript {
+            background: #f9f9f9;
+            border: 1px solid #e0e0e0;
+            border-radius: 10px;
+            padding: 20px;
+            max-height: 400px;
+            overflow-y: auto;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+        
+        .transcript:empty:before {
+            content: "Transcript will appear here...";
+            color: #999;
+            font-style: italic;
+        }
+        
+        .transcript-item {
+            margin-bottom: 15px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        
+        .transcript-item:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+            padding-bottom: 0;
+        }
+        
+        .transcript-role {
+            font-weight: 700;
+            margin-bottom: 8px;
+            font-size: 15px;
+        }
+        
+        .transcript-role.user {
+            color: #2196F3;
+        }
+        
+        .transcript-role.assistant {
+            color: #FF6B6B;
+        }
+        
+        .transcript-role.assistant::before {
+            content: '🍎 ';
+        }
+        
+        .transcript-role.user::before {
+            content: '👤 ';
+        }
+        
+        .transcript-text {
+            color: #333;
+            font-size: 14px;
+        }
+        
+        .log {
+            background: #1e1e1e;
+            color: #d4d4d4;
+            border-radius: 10px;
+            padding: 15px;
+            max-height: 200px;
+            overflow-y: auto;
+            font-family: 'Courier New', monospace;
+            font-size: 12px;
+            margin-top: 20px;
+        }
+        
+        .log-item {
+            margin-bottom: 5px;
+            word-wrap: break-word;
+        }
+        
+        .log-item.info {
+            color: #4fc3f7;
+        }
+        
+        .log-item.error {
+            color: #f44336;
+        }
+        
+        .log-item.success {
+            color: #4caf50;
+        }
+        
+        .indicator {
+            display: inline-block;
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            margin-right: 8px;
+            animation: pulse 2s infinite;
+        }
+        
+        .indicator.recording {
+            background: #f44336;
+        }
+        
+        .indicator.connected {
+            background: #4caf50;
+        }
+        
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+        
+        /* Scrollbar styling */
+        .transcript::-webkit-scrollbar,
+        .log::-webkit-scrollbar {
+            width: 8px;
+        }
+        
+        .transcript::-webkit-scrollbar-track,
+        .log::-webkit-scrollbar-track {
+            background: #f1f1f1;
+            border-radius: 10px;
+        }
+        
+        .transcript::-webkit-scrollbar-thumb,
+        .log::-webkit-scrollbar-thumb {
+            background: #888;
+            border-radius: 10px;
+        }
+        
+        .transcript::-webkit-scrollbar-thumb:hover,
+        .log::-webkit-scrollbar-thumb:hover {
+            background: #555;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🍎 Newton - Your Friendly Science Professor</h1>
+            <p>Ask me anything about science!</p>
+        </div>
+        
+        <div class="content">
+            <div class="status" id="status">
+                Ready to connect
+            </div>
+            
+            <div class="controls">
+                <button class="btn btn-start" id="startBtn">
+                    Start Call
+                </button>
+                <button class="btn btn-end" id="endBtn" disabled>
+                    End Call
+                </button>
+            </div>
+            
+            <div class="transcript-section">
+                <div class="transcript-header">
+                    <h2>Conversation Transcript</h2>
+                    <button class="btn btn-download" id="downloadBtn" disabled>
+                        📥 Download
+                    </button>
+                </div>
+                <div class="transcript" id="transcript"></div>
+            </div>
+            
+            <div class="log" id="log"></div>
+        </div>
+    </div>
+    
+    <script src="client.js"></script>
+</body>
+</html>

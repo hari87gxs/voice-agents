@@ -1,0 +1,16 @@
+runtime: python311
+
+env: standard
+
+instance_class: F2
+
+entrypoint: python server.py
+
+env_variables:
+  HOST: "0.0.0.0"
+  PORT: "8080"
+
+automatic_scaling:
+  min_instances: 1
+  max_instances: 10
+  target_cpu_utilization: 0.65

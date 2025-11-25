@@ -1,0 +1,39 @@
+# Environment variables
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+server.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node modules (if any)
+node_modules/
+
+# Docker
+*.tar
+
+# Other projects in workspace (not part of voice-agents)
+AthreyasSums/
+Finnovaite-demo/
+chitragupta/
+gmail-ai-assistant/
