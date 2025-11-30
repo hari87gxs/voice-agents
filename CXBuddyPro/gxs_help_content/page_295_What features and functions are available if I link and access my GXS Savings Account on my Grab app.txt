@@ -1,0 +1,18 @@
+Title: What features and functions are available if I link and access my GXS Savings Account on my Grab app? - GXS Help Centre
+URL: https://help.gxs.com.sg/Grab_and_Singtel_Experiences/Sign_Up_for_GXS_on_Grab/What_features_and_functions_are_available_if_I_link_and_access_my_GXS_Savings_Account_on_my_Grab_app%3F
+Scraped: 2025-11-28T02:08:23.965523
+Word Count: 88
+Is FAQ Answer: True
+
+================================================================================
+
+You'll be able to do simple activities with GXS Bank right on the Grab app, such as:
+Link/unlink GXS Savings Account on your Grab account.
+Update daily transaction limit for linked GXS Savings Account on Grab account.
+View GXS Savings Account details and transaction history for Grab-related activities only.
+Top up your GrabPay wallet with GXS Bank.
+Make payments directly from your GXS Savings Account and earn GrabCoins for the following Grab activities:
+- Grab Transport
+- Grab Food orders
+- Grab Mart orders
+- Grab Express orders

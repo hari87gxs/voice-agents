@@ -1,0 +1,9 @@
+Title: What happens when I unlink my GXS Savings Account from Dash app? - GXS Help Centre
+URL: https://help.gxs.com.sg/Grab_and_Singtel_Experiences/GXS_on_Singtel_Dash/What_happens_when_I_unlink_my_GXS_Savings_Account_from_Dash_app%3F#elm-main-content
+Scraped: 2025-11-28T02:28:50.124977
+Word Count: 50
+Is FAQ Answer: True
+
+================================================================================
+
+You will not be able to view your GXS Savings Account balance and account number, and access selected GXS services and products through the Dash app. You will also not enjoy GXS Payment Reward on eligible transactions. However, you may relink anytime via the GXS tile in the Dash app.

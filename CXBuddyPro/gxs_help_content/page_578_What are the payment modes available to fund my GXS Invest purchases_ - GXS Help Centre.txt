@@ -1,0 +1,15 @@
+Title: What are the payment modes available to fund my GXS Invest purchases? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/GXS_Invest_Orders/What_are_the_payment_modes_available_to_fund_my_GXS_Invest_purchases%3F
+Scraped: 2025-11-28T02:24:13.477731
+Word Count: 106
+Is FAQ Answer: True
+
+================================================================================
+
+Currently, the only payment method available is through the Main Account of your GXS Savings Account.
+To purchase Fullerton SGD Cash Fund using your GXS Savings Account, follow these steps:
+1. Log in to the GXS Bank app and go to the GXS Invest home screen.
+2. On the ‘Buy Order’ page, select GXS Savings Account as your payment method. Ensure you have sufficient balance in the Main Account of your GXS Savings Account.
+3. Review your order details on the order summary page.
+4. Acknowledge that you have read the Invest Account Terms, Fund Documents, and Risk Disclosures.
+5. Tap ‘Buy’ to complete the purchase.

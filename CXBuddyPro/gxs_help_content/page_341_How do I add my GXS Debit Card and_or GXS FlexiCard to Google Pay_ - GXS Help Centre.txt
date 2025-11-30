@@ -1,0 +1,16 @@
+Title: How do I add my GXS Debit Card and/or GXS FlexiCard to Google Pay? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Using_Google_Pay/How_do_I_add_my_GXS_Debit_Card_and%2F%2For_GXS_FlexiCard_to_Google_Pay%3F
+Scraped: 2025-11-28T02:10:49.097855
+Word Count: 147
+Is FAQ Answer: True
+
+================================================================================
+
+Add your GXS Debit Card and/or GXS FlexiCard to Google Pay in 5 simple steps as follows:
+1. Open your Google Pay App and tap on the profile icon on the upper right corner.
+2. Tap to add a debit card or credit card as a payment method.
+3. Add your card details manually, along with your address details required by Google Pay.
+4. Read through terms and conditions and tap on 'Accept'.
+5. Select the authentication method (SMS or email) and authenticate yourself.
+You card is now added to Google Pay and can be used to make card payments. You can make your GXS Debit Card or GXS FlexiCard as the default card for payments via Google Pay.
+In addition to our Card Account Terms, your use of your card through Google Pay will be subject to separate terms and conditions between you and Google Pay.

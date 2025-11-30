@@ -1,0 +1,23 @@
+Title: How is daily interest calculated for GXS Biz Account? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/GXS_Biz_Account_Interest_and_Fees/How_is_daily_interest_calculated_for_GXS_Biz_Account%3F
+Scraped: 2025-11-28T02:19:28.820368
+Word Count: 158
+Is FAQ Answer: True
+
+================================================================================
+
+You earn interest daily based on the balance of your GXS Biz Account at the end of each day. Interest earned on the account balance is 1.08% per annum.
+We multiply your balance by the interest rate per annum over 365 days. Interest will be credited to your account when you earn at least S$0.01 in accumulated interest.
+For example, based on an interest rate of 1.08% per annum applicable on balances in your GXS Biz Account:
+On 2 August 2025, your balance in your GXS Biz Account is S$40,000. You will earn an accrued interest of S$1.18356.
+S$1.18 will be credited to your account on 3 August 2025 morning. Your balance will now be S$40,001.18. The remaining S$0.00356 will continue to accrue the next day
+Terms and conditions apply. For full GXS Business Banking Terms and Conditions, visit:
+Business Account Terms
+here
+.
+Biz Ecosystem Terms - Grab
+here
+.
+Biz Ecosystem Terms - Singtel
+here
+.

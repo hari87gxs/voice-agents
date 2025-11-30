@@ -1,0 +1,11 @@
+Title: How do I contact your Data Privacy Officer (DPO)? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Your_Data_Privacy/How_do_I_contact_your_Data_Privacy_Officer_(DPO)%3F
+Scraped: 2025-11-28T02:12:08.766582
+Word Count: 26
+Is FAQ Answer: True
+
+================================================================================
+
+For any data privacy concerns, you can contact GXS Bank’s Data Privacy Officer (DPO) at
+dpo@gxs.com.sg
+. We will respond to you as soon as possible.

@@ -1,0 +1,20 @@
+Title: What does it mean to split your Balance Transfer Loan into an Instalment Loan? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan/Split_a_Balance_Transfer/What_does_it_mean_to_split_your_Balance_Transfer_Loan_into_an_Instalment_Loan%3F
+Scraped: 2025-11-28T01:16:59.839819
+
+================================================================================
+
+A 'split' of your Balance Transfer Loan allows you to convert your outstanding Balance Transfer Loan into an Instalment Loan; essentially splitting your remaining Balance Transfer Loan outstanding into bite-sized equal monthly repayments.
+This is especially useful when you are nearing the final repayment of your Balance Transfer Loan, which tends to be a relatively larger amount. By converting your final Balance Transfer Loan repayment amount, your repayment period will be further extended for a period of time.
+But hurry! This must be done before the final repayment date of your Balance Transfer Loan. You can choose to activate this ‘split’ feature anytime before your Balance Transfer Loan expires as long as none of your loans are overdue and your Balance Transfer Loan outstanding balance is at least S$200.
+Illustration
+On 1 January 2024, a GXS FlexiLoan - Balance Transfer Loan of $10,000 was taken for a 6 month tenure at a minimum monthly due rate of 1%. Table 1 shows how your loan schedule may look like.
+A month before your final repayment due date on 1 July 2024, you realise you may need more time to repay your outstanding balance of $9,500 - this outstanding amount of S$9,500 can then be converted into an Instalment Loan to split the repayment into more manageable monthly repayments. You have the choice of tenure for the Instalment Loan.
+Once converted, your prevailing GXS FlexiLoan interest rate will apply to the Instalment Loan. Assuming you selected a 3 month tenure and your GXS FlexiLoan interest rate is APR 2.99% p.a. (EIR 4.50% p.a.). Table 2 shows how your new loan schedule may look like.
+Split date: 1 June 2024
+Monthly repayment date: 1st day of month
+Split Instalment Loan principal: $9,500
+Loan tenure: 3 months
+Interest amount payable: 2.99% p.a. for 3 months = S$71.60
+Total loan payable: S$9,500 + S$71.60 = S$9,571.60
+Equal Monthly Instalment payable: S$9,571.60 / 3 = S$3,190.53

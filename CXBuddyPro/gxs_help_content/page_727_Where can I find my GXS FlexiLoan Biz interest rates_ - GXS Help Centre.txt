@@ -1,0 +1,12 @@
+Title: Where can I find my GXS FlexiLoan Biz interest rates? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan_Biz/GXS_FlexiLoan_Biz_-_Interest_and_Fees/Where_can_I_find_my_GXS_FlexiLoan_Biz_interest_rates%3F#elm-main-content
+Scraped: 2025-11-28T02:32:10.175062
+Word Count: 118
+Is FAQ Answer: True
+
+================================================================================
+
+Your interest rate (APR and EIR) will be shared with you upon successful application along with your assigned credit limit, so that you have all the details you need to make an informed decision on whether you wish to take up on the offer.
+You may also find your interest rate within the GXS Bank app home screen right beneath your GXS FlexiLoan Biz credit limit.
+*The Annual Percentage Rate (APR) represents the total borrowing cost, expressed as a yearly rate, relative to the initial loan amount.
+The Effective Interest Rate (EIR) is the rate that reflects the true cost of borrowing and takes into account total charges. It's computed over a reducing balance basis and accrued daily.

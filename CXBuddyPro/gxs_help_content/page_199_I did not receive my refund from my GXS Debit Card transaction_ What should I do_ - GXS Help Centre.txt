@@ -1,0 +1,10 @@
+Title: I did not receive my refund from my GXS Debit Card transaction. What should I do? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Debit_Card/Manage_Card_Disputes_and_Issues/I_did_not_receive_my_refund_from_my_GXS_Debit_Card_transaction._What_should_I_do%3F
+Scraped: 2025-11-28T02:03:13.515494
+Word Count: 54
+Is FAQ Answer: True
+
+================================================================================
+
+You may not have received the refunds due to the following reasons:
+Refunds have to be processed by the merchants before they're refunded to the Main Account of your GXS Savings Account. If you're due for a refund and it isn't showing in your account, please reach out to the merchant for more assistance.

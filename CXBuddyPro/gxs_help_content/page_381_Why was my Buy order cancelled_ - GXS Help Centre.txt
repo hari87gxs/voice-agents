@@ -1,0 +1,11 @@
+Title: Why was my Buy order cancelled? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/GXS_Invest_Orders/Why_was_my_Buy_order_cancelled%3F
+Scraped: 2025-11-28T02:12:53.409777
+Word Count: 99
+Is FAQ Answer: True
+
+================================================================================
+
+Your Buy order may have been cancelled due to a system error and the order subsequently cannot be processed successfully. When this happens, we will initiate a refund of the purchase amount to your GXS Savings Account, following which you may choose to place a new Buy order again.
+Please ensure that your total balance (including any refunds and interest accruals) does not exceed the maximum balance amount that you can hold in your GXS Savings Account.
+View the status of your Buy order by tapping ‘Transactions’ on the GXS Invest home screen and selecting the relevant Buy order.

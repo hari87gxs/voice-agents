@@ -1,0 +1,14 @@
+Title: How do I unlink my bank account for GXS FlexiCard payment? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiCard/GXS_FlexiCard_Payment/How_do_I_unlink_my_bank_account_for_GXS_FlexiCard_payment%3F
+Scraped: 2025-11-28T02:06:11.048303
+Word Count: 73
+Is FAQ Answer: True
+
+================================================================================
+
+You can unlink a third-party bank account which was previously linked to your GXS Savings Account or GXS FlexiCard, through the GXS Bank app. Follow these steps:
+Log in to the GXS Bank app.
+Tap on ‘Me’ at the bottom right to access your user profile.
+Select the account that you'd like to unlink.
+Tap on ‘Unlink’ at the bottom of the screen.
+Complete the unlinking process on your linked bank’s portal/web page.

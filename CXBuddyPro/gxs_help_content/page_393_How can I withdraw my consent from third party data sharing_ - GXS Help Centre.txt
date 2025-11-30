@@ -1,0 +1,11 @@
+Title: How can I withdraw my consent from third party data sharing? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Withdraw%2C_Access%2C_or_Correct_Your_Data/How_can_I_withdraw_my_consent_from_third_party_data_sharing%3F
+Scraped: 2025-11-28T02:13:30.202221
+Word Count: 19
+Is FAQ Answer: True
+
+================================================================================
+
+To withdraw consent for third party data sharing:
+Click on 'Me'.
+Select 'Manage data sharing' to withdraw your consent.

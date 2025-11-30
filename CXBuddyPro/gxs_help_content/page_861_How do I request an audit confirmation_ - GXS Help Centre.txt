@@ -1,0 +1,15 @@
+Title: How do I request an audit confirmation? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan_Biz/Manage_GXS_FlexiLoan_Biz/How_do_I_request_an_audit_confirmation%3F#elm-main-content
+Scraped: 2025-11-28T02:38:56.691185
+Word Count: 99
+Is FAQ Answer: True
+
+================================================================================
+
+You can request an audit confirmation "Submit an enquiry" via the Help Centre on the GXS Bank app. Only the authorised person can make this request.
+To submit your request, provide:
+Date for the audit confirmation.
+Name and email address of your auditor.
+(Optional) Auditor’s reference number.
+Once processed, the confirmation report will be emailed to you. The report is password-protected, so ensure you share the password with your auditor.
+Requests might be rejected if it is not from the authorised user, or if duplicate requests are made for the same period. If there’s a problem, you’ll be notified.

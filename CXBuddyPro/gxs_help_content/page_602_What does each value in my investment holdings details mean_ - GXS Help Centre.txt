@@ -1,0 +1,22 @@
+Title: What does each value in my investment holdings details mean? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/GXS_Invest_Features/What_does_each_value_in_my_investment_holdings_details_mean%3F
+Scraped: 2025-11-28T02:25:40.689738
+Word Count: 192
+Is FAQ Answer: True
+
+================================================================================
+
+‘Current value’
+reflects the value of your unit holdings multiplied by the latest published unit price.
+Current value = Unit holdings x Unit price
+For example: 1,000 unit holdings x S$1.203 unit price = S$1,203 current value
+If you have an ongoing ‘Buy’ order, your allocated units will be ready for viewing in your account when the order is indicated as ‘Completed’.
+If you have an ongoing ‘Sell order’, your units will be removed from your account when the order is indicated as 'Confirmed’.
+‘Total returns’
+represents the total cumulative gain or loss since your first investment. It is the sum of returns from your existing investment holdings (unrealised returns) and returns from investments you have sold (realised returns).
+Returns from units held is the profit (or loss) from the investments you still own.
+Returns from units sold is the profit (or loss) from the investments you have already sold.
+‘Unit holdings’
+represents the total number of units in the fund that you own. It is also the number of units you have available to sell.
+‘Unit price’
+is the latest published price per unit (or Net Asset Value) of the fund.

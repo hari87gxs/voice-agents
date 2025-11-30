@@ -1,0 +1,9 @@
+Title: For Dash transactions paid with GXS Savings Account on my Dash app that require a refund, will the money be refunded to the GXS Savings Account? - GXS Help Centre
+URL: https://help.gxs.com.sg/Grab_and_Singtel_Experiences/GXS_on_Singtel_Dash/For_Dash_transactions_paid_with_GXS_Savings_Account_on_my_Dash_app_that_require_a_refund%2C_will_the_money_be_refunded_to_the_GXS_Savings_Account%3F
+Scraped: 2025-11-28T02:18:24.141447
+Word Count: 36
+Is FAQ Answer: True
+
+================================================================================
+
+No. If your linked GXS Savings Account is used as the payment method on the Dash app for a transaction that is to be given a refund, the refund will be sent to your Dash Wallet.

@@ -1,0 +1,15 @@
+Title: How do I set or change my GXS Biz Account daily fund transfer limit? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/Manage_GXS_Biz_Account/How_do_I_set_or_change_my_GXS_Biz_Account_daily_fund_transfer_limit%3F#elm-main-content
+Scraped: 2025-11-28T02:27:47.116198
+Word Count: 61
+Is FAQ Answer: True
+
+================================================================================
+
+When you sign up with us, your daily transfer limit is automatically set to S$10,000. You can change this limit to up to S$100,000 per day after 12 hours.
+To change your transfer limit on the GXS Bank app,
+1. Go to 'Profile'.
+2. Tap on 'Change limits'.
+Keen to learn more about the 12-hour cooling-off period? Just click
+here
+.

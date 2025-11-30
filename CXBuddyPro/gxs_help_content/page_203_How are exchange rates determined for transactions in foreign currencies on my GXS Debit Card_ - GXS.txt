@@ -1,0 +1,9 @@
+Title: How are exchange rates determined for transactions in foreign currencies on my GXS Debit Card? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Debit_Card/Fees_and_Charges_of_GXS_Debit_Card/How_are_exchange_rates_determined_for_transactions_in_foreign_currencies_on_my_GXS_Debit_Card%3F
+Scraped: 2025-11-28T02:03:25.727576
+Word Count: 23
+Is FAQ Answer: True
+
+================================================================================
+
+When you make a transaction in a foreign currency, your transaction will be converted into Singapore dollars by Mastercard using their exchange rates.

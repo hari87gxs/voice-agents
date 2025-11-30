@@ -1,0 +1,15 @@
+Title: How do I identify an official GXS SMS/email or check that it's not a scam? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Keeping_Your_Data_and_Device_Secure/How_do_I_identify_an_official_GXS_SMS%2F%2Femail_or_check_that_it's_not_a_scam%3F
+Scraped: 2025-11-28T02:19:54.923968
+Word Count: 94
+Is FAQ Answer: True
+
+================================================================================
+
+If there's a link in an SMS or email, that's not us! Our SMS and email notifications do not contain any clickable links. Alerts with a clickable link will be sent as push notifications on the GXS Bank app instead.
+To confirm the validity of your messages, check your GXS inbox on the official GXS Bank app. Alternatively, you can also reach us at:
+GXS app, Help Centre: GXS Chat (Recommended)
+GXS app, Help Centre: Submit an enquiry
+GXS Hotline: 1800 866 6685 or (+65) 6866 6685 (from overseas)
+GXS Customer Support Email:
+help@gxs.com.sg

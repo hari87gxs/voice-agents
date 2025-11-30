@@ -1,0 +1,16 @@
+Title: How is a bus/MRT fare calculated and charged to my GXS FlexiCard? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiCard/GXS_FlexiCard_Fees_and_Charges/How_is_a_bus%2F%2FMRT_fare_calculated_and_charged_to_my_GXS_FlexiCard%3F
+Scraped: 2025-11-28T02:05:12.477544
+Word Count: 98
+Is FAQ Answer: True
+
+================================================================================
+
+Your bus/MRT fare is calculated based on your journey, and it's deducted only when you exit a gantry. Under SimplyGo, your rides are bundled together and a final transaction is made either when you've clocked S$15 in fares or after five days of rides, whichever comes first.
+If your GXS FlexiCard does not have sufficient credit limit to cover a ride or transaction, your account may go into overlimit state. Please make payment to your card account immediately.
+For more information on SimplyGo and bus/MRT fare charges, refer
+here
+.
+For more information on overlimit, refer
+here
+.

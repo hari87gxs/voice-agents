@@ -1,0 +1,10 @@
+Title: Do I have to sign a Personal Guarantee when opening a GXS Biz Account or accepting a GXS FlexiLoan Biz loan with GXS Bank? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan_Biz/Apply_for_a_GXS_FlexiLoan_Biz/Do_I_have_to_sign_a_Personal_Guarantee_when_opening_a_GXS_Biz_Account_or_accepting_a_GXS_FlexiLoan_Biz_loan_with_GXS_Bank%3F
+Scraped: 2025-11-28T02:09:50.415015
+Word Count: 50
+Is FAQ Answer: True
+
+================================================================================
+
+A Personal Guarantee is not required when you open a GXS Biz Account.
+However, if you've been offered GXS FlexiLoan Biz and you choose to accept, a Personal Guarantee from your company’s director will be required to guarantee the company’s loan obligations under the GXS FlexiLoan Biz terms and conditions.

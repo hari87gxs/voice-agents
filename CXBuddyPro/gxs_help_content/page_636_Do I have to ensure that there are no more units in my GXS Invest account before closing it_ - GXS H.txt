@@ -1,0 +1,9 @@
+Title: Do I have to ensure that there are no more units in my GXS Invest account before closing it? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/Closing_your_GXS_Invest_Account/Do_I_have_to_ensure_that_there_are_no_more_units_in_my_GXS_Invest_account_before_closing_it%3F#elm-main-content
+Scraped: 2025-11-28T02:27:29.056273
+Word Count: 19
+Is FAQ Answer: True
+
+================================================================================
+
+Yes, please make sure there are no investment units left in your GXS Invest account before you close it.

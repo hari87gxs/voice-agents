@@ -1,0 +1,9 @@
+Title: If I didn’t make any transactions in my GXS Biz Account, will e-statements be generated? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/GXS_Biz_Account_Statements/If_I_didn%E2%80%99t_make_any_transactions_in_my_GXS_Biz_Account%2C_will_e-statements_be_generated%3F
+Scraped: 2025-11-28T02:19:51.790678
+Word Count: 20
+Is FAQ Answer: True
+
+================================================================================
+
+Rest easy! E-statements will continue to be generated monthly, even if you have not made any transactions within the month.

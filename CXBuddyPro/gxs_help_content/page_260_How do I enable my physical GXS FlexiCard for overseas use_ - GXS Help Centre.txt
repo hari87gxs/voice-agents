@@ -1,0 +1,13 @@
+Title: How do I enable my physical GXS FlexiCard for overseas use? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiCard/Usage_of_GXS_FlexiCard/4How_do_I_enable_my_physical_GXS_FlexiCard_for_overseas_use%3F
+Scraped: 2025-11-28T02:06:32.447334
+Word Count: 54
+Is FAQ Answer: True
+
+================================================================================
+
+As a security measure, your physical GXS FlexiCard is disabled for overseas usage by default.
+To change this setting:
+On the GXS Bank app FlexiCard homescreen, tap on 'Manage'.
+Toggle 'Overseas Transactions' to enable or disable this feature.
+You can follow these steps anytime to enable or disable your GXS FlexiCard for overseas use.

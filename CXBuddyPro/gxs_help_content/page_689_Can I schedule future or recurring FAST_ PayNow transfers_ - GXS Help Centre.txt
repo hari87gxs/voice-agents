@@ -1,0 +1,18 @@
+Title: Can I schedule future or recurring FAST/ PayNow transfers? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/GXS_Biz_Account_Payments/Can_I_schedule_future_or_recurring_FAST%2F%2F_PayNow_transfers%3F#elm-main-content
+Scraped: 2025-11-28T02:30:13.571018
+Word Count: 94
+Is FAQ Answer: True
+
+================================================================================
+
+Yes, you can definitely schedule one-time or recurring FAST/PayNow transfers for a future date. Here’s how to do it in the GXS Bank app:
+1. Open your GXS Bank app.
+2. Tap on "Send Money" on the top bar.
+3. Select method of transfer.
+4. Enter the recipient's Account number or proxy details.
+5. Under "Types of transfers", choose "Scheduled transfer" and enter a name for the scheduled transfer.
+6. Select the transfer frequency.
+7. Set the start date.
+8. Select number of times to transfer.
+9. Review and approve the transfer schedule summary.

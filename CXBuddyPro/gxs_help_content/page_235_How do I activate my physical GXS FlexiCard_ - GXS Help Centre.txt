@@ -1,0 +1,15 @@
+Title: How do I activate my physical GXS FlexiCard? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiCard/Order_and_Delivery_of_GXS_FlexiCard/How_do_I_activate_my_physical_GXS_FlexiCard%3F
+Scraped: 2025-11-28T02:05:09.084132
+Word Count: 60
+Is FAQ Answer: True
+
+================================================================================
+
+Here's how you can activate your physical GXS FlexiCard upon receiving it:
+Log in to the GXS Bank app.
+On the GXS FlexiCard homescreen, tap on 'Activate'.
+Confirm and tap the 'Activate Card' button.
+Key in the 5-digit verification code found on your physical GXS FlexiCard mailer.
+Verify yourself using biometric authentication or your passcode.
+Enjoy using your GXS FlexiCard!

@@ -1,0 +1,13 @@
+Title: How do I download my GXS Biz Account monthly statements? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/GXS_Biz_Account_Statements/How_do_I_download_my_GXS_Biz_Account_monthly_statements%3F#elm-main-content
+Scraped: 2025-11-28T02:31:22.959580
+Word Count: 32
+Is FAQ Answer: True
+
+================================================================================
+
+Downloading your GXS Biz Account e-statements is easy. Simply:
+Go to 'GXS Biz Account'.
+Select 'More Options' (3 dots next to 'Account Balance').
+Tap 'Statements'.
+Select the month you wish to download.

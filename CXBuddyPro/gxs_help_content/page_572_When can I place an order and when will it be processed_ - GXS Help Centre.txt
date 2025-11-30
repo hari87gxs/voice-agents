@@ -1,0 +1,12 @@
+Title: When can I place an order and when will it be processed? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/GXS_Invest_Orders/When_can_I_place_an_order_and_when_will_it_be_processed%3F
+Scraped: 2025-11-28T02:23:55.808282
+Word Count: 84
+Is FAQ Answer: True
+
+================================================================================
+
+You can place a Buy or Sell order on the GXS Bank app at a time of your convenience.
+Orders placed before 3:30PM on a business day will be processed on the same day.
+Orders placed after 3:30PM on a business day or orders received on a non-business day will be processed the next business day.
+You can view the order status and estimated order completion date by tapping 'Transactions' on the GXS Invest home screen and selecting the relevant Buy or Sell order.

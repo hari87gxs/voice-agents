@@ -1,0 +1,18 @@
+Title: How much will I receive when I take a Balance Transfer? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan/Borrow_a_Balance_Transfer/How_much_will_I_receive_when_I_take_a_Balance_Transfer%3F
+Scraped: 2025-11-28T01:16:04.541845
+
+================================================================================
+
+The one-time processing fee forms part of the loan amount payable over the selected tenure.
+It will be deducted from the amount you have chosen to borrow. From there, the remaining amount will be disbursed to your selected PayNow account.
+For example:
+Loan Principal = Amount requested by you
+= S$10,000
+Processing fee percentage = 1.35%
+Processing fee amount = Processing fee percentage x Loan Principal
+= 1.35% x S$10,000
+= S$135
+Amount you will receive = Loan Principal - Fee amount
+= S$10,000 - S$135
+= S$9,865

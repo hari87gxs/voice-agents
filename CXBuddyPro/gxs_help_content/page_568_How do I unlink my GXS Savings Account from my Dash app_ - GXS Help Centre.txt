@@ -1,0 +1,11 @@
+Title: How do I unlink my GXS Savings Account from my Dash app? - GXS Help Centre
+URL: https://help.gxs.com.sg/Grab_and_Singtel_Experiences/GXS_on_Singtel_Dash/How_do_I_unlink_my_GXS_Savings_Account_from_my_Dash_app%3F
+Scraped: 2025-11-28T02:23:43.724848
+Word Count: 35
+Is FAQ Answer: True
+
+================================================================================
+
+Go to the 'Account' tab at the bottom right corner of your Dash app.
+Select 'GXS Account'.
+Select 'Unlink your GXS account from Dash'. You can also choose 'Cancel' if you change your mind :)

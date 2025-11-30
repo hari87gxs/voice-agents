@@ -1,0 +1,10 @@
+Title: Why can't I transfer funds to crypto platforms? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Keeping_Your_Payments_Secure/Why_can't_I_transfer_funds_to_crypto_platforms%3F
+Scraped: 2025-11-28T02:09:14.402077
+Word Count: 42
+Is FAQ Answer: True
+
+================================================================================
+
+We're adding an extra layer of security to keep your account safe. This means that transactions to crypto platforms will also be blocked for now.
+We understand that this may be disruptive and potentially inconvenient, but it's all about safeguarding your funds.

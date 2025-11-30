@@ -1,0 +1,17 @@
+Title: How do I cancel my GXS Debit Card? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Debit_Card/Usage_of_GXS_Debit_Card/How_do_I_cancel_my_GXS_Debit_Card%3F
+Scraped: 2025-11-28T02:03:44.373057
+Word Count: 135
+Is FAQ Answer: True
+
+================================================================================
+
+We highly recommend keeping your GXS Debit Card so that you can transact by accessing the funds in your GXS Savings Account. Cancelling your virtual GXS Debit Card will also cancel your physical card, if you have one.
+If you wish to proceed:
+On the GXS Bank app home screen, click on the Debit Card icon by your GXS Savings Account balance.
+Tap on 'Settings'.
+Tap on 'Manage Card'.
+Select 'Cancel card'.
+Select 'Cancel card' again to confirm.
+Do note that cancelling your card cannot be undone. You will have to create a new card via the GXS App to use the card features. You will also have to place a new order for the physical card.
+If you do cancel your card, please cut the physical card and dispose of it for security reasons.

@@ -1,0 +1,11 @@
+Title: Who do you share my personal data with? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Your_Data_Privacy/Who_do_you_share_my_personal_data_with%3F
+Scraped: 2025-11-28T02:12:11.621774
+Word Count: 53
+Is FAQ Answer: True
+
+================================================================================
+
+To deliver our products and services, we may disclose your personal data to various parties set out in our
+Data Privacy Policy (DPP)
+. While your personal data may be shared with third parties when necessary, we ensure that this is in accordance with applicable laws and all parties' agreement under the DPP.

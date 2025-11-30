@@ -1,0 +1,16 @@
+Title: What are the available crediting methods when I wish to sell my investments? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/GXS_Invest_Orders/What_are_the_available_crediting_methods_when_I_wish_to_sell_my_investments%3F#elm-main-content
+Scraped: 2025-11-28T02:30:40.207958
+Word Count: 141
+Is FAQ Answer: True
+
+================================================================================
+
+Currently, you can only receive the redemption proceeds into the Main Account of your GXS Savings Account. Simply follow these steps:
+1. Log in to the GXS Bank app and proceed to the GXS Invest home screen.
+2. On the ‘Sell Order’ page, select GXS Savings Account Main Account as your crediting method.
+3. Key in a Sell amount. Do ensure the amount does not exceed your ‘Available Amount’*.
+4. Review your order details in the order summary page.
+5. Acknowledge that you have read the Invest Account Terms, Fund Documents as well as Risk Disclosures.
+6. Tap on ‘Sell’ to proceed with the redemption.
+*Available amount is the amount you can redeem, excluding any pending Sell order(s). If you have recently made any Buy order(s), that amount can only be redeemed after 2 business days from the day of purchase.

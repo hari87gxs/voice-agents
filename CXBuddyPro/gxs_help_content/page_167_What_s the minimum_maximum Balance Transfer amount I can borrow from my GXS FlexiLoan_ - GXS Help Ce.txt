@@ -1,0 +1,8 @@
+Title: What's the minimum/maximum Balance Transfer amount I can borrow from my GXS FlexiLoan? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan/Borrow_a_Balance_Transfer/What's_the_minimum%2F%2Fmaximum_Balance_Transfer_amount_I_can_borrow_from_my_GXS_FlexiLoan%3F
+Scraped: 2025-11-28T01:16:07.978188
+
+================================================================================
+
+The minimum Balance Transfer loan amount you can borrow from your available limit is S$1,000. The maximum is capped at your total available Balance Transfer credit limit.
+Do note that even though you may have an available credit limit, you cannot borrow more loans if you currently have 10 loans that are not fully repaid.

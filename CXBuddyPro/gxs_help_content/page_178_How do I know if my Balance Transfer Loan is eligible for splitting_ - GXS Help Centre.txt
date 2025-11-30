@@ -1,0 +1,11 @@
+Title: How do I know if my Balance Transfer Loan is eligible for splitting? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan/Split_a_Balance_Transfer/How_do_I_know_if_my_Balance_Transfer_Loan_is_eligible_for_splitting%3F
+Scraped: 2025-11-28T01:16:44.901850
+
+================================================================================
+
+Eligibility for conversion depends on several factors. The best way to check your eligibility will be through the GXS Bank app. The option to convert your Balance Transfer Loan into an Instalment Loan will be visible to you on your GXS FlexiLoan home screen.
+Some reasons why you may not be eligible may include:
+You currently have loans which are overdue
+The outstanding balance on your Balance Transfer Loan is less than S$200
+Your account is currently suspended from further borrowing

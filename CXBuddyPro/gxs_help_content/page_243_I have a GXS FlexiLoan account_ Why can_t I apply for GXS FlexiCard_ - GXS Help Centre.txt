@@ -1,0 +1,9 @@
+Title: I have a GXS FlexiLoan account. Why can’t I apply for GXS FlexiCard? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiCard/Apply_for_a_GXS_FlexiCard/I_have_a_GXS_FlexiLoan_account._Why_can%E2%80%99t_I_apply_for_GXS_FlexiCard%3F
+Scraped: 2025-11-28T02:05:33.586652
+Word Count: 51
+Is FAQ Answer: True
+
+================================================================================
+
+We're sorry we can't offer you a GXS FlexiCard right now. We can only provide either a GXS FlexiLoan or a GXS FlexiCard to a customer. This means that if you already have a GXS FlexiLoan account, or have closed your GXS FlexiLoan account, you aren't eligible for a GXS FlexiCard.

@@ -1,0 +1,9 @@
+Title: What info do I need to be sure of before sending money via Scan QR? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/GXS_Biz_Account_Payments/What_info_do_I_need_to_be_sure_of_before_sending_money_via_Scan_QR%3F#elm-main-content
+Scraped: 2025-11-28T02:36:05.732034
+Word Count: 41
+Is FAQ Answer: True
+
+================================================================================
+
+You should check that the individual's mobile number, NRIC, FIN or merchant's UEN number and registered name displayed on the screen are correct before proceeding to send money via Scan QR. Do confirm with the individual or merchant if you're unsure!

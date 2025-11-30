@@ -1,0 +1,9 @@
+Title: Can I abandon or cancel a mission on Odyssey? - GXS Help Centre
+URL: https://help.gxs.com.sg/Odyssey/Mission/Can_I_abandon_or_cancel_a_mission_on_Odyssey%3F
+Scraped: 2025-11-28T02:08:37.605550
+Word Count: 29
+Is FAQ Answer: True
+
+================================================================================
+
+If you choose not to complete a mission, you can simply wait for it to expire. The mission will no longer be available once the expiration date has passed.

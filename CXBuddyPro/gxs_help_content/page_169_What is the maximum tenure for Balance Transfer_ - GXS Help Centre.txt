@@ -1,0 +1,7 @@
+Title: What is the maximum tenure for Balance Transfer? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan/Borrow_a_Balance_Transfer/What_is_the_maximum_tenure_for_Balance_Transfer%3F
+Scraped: 2025-11-28T01:16:14.241337
+
+================================================================================
+
+You will be able to select a Balance Transfer tenure between 4 and 12 months (as assigned by the bank).

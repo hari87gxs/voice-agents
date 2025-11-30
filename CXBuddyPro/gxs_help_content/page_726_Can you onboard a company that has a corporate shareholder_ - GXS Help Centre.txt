@@ -1,0 +1,9 @@
+Title: Can you onboard a company that has a corporate shareholder? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/Open_a_GXS_Biz_Account/Can_you_onboard_a_company_that_has_a_corporate_shareholder%3F#elm-main-content
+Scraped: 2025-11-28T02:32:07.020263
+Word Count: 24
+Is FAQ Answer: True
+
+================================================================================
+
+Unfortunately, no. At this time, we are only able to support companies whose shareholders are individuals. We apologise for any inconvenience this may cause.

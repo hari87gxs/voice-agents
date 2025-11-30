@@ -1,0 +1,9 @@
+Title: Why do I see total earned rewards on the 'Share my Progress' screen even though I have not completed any missions? - GXS Help Centre
+URL: https://help.gxs.com.sg/Odyssey/Miscellaneous/Why_do_I_see_total_earned_rewards_on_the_'Share_my_Progress'_screen_even_though_I_have_not_completed_any_missions%3F
+Scraped: 2025-11-28T02:07:49.368722
+Word Count: 24
+Is FAQ Answer: True
+
+================================================================================
+
+The total earned rewards that you see on this screen comprises any Debit Card spend rewards that you have earned in GXS so far.

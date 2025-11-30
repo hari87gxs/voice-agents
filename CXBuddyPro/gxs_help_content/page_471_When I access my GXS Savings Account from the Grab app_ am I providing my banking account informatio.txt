@@ -1,0 +1,9 @@
+Title: When I access my GXS Savings Account from the Grab app, am I providing my banking account information to Grab? - GXS Help Centre
+URL: https://help.gxs.com.sg/Grab_and_Singtel_Experiences/Sign_Up_for_GXS_on_Grab/When_I_access_my_GXS_Savings_Account_from_the_Grab_app%2C_am_I_providing_my_banking_account_information_to_Grab%3F
+Scraped: 2025-11-28T02:17:26.507004
+Word Count: 48
+Is FAQ Answer: True
+
+================================================================================
+
+No. Your privacy and security are of paramount importance. Once you click on the 'GXS Savings Account' tile on your Grab app, you are accessing the GXS platform exclusively. Everything you do here (including onboarding and accessing your account) is kept secure by GXS and separate from Grab.

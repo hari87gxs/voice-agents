@@ -1,0 +1,11 @@
+Title: How do I view my GXS FlexiCard account details? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiCard/Usage_of_GXS_FlexiCard/How_do_I_view_my_GXS_FlexiCard_account_details%3F
+Scraped: 2025-11-28T02:05:06.001681
+Word Count: 38
+Is FAQ Answer: True
+
+================================================================================
+
+You can do this easily by logging in to the GXS Bank app.
+On the GXS FlexiCard homescreen, tap on 'Card Details'.
+You will be able to see your card number, expiry date, CVV and 'Name on Card'.

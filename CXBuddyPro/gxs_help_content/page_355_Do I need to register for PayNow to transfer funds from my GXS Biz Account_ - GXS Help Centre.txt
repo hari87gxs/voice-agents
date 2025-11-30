@@ -1,0 +1,9 @@
+Title: Do I need to register for PayNow to transfer funds from my GXS Biz Account? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/GXS_Biz_Account_Payments/Do_I_need_to_register_for_PayNow_to_transfer_funds_from_my_GXS_Biz_Account%3F
+Scraped: 2025-11-28T02:11:30.926942
+Word Count: 56
+Is FAQ Answer: True
+
+================================================================================
+
+You don't need to register for PayNow to send funds from your GXS Biz Account. You can make PayNow payments without any prior registration. However, if you'd like to receive PayNow payments using your UEN or UEN with a suffix, you'll need to complete a one-time registration to link those details to your GXS Biz Account.

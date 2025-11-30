@@ -1,0 +1,15 @@
+Title: How do I link my bank account to make a GXS FlexiCard payment? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiCard/GXS_FlexiCard_Payment/How_do_I_link_my_bank_account_to_make_a_GXS_FlexiCard_payment%3F
+Scraped: 2025-11-28T02:05:39.655016
+Word Count: 75
+Is FAQ Answer: True
+
+================================================================================
+
+If you already have a linked bank account to your GXS Savings Account, it will be available for GXS FlexiCard payments as well.
+To link an external bank account, follow these steps:
+Log in to the GXS Bank app.
+Go to the GXS FlexiCard payment screen.
+Tap on ‘Link bank account’.
+Select your preferred bank, confirm your selection in the ‘Review’ screen, and tap ‘Next’.
+Complete the set up on your selected bank’s portal/web page.

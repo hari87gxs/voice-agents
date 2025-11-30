@@ -1,0 +1,10 @@
+Title: Why do my available units for redemption differ from my current value? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/GXS_Invest_Orders/Why_do_my_available_units_for_redemption_differ_from_my_current_value%3F
+Scraped: 2025-11-28T02:21:38.722209
+Word Count: 44
+Is FAQ Answer: True
+
+================================================================================
+
+The units eligible for redemption do not include those associated with any existing pending Sell orders.
+Additionally, if you have recently placed a Buy order, the corresponding amount can only be redeemed after a waiting period of 2 business days from the trade date.

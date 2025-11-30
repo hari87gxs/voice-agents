@@ -1,0 +1,13 @@
+Title: How do I link and pay with my GXS Savings Account on My Singtel app? - GXS Help Centre
+URL: https://help.gxs.com.sg/Grab_and_Singtel_Experiences/My_Singtel_App/How_do_I_link_and_pay_with_my_GXS_Savings_Account_on_My_Singtel_app%3F
+Scraped: 2025-11-28T02:19:48.982858
+Word Count: 60
+Is FAQ Answer: True
+
+================================================================================
+
+Here’s how you can link your GXS Savings Account to My Singtel app:
+1. Open your My Singtel app and go to 'Pay bill' tab.
+2. Select the 'Link GXS Savings Account'.
+3. Follow the on-screen instructions to link your GXS Savings Account.
+Once done, select your GXS Savings Account as the debiting account for payment on My Singtel app.

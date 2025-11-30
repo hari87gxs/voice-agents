@@ -1,0 +1,13 @@
+Title: What is Singpass Face Verification? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Using_the_App/What_is_Singpass_Face_Verification%3F
+Scraped: 2025-11-28T02:14:01.823521
+Word Count: 85
+Is FAQ Answer: True
+
+================================================================================
+
+Singpass Face Verification is designed to provide a convenient and secure way for users to access various government and private sector services in Singapore. This method enhances security by adding an additional layer of authentication beyond traditional passwords or PINs.
+The process typically involves the user taking a live photo or scanning their face using their device's camera. The system then compares this live image against the government's records (CPF Board).
+For more information on Singpass Face Verification, you can refer to
+Singpass Helpdesk
+.

@@ -1,0 +1,12 @@
+Title: Is there a daily limit for outgoing PayNow transactions when I use Scan QR on the GXS Bank app? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/GXS_Biz_Account_Payments/Is_there_a_daily_limit_for_outgoing_PayNow_transactions_when_I_use_Scan_QR_on_the_GXS_Bank_app%3F
+Scraped: 2025-11-28T02:10:15.828090
+Word Count: 68
+Is FAQ Answer: True
+
+================================================================================
+
+Yes, there is a daily limit for PayNow transactions using the Scan QR feature on the GXS Bank app. This limit is connected to your GXS Biz Account's daily transfer limit, which is set at a default of S$10,000. If you need to change this limit, you can do so by following these steps:
+1. Go to 'Profile'.
+2. Tap on 'Change Limits'.
+3. Select 'Daily Transfer Limit'.

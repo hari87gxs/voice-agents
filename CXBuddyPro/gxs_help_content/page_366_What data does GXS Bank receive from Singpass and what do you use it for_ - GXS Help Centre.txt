@@ -1,0 +1,27 @@
+Title: What data does GXS Bank receive from Singpass and what do you use it for? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Your_Data_Privacy/What_data_does_GXS_Bank_receive_from_Singpass_and_what_do_you_use_it_for%3F
+Scraped: 2025-11-28T02:12:05.784159
+Word Count: 77
+Is FAQ Answer: True
+
+================================================================================
+
+With your consent, GXS receives the necessary information from Singpass Myinfo to onboard you as our customer. Here's the list of data required from Singpass Myinfo:
+Full Name
+Alias Name
+Hanyu Pinyin Name
+Nationality
+Citizenship
+Date of Birth
+Country of Birth
+Sex
+Marital Status
+NRIC
+Passport Number
+Passport Expiry Date
+FIN
+FIN Expiry Date
+Occupation
+Name of employer
+Annual Income Range
+For GXS Business Banking account applicants, your ACRA information will also be shared with GXS Bank.

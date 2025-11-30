@@ -1,0 +1,13 @@
+Title: Where can I see my overall progress on Odyssey? - GXS Help Centre
+URL: https://help.gxs.com.sg/Odyssey/Introduction/Where_can_I_see_my_overall_progress_on_Odyssey%3F
+Scraped: 2025-11-28T02:08:46.953714
+Word Count: 51
+Is FAQ Answer: True
+
+================================================================================
+
+Here's a quick guide to view your progress:
+Go to the Odyssey homepage.
+Click on the ellipsis (...) on the top right hand corner.
+Click on 'Share your progress'.
+From here, you'll be able to see the total number of missions you've completed, as well as all the rewards you've received.

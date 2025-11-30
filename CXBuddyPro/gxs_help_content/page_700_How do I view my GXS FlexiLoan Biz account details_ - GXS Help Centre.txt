@@ -1,0 +1,11 @@
+Title: How do I view my GXS FlexiLoan Biz account details? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan_Biz/Manage_GXS_FlexiLoan_Biz/How_do_I_view_my_GXS_FlexiLoan_Biz_account_details%3F#elm-main-content
+Scraped: 2025-11-28T02:30:46.174080
+Word Count: 27
+Is FAQ Answer: True
+
+================================================================================
+
+Log in to your GXS Bank app.
+Tap on the GXS FlexiLoan Biz icon.
+You'll be able to view your account number, available limit and borrowed loan(s).

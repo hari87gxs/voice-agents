@@ -1,0 +1,9 @@
+Title: What happens when I unlink my GXS Savings Account from Grab app? - GXS Help Centre
+URL: https://help.gxs.com.sg/Grab_and_Singtel_Experiences/GXS_on_Grab/What_happens_when_I_unlink_my_GXS_Savings_Account_from_Grab_app%3F#elm-main-content
+Scraped: 2025-11-28T02:36:17.998819
+Word Count: 50
+Is FAQ Answer: True
+
+================================================================================
+
+You will not be able to view your GXS Savings Account balance and account number, and access selected GXS services and products through the Grab app. You will also not enjoy GXS Payment Reward on eligible transactions. However, you may relink anytime via the GXS tile in the Grab app.

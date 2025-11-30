@@ -1,0 +1,10 @@
+Title: What are fresh funds and how is it calculated? - GXS Help Centre
+URL: https://help.gxs.com.sg/Promotions/Pocket_is_Right_campaign/What_are_fresh_funds_and_how_is_it_calculated%3F
+Scraped: 2025-11-28T02:26:23.690629
+Word Count: 66
+Is FAQ Answer: True
+
+================================================================================
+
+Fresh funds means funds not transferred or withdrawn from any existing GXS Savings Account (i.e. not transferred from a Main Account, any Saving Pocket, or any Boost Pocket), and re-deposited into your GXS Savings Account.
+For this Campaign, fresh funds will be the incremental amount of balances in your GXS Savings Account over the total balances in your GXS Savings Account as of 31 March 2025.

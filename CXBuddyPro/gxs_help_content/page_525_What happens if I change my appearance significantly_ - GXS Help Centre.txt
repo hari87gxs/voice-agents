@@ -1,0 +1,12 @@
+Title: What happens if I change my appearance significantly? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Using_the_App/What_happens_if_I_change_my_appearance_significantly%3F
+Scraped: 2025-11-28T02:21:17.451073
+Word Count: 63
+Is FAQ Answer: True
+
+================================================================================
+
+If you have undergone significant changes in your appearance, such as major weight loss, surgery, or other alterations that substantially affect your face features, it is important to update your photo in the Singpass system. This ensures that the Singpass Face Verification process continues to work accurately and efficiently.
+For more information on Singpass Face Verification, you can refer to
+Singpass Helpdesk
+.

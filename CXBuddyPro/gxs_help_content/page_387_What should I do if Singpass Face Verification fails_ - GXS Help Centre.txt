@@ -1,0 +1,20 @@
+Title: What should I do if Singpass Face Verification fails? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Using_the_App/What_should_I_do_if_Singpass_Face_Verification_fails%3F
+Scraped: 2025-11-28T02:13:11.943769
+Word Count: 120
+Is FAQ Answer: True
+
+================================================================================
+
+There are several steps you can take to troubleshoot and resolve the issue:
+Check Lighting and Visibility:
+Ensure that your face is well-lit and clearly visible. Poor lighting conditions can interfere with the face recognition process.
+Remove any accessories that might obscure your face, such as sunglasses, hats, or masks. These can prevent the system from getting a clear view of your face features.
+Camera Functionality:
+Make sure your device's camera is functioning properly. Clean the camera lens to ensure there are no smudges or dirt affecting the image quality.
+Verify that your camera is not damaged and is capable of capturing clear images.
+Reference:
+https://ask.gov.sg/singpass/question...agencyhomepage
+If the issue persists, you may need to contact
+Singpass Helpdesk
+for further assistance.

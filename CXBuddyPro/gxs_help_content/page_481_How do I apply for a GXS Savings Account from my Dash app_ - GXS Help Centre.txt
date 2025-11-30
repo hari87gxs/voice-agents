@@ -1,0 +1,9 @@
+Title: How do I apply for a GXS Savings Account from my Dash app? - GXS Help Centre
+URL: https://help.gxs.com.sg/Grab_and_Singtel_Experiences/Sign_Up_for_GXS_on_Singtel_Dash/How_do_I_apply_for_a_GXS_Savings_Account_from_my_Dash_app%3F
+Scraped: 2025-11-28T02:17:56.008209
+Word Count: 23
+Is FAQ Answer: True
+
+================================================================================
+
+From your Dash app home screen, tap on the 'Activate GXS Savings Account' tile. Just follow the instructions and voilà! It’s that simple.

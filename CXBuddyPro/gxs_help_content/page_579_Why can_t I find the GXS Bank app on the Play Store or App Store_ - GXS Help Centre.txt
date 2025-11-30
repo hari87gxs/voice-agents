@@ -1,0 +1,9 @@
+Title: Why can't I find the GXS Bank app on the Play Store or App Store? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Using_the_App/Why_can't_I_find_the_GXS_Bank_app_on_the_Play_Store_or_App_Store%3F
+Scraped: 2025-11-28T02:24:16.272859
+Word Count: 33
+Is FAQ Answer: True
+
+================================================================================
+
+At the moment, only users with their profiles set to Singapore can find us on the App Store or Play Store. This is something you can change easily in your device's account settings.

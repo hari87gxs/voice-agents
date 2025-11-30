@@ -1,0 +1,15 @@
+Title: How do I change my mobile number on my GXS profile? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Update_Personal_Details/How_do_I_change_my_mobile_number_on_my_GXS_profile%3F
+Scraped: 2025-11-28T02:11:56.679308
+Word Count: 31
+Is FAQ Answer: True
+
+================================================================================
+
+To update your mobile number,
+Go to your 'Me' page.
+Tap 'Edit Profile'.
+Select your mobile number.
+Perform verification via biometric or passcode authentication.
+Key in the SMS OTP.
+You’re done!

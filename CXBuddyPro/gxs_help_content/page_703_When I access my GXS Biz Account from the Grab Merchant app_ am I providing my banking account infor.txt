@@ -1,0 +1,9 @@
+Title: When I access my GXS Biz Account from the Grab Merchant app, am I providing my banking account information to Grab? - GXS Help Centre
+URL: https://help.gxs.com.sg/?title=GXS_Biz_Account/Grab_%26_Singtel_Experiences/When_I_access_my_GXS_Biz_Account_from_the_Grab_Merchant_app,_am_I_providing_my_banking_account_information_to_Grab%3F#elm-main-content
+Scraped: 2025-11-28T02:30:55.890843
+Word Count: 19
+Is FAQ Answer: True
+
+================================================================================
+
+Rest assured that your banking account information is always kept safe and secure with us and separate from Grab.

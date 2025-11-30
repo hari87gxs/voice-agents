@@ -1,0 +1,9 @@
+Title: If I update my personal details on SingPass after opening a GXS Savings Account, will my details on GXS be updated as well? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Singpass_and_My_GXS_Account/If_I_update_my_personal_details_on_SingPass_after_opening_a_GXS_Savings_Account%2C_will_my_details_on_GXS_be_updated_as_well%3F
+Scraped: 2025-11-28T02:12:41.325963
+Word Count: 20
+Is FAQ Answer: True
+
+================================================================================
+
+Unfortunately not. To keep us updated, log in to the GXS Bank app and select 'Edit Profile' to make changes.

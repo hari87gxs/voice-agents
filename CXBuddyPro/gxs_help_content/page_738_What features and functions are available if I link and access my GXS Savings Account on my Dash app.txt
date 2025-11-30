@@ -1,0 +1,15 @@
+Title: What features and functions are available if I link and access my GXS Savings Account on my Dash app? - GXS Help Centre
+URL: https://help.gxs.com.sg/Grab_and_Singtel_Experiences/Sign_Up_for_GXS_on_Singtel_Dash/What_features_and_functions_are_available_if_I_link_and_access_my_GXS_Savings_Account_on_my_Dash_app%3F#elm-main-content
+Scraped: 2025-11-28T02:32:43.783149
+Word Count: 72
+Is FAQ Answer: True
+
+================================================================================
+
+You will be able to do simple banking activities with GXS right within the Dash app, such as:
+Link/unlink GXS Savings Account from Dash app.
+Update daily transaction limit for linked GXS Savings Account on Dash app.
+View account details of linked GXS Savings Account.
+Send money directly from your linked GXS Savings Account.
+Top up Dash wallet from GXS Savings Account.
+Make QR payments directly from your linked GXS Savings Account.

@@ -1,0 +1,13 @@
+Title: How do I send money to another bank account via FAST? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Send_Money/How_do_I_send_money_to_another_bank_account_via_FAST%3F
+Scraped: 2025-11-28T02:10:30.945535
+Word Count: 36
+Is FAQ Answer: True
+
+================================================================================
+
+On the GXS Bank app, press 'Send Money' and 'Account Number'. You will need the
+Recipient's Name,
+Bank name,
+Account number.
+Don’t forget to enter the amount you wish to transfer and you’re good to go.

@@ -1,0 +1,9 @@
+Title: How are fresh funds calculated? - GXS Help Centre
+URL: https://help.gxs.com.sg/Promotions/Pocket_is_Right_campaign/How_are_fresh_funds_calculated%3F
+Scraped: 2025-11-28T02:25:43.643280
+Word Count: 25
+Is FAQ Answer: True
+
+================================================================================
+
+Fresh funds is the incremental amount of balances in your GXS Savings Account over the total balances in your account as of 31 March 2025.

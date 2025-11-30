@@ -1,0 +1,9 @@
+Title: Will I receive a notification upon the closure of my GXS Invest account? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/Closing_your_GXS_Invest_Account/Will_I_receive_a_notification_upon_the_closure_of_my_GXS_Invest_account%3F
+Scraped: 2025-11-28T02:10:18.915964
+Word Count: 15
+Is FAQ Answer: True
+
+================================================================================
+
+Yes, we’ll send you an email to acknowledge the closure of your GXS Invest account.

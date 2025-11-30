@@ -1,0 +1,9 @@
+Title: I did not receive a refund from a merchant. What should I do? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiCard/Manage_FlexiCard_Disputes_and_Issues/I_did_not_receive_a_refund_from_a_merchant._What_should_I_do%3F
+Scraped: 2025-11-28T02:05:36.599655
+Word Count: 37
+Is FAQ Answer: True
+
+================================================================================
+
+A refund needs to be processed by the merchant before refunded to your GXS FlexiCard account. If you're expecting a refund that isn't showing up in your account, please reach out to the merchant for more assistance.

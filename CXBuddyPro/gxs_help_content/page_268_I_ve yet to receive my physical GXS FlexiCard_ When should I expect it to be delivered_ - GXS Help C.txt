@@ -1,0 +1,16 @@
+Title: I've yet to receive my physical GXS FlexiCard. When should I expect it to be delivered? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiCard/Order_and_Delivery_of_GXS_FlexiCard/I've_yet_to_receive_my_physical_GXS_FlexiCard._When_should_I_expect_it_to_be_delivered%3F
+Scraped: 2025-11-28T02:06:58.046934
+Word Count: 115
+Is FAQ Answer: True
+
+================================================================================
+
+Your physical GXS FlexiCard should be delivered to your mailing address within 5 business days after application. During festive periods, it may take longer for the card to reach you.
+You may also wish to check that your mailing address is correct via the GXS Bank app:
+Go to 'Profile' and tap on 'Mailing Address'.
+If the address is incorrect, you can cancel and re-order your card. You can do so under 'Manage Card'.
+If you require further assistance, please reach out to us via the GXS Help Centre:
+GXS Bank app, Help Centre: GXS Chat
+GXS Bank app, Help Centre: Contact Us form
+GXS Hotline: 1800 866 6685 or (+65) 6866 6685 (from overseas)

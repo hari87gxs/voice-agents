@@ -1,0 +1,14 @@
+Title: How can I change my Odyssey financial goals preferences and settings? - GXS Help Centre
+URL: https://help.gxs.com.sg/Odyssey/Introduction/How_can_I_change_my_Odyssey_financial_goals_preferences_and_settings%3F
+Scraped: 2025-11-28T02:07:36.891785
+Word Count: 42
+Is FAQ Answer: True
+
+================================================================================
+
+It's simple! Change your goal preferences via the Settings page. Here's how:
+Go to the Odyssey homepage.
+Click on the ellipsis (...) on the top right hand corner.
+Click on 'Edit Preferences'.
+Click on 'Financial Goals'.
+Make your changes and click 'Save'.

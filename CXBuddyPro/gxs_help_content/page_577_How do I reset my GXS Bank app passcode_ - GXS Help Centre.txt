@@ -1,0 +1,25 @@
+Title: How do I reset my GXS Bank app passcode? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Using_the_App/How_do_I_reset_my_GXS_Bank_app_passcode%3F
+Scraped: 2025-11-28T02:24:10.605690
+Word Count: 150
+Is FAQ Answer: True
+
+================================================================================
+
+If you've forgotten your passcode,
+There are 2 ways to reset your passcode on the GXS Bank app:
+On your current device:
+1. On the login screen, tap 'Forgot Passcode?'
+2. You will be prompted to verify your identity on Singpass before you can reset your passcode.
+3. After logging into GXS, you will then be required to create a new GXS passcode.
+On a new device:
+Verify your identity via Singpass. An OTP will be sent to your registered email address.
+Tap 'Forgot Passcode?'
+Key in the OTP that is sent to your registered mobile number and you can reset your passcode.
+If you'd just like to change your passcode,
+Tap 'Me'.
+Select 'Change Passcode' under 'Settings'.
+You will need to key in your current passcode before you can update to a new one.
+If you are encountering issues with your Singpass login, do have a read
+here
+.

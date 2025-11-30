@@ -1,0 +1,8 @@
+Title: What is the difference between an unauthorised transaction and an erroneous transaction? - GXS Help Centre
+URL: https://help.gxs.com.sg/Emergencies/Payment_Issues/What_is_the_difference_between_an_unauthorised_transaction_and_an_erroneous_transaction%3F
+Scraped: 2025-11-28T01:08:09.885551
+
+================================================================================
+
+An unauthorised transaction refers to a payment transaction initiated by any person without your knowledge and consent. Such a transaction may be a transaction you don't recognise or was not made by you.
+An erroneous transaction refers to a payment transaction from any account to the wrong recipient. Such a transaction may have been initiated by you and paid to the wrong person, or initiated by someone else and paid to you. This can happen if the wrong payment details (e.g. account number, phone number or NRIC) are keyed in during the transfer.

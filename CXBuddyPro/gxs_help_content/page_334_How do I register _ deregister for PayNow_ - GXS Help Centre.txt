@@ -1,0 +1,20 @@
+Title: How do I register / deregister for PayNow? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/GXS_Biz_Account_Payments/How_do_I_register_%2F%2F_deregister_for_PayNow%3F
+Scraped: 2025-11-28T02:10:25.022377
+Word Count: 146
+Is FAQ Answer: True
+
+================================================================================
+
+Linking or unlinking your GXS Biz Account with PayNow is straightforward with the GXS Bank app! Here's how:
+1. Login to your GXS Bank app. Go to 'Profile'.
+2. Under 'Profile', click 'Manage PayNow'.
+To register for PayNow:
+1. You can register for PayNow with your UEN and/or with a suffix.
+2. The PayNow name will be populated according to your company name. This is what others will see when they search for you via UEN.
+3. Click 'Confirm' and your registration is complete!
+To deregister for PayNow:
+In your profile, you will see the that are registered with PayNow. You can select which identifiers to deregister as below:
+1. Tap the three dots on the right of the registered identifier.
+2. Select 'Deregister' from the pop-up menu.
+3. Click 'Yes' to confirm your deregistration. We’ve also added in 'No' if you change your mind :)

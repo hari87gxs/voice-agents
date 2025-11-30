@@ -1,0 +1,10 @@
+Title: How is the annual management fee charged and reflected in the Unit Price of the Fullerton SGD Cash Fund? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/Fees_and_Charges/How_is_the_annual_management_fee_charged_and_reflected_in_the_Unit_Price_of_the_Fullerton_SGD_Cash_Fund%3F#elm-main-content
+Scraped: 2025-11-28T02:37:37.876328
+Word Count: 58
+Is FAQ Answer: True
+
+================================================================================
+
+The annual management fee is already factored into the Fund’s Unit Price on every dealing day, and no further deductions are made when fund units are bought or sold.
+For example, If the unit price on a given day is S$1.2008, the redemption proceeds you will receive from selling 1,000 units is exactly S$1,200.80 without any other charges.

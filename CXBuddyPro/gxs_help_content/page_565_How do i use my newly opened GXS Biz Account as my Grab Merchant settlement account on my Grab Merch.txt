@@ -1,0 +1,11 @@
+Title: How do i use my newly opened GXS Biz Account as my Grab Merchant settlement account on my Grab Merchant app? - GXS Help Centre
+URL: https://help.gxs.com.sg/?title=GXS_Biz_Account/Grab_%26_Singtel_Experiences/How_do_i_use_my_newly_opened_GXS_Biz_Account_as_my_Grab_Merchant_settlement_account_on_my_Grab_Merchant_app%3F
+Scraped: 2025-11-28T02:23:34.414576
+Word Count: 60
+Is FAQ Answer: True
+
+================================================================================
+
+From your Grab Merchant app homepage, you'll see the GXS Banking tile.
+Tap on it, select ‘Switch to GXS Biz Account’ and follow the guided instructions.
+Do note that once the account switch is approved, it will take around 3 business days for the GXS Biz Account to show up on your Grab Merchant app as your Grab settlement account.

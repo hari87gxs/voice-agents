@@ -1,0 +1,27 @@
+Title: How do I fund my GXS Savings Account? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Savings_Account/Fund_Account/How_do_I_fund_my_GXS_Savings_Account%3F
+Scraped: 2025-11-28T01:11:55.725121
+
+================================================================================
+
+You may fund your GXS Savings Account via the following methods:
+1) Via PayNow:
+a) If you’ve linked your GXS Savings Account with PayNow, you can input your NRIC or phone number in another bank account's details to transfer money to your GXS Savings Account.
+b) If you haven't linked your GXS Savings Account with PayNow,
+Go to 'Me'
+Under 'My account', click 'Manage PayNow'
+Register for PayNow with your NRIC or phone number
+Enter a PayNow nickname. This is what others will see when they search for you via NRIC/phone number
+Click 'Confirm' and your registration is complete!
+You may now transfer funds to your GXS Savings Account from another bank account (see 1a)
+2) Via FAST:
+On the GXS homescreen, tap 'Add money'.
+You’ll see your GXS beneficiary name, account number, bank name, bank code, and branch code
+Log in to the bank account you wish to transfer money from, to fund your GXS Savings Account
+Input your GXS Savings Account's details in another bank account's details to transfer money to your GXS Savings Account
+3) Via Inter-bank GIRO:
+On the GXS homescreen, tap 'Add money'.
+You’ll see your GXS beneficiary name, account number, bank name, bank code, and branch code
+Log in to the bank account you wish to transfer money from, to fund your GXS Savings Account and choose GIRO as an option
+Input your GXS Savings Account's details in another bank account's PayNow details to transfer money to your GXS Savings Account
+(Note: At the moment, we do not support the receipt of funds via Telegraphic Transfer, Cheque and Non-FAST transactions such as MEPS.)

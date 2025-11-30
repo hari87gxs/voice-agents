@@ -1,0 +1,13 @@
+Title: How do I view my GXS Debit Card information? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Debit_Card/Usage_of_GXS_Debit_Card/How_do_I_view_my_GXS_Debit_Card_information%3F
+Scraped: 2025-11-28T02:04:33.545177
+Word Count: 40
+Is FAQ Answer: True
+
+================================================================================
+
+You can view your GXS Debit Card details in the following steps:
+From the home screen, tap on 'Debit Card' icon.
+Tap on 'Card details' icon.
+Verify yourself via biometric or passcode.
+Tada, your virtual card details will be shown.

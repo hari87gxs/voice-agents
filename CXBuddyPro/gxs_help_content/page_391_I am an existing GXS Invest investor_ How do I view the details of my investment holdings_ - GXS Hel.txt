@@ -1,0 +1,13 @@
+Title: I am an existing GXS Invest investor. How do I view the details of my investment holdings? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/GXS_Invest_Features/I_am_an_existing_GXS_Invest_investor._How_do_I_view_the_details_of_my_investment_holdings%3F
+Scraped: 2025-11-28T02:13:30.893729
+Word Count: 66
+Is FAQ Answer: True
+
+================================================================================
+
+Follow the steps below to find details of your fund holdings:
+1. Log in to the GXS Bank app.
+2. Go to the GXS Invest home page.
+Here you can view the details of your investment including the current market value, total returns as well as your latest unit holdings and unit price.
+3. Tap on the ‘i’ button next to each field for more information.

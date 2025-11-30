@@ -1,0 +1,12 @@
+Title: Can I opt to have physical statements mailed to my address instead? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/GXS_Invest_Documentation/Can_I_opt_to_have_physical_statements_mailed_to_my_address_instead%3F#elm-main-content
+Scraped: 2025-11-28T02:29:18.480875
+Word Count: 32
+Is FAQ Answer: True
+
+================================================================================
+
+Unfortunately, we only issue electronic statements.
+You can view and download your GXS Invest e-statements anytime on the GXS Bank app. Here's how:
+1. On the homepage, click 'More'.
+2. Select 'Statements'.

@@ -1,0 +1,20 @@
+Title: How do I transfer funds to and from my GXS Biz Account? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/Fund_GXS_Biz_Account/How_do_I_transfer_funds_to_and_from_my_GXS_Biz_Account%3F#elm-main-content
+Scraped: 2025-11-28T02:38:08.889736
+Word Count: 73
+Is FAQ Answer: True
+
+================================================================================
+
+Here are the different ways to transfer funds to and from your GXS Biz Account:
+You can send funds via:
+FAST
+PayNow
+You can receive funds via:
+FAST
+PayNow QR
+At the moment, GXS Biz Account is unable to send or receive funds via the following methods:
+Telegraphic Transfer
+Cheque
+Non-FAST transactions such as GIRO, MEPS and eGIRO.
+Here is an overview of the different fund transfer limits for your GXS Biz Account:

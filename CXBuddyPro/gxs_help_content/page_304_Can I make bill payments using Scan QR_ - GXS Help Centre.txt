@@ -1,0 +1,10 @@
+Title: Can I make bill payments using Scan QR? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Using_Scan_QR/Can_I_make_bill_payments_using_Scan_QR%3F
+Scraped: 2025-11-28T02:08:52.666777
+Word Count: 31
+Is FAQ Answer: True
+
+================================================================================
+
+Applicable to retail accounts only
+Yes! With Scan QR, you can make bill payments via QR codes that support PayNow, as long as the amount is within your daily transaction limit.

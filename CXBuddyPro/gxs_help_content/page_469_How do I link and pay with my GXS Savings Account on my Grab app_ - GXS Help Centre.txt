@@ -1,0 +1,14 @@
+Title: How do I link and pay with my GXS Savings Account on my Grab app? - GXS Help Centre
+URL: https://help.gxs.com.sg/Grab_and_Singtel_Experiences/GXS_on_Grab/How_do_I_link_and_pay_with_my_GXS_Savings_Account_on_my_Grab_app%3F
+Scraped: 2025-11-28T02:17:57.106239
+Word Count: 139
+Is FAQ Answer: True
+
+================================================================================
+
+Here’s how you can link your GXS Savings Account to your Grab app:
+From your Grab app home screen, tap on the 'Finance' tab.
+Select 'Activate GXS Savings Account'.
+Follow the on-screen instructions to link your GXS Savings Account.
+Once done, you will be able to use your GXS Savings Account as a payment method for Grab Transport, Food, Mart or Express in the Grab app and earn 1.2X GrabRewards points each time! For even greater convenience, you may want to set your GXS Savings Account as the primary payment method.
+Do note that a 12-hour freeze for high risk transactions will be imposed upon linking your GXS Savings Account to Grab. During this period, you will not be able to transfer large amounts of cash or increase your daily transfer limit on your Grab and GXS Bank app.

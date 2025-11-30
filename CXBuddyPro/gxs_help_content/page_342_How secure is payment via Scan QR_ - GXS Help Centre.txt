@@ -1,0 +1,13 @@
+Title: How secure is payment via Scan QR? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Using_Scan_QR/How_secure_is_payment_via_Scan_QR%3F
+Scraped: 2025-11-28T02:10:51.871945
+Word Count: 52
+Is FAQ Answer: True
+
+================================================================================
+
+Applicable to retail accounts only
+Your payments via GXS Bank app are secure:
+All data is encrypted.
+You'll have to log in to the GXS Bank app via passcode or biometric authentication before you can transfer funds with Scan QR.
+Since Scan QR uses PayNow, all security requirements align with PayNow guidelines.

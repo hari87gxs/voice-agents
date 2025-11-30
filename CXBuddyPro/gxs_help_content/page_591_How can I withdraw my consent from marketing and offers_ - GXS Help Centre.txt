@@ -1,0 +1,11 @@
+Title: How can I withdraw my consent from marketing and offers? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Withdraw%2C_Access%2C_or_Correct_Your_Data/How_can_I_withdraw_my_consent_from_marketing_and_offers%3F
+Scraped: 2025-11-28T02:25:04.355011
+Word Count: 21
+Is FAQ Answer: True
+
+================================================================================
+
+To withdraw consent for marketing and offers:
+Click on 'Me'.
+Select 'Notifications and Emails', you may choose to withdraw consent here.

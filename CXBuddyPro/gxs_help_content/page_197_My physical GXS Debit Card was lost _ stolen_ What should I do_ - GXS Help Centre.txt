@@ -1,0 +1,27 @@
+Title: My physical GXS Debit Card was lost / stolen. What should I do? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Debit_Card/Manage_Card_Disputes_and_Issues/My_physical_GXS_Debit_Card_was_lost_%2F%2F_stolen._What_should_I_do%3F
+Scraped: 2025-11-28T02:03:07.684022
+Word Count: 228
+Is FAQ Answer: True
+
+================================================================================
+
+If you suspect that your GXS Debit Card is lost or compromised, please freeze your card to prevent any transactions:
+On the GXS Bank app home screen, tap on the debit card icon by your GXS Savings Account balance.
+Tap on 'Settings'.
+Tap on 'Manage Card'.
+Tap on 'Freeze Card'.
+Confirm the Freeze request.
+Freezing your card also means that both your virtual and physical GXS Debit Cards will be frozen.
+If you're certain that you have lost your GXS Debit Card, please cancel your card:
+On the GXS Bank app home screen, click on the debit card icon by your GXS Savings Account balance.
+Tap on 'Settings'.
+Tap on 'Manage Card'.
+Select 'Cancel card'.
+Select 'Cancel card' again to confirm.
+Once your card is successfully cancelled, you will be prompted to create a new GXS Debit Card.
+Cancelling your card using the above steps means that both your virtual and physical GXS Debit Cards will be cancelled. Your card can no longer be used.
+Replacing your GXS Debit Card is free. When you create a new GXS Debit Card, your card details such as your card number and CVC will change as well. This will affect any recurring arrangements you might have with your card, so please change your details accordingly with your billing merchants.
+If you have any unauthorised card transactions, raise a dispute
+here
+.

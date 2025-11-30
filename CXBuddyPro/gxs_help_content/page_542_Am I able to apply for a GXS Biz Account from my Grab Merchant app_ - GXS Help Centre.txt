@@ -1,0 +1,29 @@
+Title: Am I able to apply for a GXS Biz Account from my Grab Merchant app? - GXS Help Centre
+URL: https://help.gxs.com.sg/?title=GXS_Biz_Account/Grab_%26_Singtel_Experiences/Am_I_able_to_apply_for_a_GXS_Biz_Account_from_my_Grab_Merchant_app%3F
+Scraped: 2025-11-28T02:22:19.506386
+Word Count: 277
+Is FAQ Answer: True
+
+================================================================================
+
+Currently, GXS Biz Accounts can only be applied for via the GXS Bank app.
+To apply for a GXS Biz Account:
+Download the GXS Bank app from the App Store or Play Store.
+Launch the app and tap on 'GXS Biz Account - Sign up now'.
+Follow the on-screen instructions.
+You'll need to:
+Be at least 18 years old.
+Have a residential address in Singapore.
+Be a Singapore citizen or Singapore Permanent Resident.
+Have a Singpass Myinfo account.
+Have an active ACRA registration account.
+Not currently hold, and never have held, a GXS Savings Account, GXS FlexiLoan account, or GXS FlexiCard.
+Not currently hold, and never have held, a GXS Biz Account or a GXS FlexiLoan Biz account.
+Note - we currently do not accept applications from US citizens or residents. If we require additional documents, we will email you or send you a notification on the GXS Bank app.
+Your GXS Biz Account will be opened shortly after your documents have been reviewed and approved. We would like to share that your deposits with GXS Bank are aggregated and insured up to S$100,000 by the Singapore Deposit Insurance Corporation (SDIC).
+If you require assistance on your Singpass access, you may contact Singpass Helpdesk directly.
+Switching your Grab Merchant settlement account to GXS Biz Account:
+Once your GXS Biz Account is opened, log in to your Grab Merchant profile.
+On the home page, tap on the 'GXS Banking' tile.
+Select 'Switch to GXS Biz Account' and follow the instructions.
+Please note that it may take around 3 business days for the GXS Biz Account to show up on your Grab Merchant app as your Grab settlement account.

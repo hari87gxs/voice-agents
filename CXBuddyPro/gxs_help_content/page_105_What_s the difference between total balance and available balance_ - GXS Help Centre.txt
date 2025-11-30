@@ -1,0 +1,9 @@
+Title: What’s the difference between total balance and available balance? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Savings_Account/Manage_Account/What%E2%80%99s_the_difference_between_total_balance_and_available_balance%3F
+Scraped: 2025-11-28T01:12:41.458571
+
+================================================================================
+
+Your total balance includes both your available balance and earmarked balance.
+The available balance is the amount you have access to. You can use this money for transactions such as spending, withdrawal, and transfers.
+The earmarked balance refers to funds that are still processing or on hold, and cannot be used. Payments can’t be made with your earmarked funds.

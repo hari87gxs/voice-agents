@@ -1,0 +1,9 @@
+Title: How will the cooling-off period protect me? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Cooling-Off_Period/How_will_the_cooling-off_period_protect_me%3F
+Scraped: 2025-11-28T02:10:30.981378
+Word Count: 34
+Is FAQ Answer: True
+
+================================================================================
+
+This 12-hour cooling-off period provides buffer time before changes to your account are processed and enables you to review your account activity and report anything suspicious, like unauthorised transfers or changes to your account.

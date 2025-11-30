@@ -1,0 +1,11 @@
+Title: Can I opt out of the cooling-off period? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Cooling-Off_Period/Can_I_opt_out_of_the_cooling-off_period%3F
+Scraped: 2025-11-28T02:09:11.609652
+Word Count: 66
+Is FAQ Answer: True
+
+================================================================================
+
+This security measure is implemented for all GXS Bank app users such as you to ensure the security of your account and to prevent unauthorised transactions.
+You cannot opt out of or shorten the cooling-off period.
+Furthermore, our Customer Support Team cannot override or bypass this cooling-off period under any circumstances. We appreciate your understanding and patience in helping us maintain the security of your account.

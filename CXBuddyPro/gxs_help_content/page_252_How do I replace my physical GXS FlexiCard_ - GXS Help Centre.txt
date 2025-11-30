@@ -1,0 +1,15 @@
+Title: How do I replace my physical GXS FlexiCard? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiCard/Order_and_Delivery_of_GXS_FlexiCard/How_do_I_replace_my_physical_GXS_FlexiCard%3F
+Scraped: 2025-11-28T02:06:08.278812
+Word Count: 70
+Is FAQ Answer: True
+
+================================================================================
+
+Replacing your GXS FlexiCard is easy. Best of all, a replacement comes with no charge.
+To request for a new physical GXS FlexiCard, you'll first have to cancel your physical card. Here's how:
+Log in to the GXS Bank app.
+On the GXS FlexiCard homescreen, tap on 'Manage'.
+Select 'Cancel Card'.
+Select 'Cancel’ again to confirm.
+Once your card is successfully canceled, tap 'Yes' to create a new GXS FlexiCard.

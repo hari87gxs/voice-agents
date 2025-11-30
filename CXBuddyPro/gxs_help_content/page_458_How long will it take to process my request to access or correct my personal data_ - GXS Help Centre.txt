@@ -1,0 +1,9 @@
+Title: How long will it take to process my request to access or correct my personal data? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Withdraw%2C_Access%2C_or_Correct_Your_Data/How_long_will_it_take_to_process_my_request_to_access_or_correct_my_personal_data%3F
+Scraped: 2025-11-28T02:17:13.944402
+Word Count: 64
+Is FAQ Answer: True
+
+================================================================================
+
+We aim to process your request to access or correct your data as soon as possible. This is dependent on i) information that’s needed to verify and respond to your request and ii) what the law permits. You will receive a response on your request within 30 days. If we need more time, we will update you on when you can expect a response.

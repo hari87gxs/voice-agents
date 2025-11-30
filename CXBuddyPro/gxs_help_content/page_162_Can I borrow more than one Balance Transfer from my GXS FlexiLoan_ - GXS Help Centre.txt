@@ -1,0 +1,9 @@
+Title: Can I borrow more than one Balance Transfer from my GXS FlexiLoan? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan/Borrow_a_Balance_Transfer/Can_I_borrow_more_than_one_Balance_Transfer_from_my_GXS_FlexiLoan%3F
+Scraped: 2025-11-28T01:15:52.225295
+
+================================================================================
+
+Balance Transfer can only be taken once, unless otherwise allocated by the bank.
+Do note that in combination with Instalment Loans, you can only borrow up to 10 loans at any one point in time from your available credit.
+This means that if you have already taken 10 Instalment Loans, you will not be able to take a Balance Transfer until you have fully repaid at least 1 Instalment Loan.

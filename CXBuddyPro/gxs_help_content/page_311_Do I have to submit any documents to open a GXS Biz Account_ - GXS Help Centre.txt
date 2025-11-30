@@ -1,0 +1,10 @@
+Title: Do I have to submit any documents to open a GXS Biz Account? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/Open_a_GXS_Biz_Account/Do_I_have_to_submit_any_documents_to_open_a_GXS_Biz_Account%3F
+Scraped: 2025-11-28T02:09:16.533506
+Word Count: 56
+Is FAQ Answer: True
+
+================================================================================
+
+You'll be pleased to know that no documents are required to be uploaded when opening a GXS Biz Account with us. If we require additional documents, we will email or send you a notification on the GXS Bank app.
+Your individual details, business or sole proprietorship information will be extracted from Singpass MyInfo and ACRA respectively.

@@ -1,0 +1,15 @@
+Title: How do I change my email address on my GXS profile? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Update_Personal_Details/How_do_I_change_my_email_address_on_my_GXS_profile%3F
+Scraped: 2025-11-28T02:14:27.564137
+Word Count: 39
+Is FAQ Answer: True
+
+================================================================================
+
+To update your email address,
+Go to your 'Me' page.
+Tap 'Edit Profile'.
+Select your email address.
+Perform verification via biometric or passcode authentication.
+Key in the email OTP, which will be sent to your new email.
+You’re done!

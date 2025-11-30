@@ -1,0 +1,10 @@
+Title: I accidentally closed the GXS Bank app while applying halfway for a GXS Invest account. What should I do? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/Opening_a_GXS_Invest_Account/I_accidentally_closed_the_GXS_Bank_app_while_applying_halfway_for_a_GXS_Invest_account._What_should_I_do%3F
+Scraped: 2025-11-28T02:08:18.114510
+Word Count: 53
+Is FAQ Answer: True
+
+================================================================================
+
+If you've closed the GXS Bank app after setting your passcode, simply log in to the app and finish your application within 14 days from where you'd originally left off.
+If you didn’t manage to set a passcode, your information will be deleted for security, and you’ll have to start a new application.

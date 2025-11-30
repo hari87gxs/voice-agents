@@ -1,0 +1,9 @@
+Title: I've transferred funds to my GXS Biz Account via GIRO. When will the funds be credited to my account? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/Manage_GXS_Biz_Account/I've_transferred_funds_to_my_GXS_Biz_Account_via_GIRO._When_will_the_funds_be_credited_to_my_account%3F
+Scraped: 2025-11-28T02:10:22.147325
+Word Count: 18
+Is FAQ Answer: True
+
+================================================================================
+
+As we currently don’t support GIRO arrangements, do check with the sender bank if the funds were returned.

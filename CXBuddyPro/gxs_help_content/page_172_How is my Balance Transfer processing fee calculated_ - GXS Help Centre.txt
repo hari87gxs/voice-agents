@@ -1,0 +1,15 @@
+Title: How is my Balance Transfer processing fee calculated? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan/GXS_Flexiloan_-_Balance_Transfer_Fees_and_Interest/How_is_my_Balance_Transfer_processing_fee_calculated%3F
+Scraped: 2025-11-28T01:16:23.711570
+
+================================================================================
+
+Balance Transfer one-time processing fee is calculated as a percentage of your loan principal. The one-time processing fee forms part of the loan amount payable over the selected tenure.
+It will be deducted from the amount you have chosen to borrow. From there, the remaining amount will be disbursed to your selected PayNow account.
+For example:
+Loan Principal = Amount requested by you
+= S$10,000
+Processing fee percentage = 1.35%
+Processing fee amount = Processing fee percentage x Loan Principal
+= 1.35% x S$10,000
+= S$135

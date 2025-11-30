@@ -1,0 +1,13 @@
+Title: What are the different fund transfer limits for my GXS Biz Account? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/Manage_GXS_Biz_Account/What_are_the_different_fund_transfer_limits_for_my_GXS_Biz_Account%3F#elm-main-content
+Scraped: 2025-11-28T02:33:46.153810
+Word Count: 58
+Is FAQ Answer: True
+
+================================================================================
+
+Here’s an overview of the different fund transfer limits for your GXS Biz Account:
+You can change your daily transfer limit at any time via the GXS Bank app using the following steps:
+Go to 'Profile'.
+Tap on 'Change limits'.
+Please note that any request to increase your transfer limit will require authentication on the GXS Bank app.

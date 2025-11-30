@@ -1,0 +1,14 @@
+Title: Can I partially pay my GXS FlexiCard outstanding balance? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiCard/GXS_FlexiCard_Payment/Can_I_partially_pay_my_GXS_FlexiCard_outstanding_balance%3F
+Scraped: 2025-11-28T02:06:51.706514
+Word Count: 59
+Is FAQ Answer: True
+
+================================================================================
+
+Yes, you can. Here’s how:
+On the GXS FlexiCard homescreen, select ‘Pay Due’
+Key in the amount you’d like to pay
+Select your payment method
+Review your payment details and click 'Confirm & Pay'
+Please note that a flexi fee or a late fee will be incurred if you choose to make a partial payment instead of in full.

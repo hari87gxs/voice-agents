@@ -1,0 +1,10 @@
+Title: How do we calculate and charge the actual fare to your GXS Debit Card for BUS/MRT rides? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Debit_Card/Fees_and_Charges_of_GXS_Debit_Card/How_do_we_calculate_and_charge_the_actual_fare_to_your_GXS_Debit_Card_for_BUS%2F%2FMRT_rides%3F
+Scraped: 2025-11-28T02:03:53.597644
+Word Count: 113
+Is FAQ Answer: True
+
+================================================================================
+
+We're here to make your Bus / MRT rides smooth and worry-free! Your fare is calculated based on your journey, and it's deducted only when you exit a gantry. Under SimplyGo, your rides are bundled together and a final transaction is made either when you've clocked $15 in fares or after five days of rides, whichever comes first.
+If your GXS Savings Account's Main Account does not have enough to cover a ride or a transaction, it's okay! Your account will go into negative balance, meaning it goes below zero. We've got no penalties for that. Please top up your account at the soonest to ensure there is sufficient funds for future purchases.

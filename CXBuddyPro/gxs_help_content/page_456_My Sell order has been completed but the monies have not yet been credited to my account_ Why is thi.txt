@@ -1,0 +1,17 @@
+Title: My Sell order has been completed but the monies have not yet been credited to my account. Why is this so? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/GXS_Invest_Orders/My_Sell_order_has_been_completed_but_the_monies_have_not_yet_been_credited_to_my_account._Why_is_this_so%3F
+Scraped: 2025-11-28T02:17:05.158670
+Word Count: 134
+Is FAQ Answer: True
+
+================================================================================
+
+We were unable to credit the monies to your GXS Savings Account, if doing so would cause the available balance in your GXS Savings Account to exceed the prevailing maximum balance amount. To receive your redemption proceeds, you will need to reduce the balance in your GXS Savings Account first.
+Follow these simple steps to find out the maximum balance amount for your GXS Savings Account:
+1. Log in to the GXS Bank app.
+2. Tap on the 3 dots next to your ‘GXS SAVINGS ACCOUNT'.
+3. Tap on ‘View balance info’.
+For further enquiries, you can reach out to our Customer Service team:
+- GXS Bank app, Help Centre: GXS Chat (Recommended)
+- GXS Bank app, Help Centre: Contact Us form
+- GXS Hotline:  1800 866 6685 or (+65) 6866 6685 (from overseas)

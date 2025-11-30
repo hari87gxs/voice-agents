@@ -1,0 +1,21 @@
+Title: I tried to reset my GXS PIN with my Singpass account or my NRIC number but I was unable to access my GXS account. What should I do? - GXS Help Centre
+URL: https://help.gxs.com.sg/Emergencies/Login_Issues/I_tried_to_reset_my_GXS_PIN_with_my_Singpass_account_or_my_NRIC_number_but_I_was_unable_to_access_my_GXS_account._What_should_I_do%3F
+Scraped: 2025-11-28T01:09:07.850662
+
+================================================================================
+
+Check if you’re using the right Singpass login. You should only be accessing the GXS Bank app with your own Singpass credentials.
+Here are some troubleshooting guide to help you along:
+Check your internet connection to ensure it's stable
+Ensure your device operating system and GXS Bank app are updated to the latest version. The latest version of GXS Bank app is available on both Apple Store and Google Play Store
+Ensure that you did not block all cookies in your browser settings
+It is possible you may be accessing Singpass login during a maintenance period, which prevents you from logging in to your GXS accounts successfully. Refer
+here
+for MyInfo maintenance schedule.
+To resolve any Singpass login issues, you may contact
+Singpass Helpdesk
+directly.
+If you’ve changed your NRIC number or are still facing issues, contact us at:
+GXS Hotline: 1800 866 6685 or (+65) 6866 6685 (from overseas)
+GXS Customer Support Email:
+help@gxs.com.sg

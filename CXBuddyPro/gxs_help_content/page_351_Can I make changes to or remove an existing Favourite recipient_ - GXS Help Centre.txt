@@ -1,0 +1,10 @@
+Title: Can I make changes to or remove an existing Favourite recipient? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Add_Favourite/Can_I_make_changes_to_or_remove_an_existing_Favourite_recipient%3F
+Scraped: 2025-11-28T02:11:21.219345
+Word Count: 28
+Is FAQ Answer: True
+
+================================================================================
+
+Applicable to retail accounts only
+If you'd like to make any changes, you can edit the preferred name of a Favourite recipient or remove a recipient from Favourites.

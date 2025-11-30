@@ -1,0 +1,7 @@
+Title: Can I cancel my split request from Balance Transfer Loan into Instalment Loan once it has been initiated? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan/Split_a_Balance_Transfer/Can_I_cancel_my_split_request_from_Balance_Transfer_Loan_into_Instalment_Loan_once_it_has_been_initiated%3F
+Scraped: 2025-11-28T01:16:38.501856
+
+================================================================================
+
+Once the conversion process has been initiated and approved, it cannot be cancelled. Please ensure that you want to proceed with the split of your Balance Transfer Loan into an Instalment Loan before submitting your request.

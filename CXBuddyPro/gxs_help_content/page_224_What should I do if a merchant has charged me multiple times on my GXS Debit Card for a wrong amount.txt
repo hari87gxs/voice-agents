@@ -1,0 +1,27 @@
+Title: What should I do if a merchant has charged me multiple times on my GXS Debit Card for a wrong amount, goods not received, or services not rendered? And what if I've yet to receive a refund? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Debit_Card/Manage_Card_Disputes_and_Issues/What_should_I_do_if_a_merchant_has_charged_me_multiple_times_on_my_GXS_Debit_Card_for_a_wrong_amount%2C_goods_not_received%2C_or_services_not_rendered%3F_And_what_if_I've_yet_to_receive_a_refund%3F
+Scraped: 2025-11-28T02:04:36.376136
+Word Count: 273
+Is FAQ Answer: True
+
+================================================================================
+
+Oops, sorry to hear if you're having trouble with a merchant. Do reach out to the respective merchant and seek their help for investigation.
+If you are unable to resolve the matter with the merchant, you can raise a dispute from the Transaction Details view on the GXS Bank app:
+On the GXS Bank app home screen, tap on the debit card icon by your GXS Savings Account balance.
+Scroll through the transactions to find the suspicious transaction.
+Select the transaction to open up the Transaction Details view.
+Tap on 'Get Help'.
+Select 'Contact us via email'.
+Under 'Did you authorise this transaction', select 'Yes' or 'No'.
+Next, select the appropriate reason under 'Reasons for dispute'.
+Lastly, provide any details and documents to support the investigation about this dispute.
+Alternatively, you can also raise a dispute through the Help Centre in the app:
+On the GXS Bank app Help Centre, tap on 'Get more help'.
+Tap on 'Contact us via email' and select 'Card transaction dispute' under 'What kind of issue is it?'.
+Enter the Transaction ID you wish to dispute. You can copy this from the Transaction Details view.
+Under 'Did you authorise this transaction', select 'Yes' or 'No'.
+Next, select the appropriate reason under 'Reasons for dispute'.
+Lastly, provide any supporting details and documents to support the investigation about this dispute.
+The time required to resolve the dispute may vary depending on its complexity. It may take about 12 weeks to investigate the dispute, assuming the necessary documents are provided promptly.
+Do note that we will only accept cases where transactions are made within 60 days from the date of purchase.

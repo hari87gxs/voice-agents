@@ -1,0 +1,9 @@
+Title: Is there a cooling period after I add a Favorite recipient for my GXS Savings Account? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Add_Favourite/Is_there_a_cooling_period_after_I_add_a_Favorite_recipient_for_my_GXS_Savings_Account%3F
+Scraped: 2025-11-28T02:09:17.284773
+Word Count: 20
+Is FAQ Answer: True
+
+================================================================================
+
+Nope, there isn't! Once the recipient is added as a 'Favourite', you can proceed to transfer money to your recipient.

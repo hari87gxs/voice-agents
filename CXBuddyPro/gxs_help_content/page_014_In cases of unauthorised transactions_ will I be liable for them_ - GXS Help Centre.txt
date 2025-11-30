@@ -1,0 +1,11 @@
+Title: In cases of unauthorised transactions, will I be liable for them? - GXS Help Centre
+URL: https://help.gxs.com.sg/Emergencies/Payment_Issues/In_cases_of_unauthorised_transactions%2C_will_I_be_liable_for_them%3F
+Scraped: 2025-11-28T01:07:42.054710
+
+================================================================================
+
+As an account holder, you have a duty to protect access or access codes to your account, report unauthorised transactions, provide information on unauthorised transactions, or make a police report if requested.
+You will not be liable for any loss arising from an unauthorised transaction if the loss resulted from any act or omission by us, or any action or omission of any independent third party (if such loss does not exceed S$1,000), provided that you have complied with the above duties.
+You will be liable for the actual loss arising from an unauthorised transaction where your recklessness was the primary cause of the loss. Recklessness would include your failure to comply with the above duties.
+In all cases, we will assess and resolve claims in a fair and reasonable manner.
+For full details of your duties, please refer to MAS E-payments User Protection Guidelines at www.mas.gov.sg/regulation/guidelines/guidelines-for-e-payments-user-protection

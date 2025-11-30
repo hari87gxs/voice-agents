@@ -1,0 +1,9 @@
+Title: For Grab transactions paid with GXS Savings Account on my Grab app that require a refund, will the money be refunded to the GXS Savings Account? - GXS Help Centre
+URL: https://help.gxs.com.sg/Grab_and_Singtel_Experiences/GXS_on_Grab/For_Grab_transactions_paid_with_GXS_Savings_Account_on_my_Grab_app_that_require_a_refund%2C_will_the_money_be_refunded_to_the_GXS_Savings_Account%3F#elm-main-content
+Scraped: 2025-11-28T02:31:45.048467
+Word Count: 37
+Is FAQ Answer: True
+
+================================================================================
+
+Yes. If your linked GXS Savings Account is used as the payment method on the Grab app for a transaction that is to be given a refund, the refund will be sent to your GXS Savings Account.

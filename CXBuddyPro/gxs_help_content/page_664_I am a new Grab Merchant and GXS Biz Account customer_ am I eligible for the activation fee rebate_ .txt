@@ -1,0 +1,10 @@
+Title: I am a new Grab Merchant and GXS Biz Account customer, am I eligible for the activation fee rebate? - GXS Help Centre
+URL: https://help.gxs.com.sg/?title=GXS_Biz_Account/Grab_%26_Singtel_Experiences/I_am_a_new_Grab_Merchant_and_GXS_Biz_Account_customer,_am_I_eligible_for_the_activation_fee_rebate%3F#elm-main-content
+Scraped: 2025-11-28T02:28:55.907486
+Word Count: 50
+Is FAQ Answer: True
+
+================================================================================
+
+New Grab Merchants who have onboarded onto GrabFood/Mart using a GXS Biz Account as their settlement account during the onboarding process will qualify for the activation fee rebate, which is limited to the first 500 sign-ups by GXS Biz Account customers.
+Successful merchants will be notified by Grab via email.

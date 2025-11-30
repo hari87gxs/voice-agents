@@ -1,0 +1,9 @@
+Title: Can I use my GXS Debit Card to withdraw cash locally / internationally? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Debit_Card/Usage_of_GXS_Debit_Card/Can_I_use_my_GXS_Debit_Card_to_withdraw_cash_locally_%2F%2F_internationally%3F
+Scraped: 2025-11-28T02:04:02.158074
+Word Count: 33
+Is FAQ Answer: True
+
+================================================================================
+
+As GXS is a digital-only bank, we don't have ATMs where you can withdraw cash locally. For overseas withdrawal of cash, we don’t have that feature at the moment. Stay tuned for updates!

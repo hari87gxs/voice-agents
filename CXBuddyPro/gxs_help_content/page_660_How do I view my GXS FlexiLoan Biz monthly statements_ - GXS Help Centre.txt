@@ -1,0 +1,13 @@
+Title: How do I view my GXS FlexiLoan Biz monthly statements? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan_Biz/Manage_GXS_FlexiLoan_Biz/How_do_I_view_my_GXS_FlexiLoan_Biz_monthly_statements%3F#elm-main-content
+Scraped: 2025-11-28T02:28:44.117334
+Word Count: 60
+Is FAQ Answer: True
+
+================================================================================
+
+You can view your GXS FlexiLoan Biz monthly statements on the GXS Bank app, on the 3rd of every month. Here's how:
+On the GXS FlexiLoan Biz home screen, tap on 'Manage'.
+Click on 'View Statements'.
+Select a month to view your account statement.
+Do note that your monthly statements will only be available after you've borrowed your first loan.

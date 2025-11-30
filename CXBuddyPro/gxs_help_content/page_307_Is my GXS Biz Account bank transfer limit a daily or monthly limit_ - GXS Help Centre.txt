@@ -1,0 +1,9 @@
+Title: Is my GXS Biz Account bank transfer limit a daily or monthly limit? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/Manage_GXS_Biz_Account/Is_my_GXS_Biz_Account_bank_transfer_limit_a_daily_or_monthly_limit%3F
+Scraped: 2025-11-28T02:09:01.117101
+Word Count: 37
+Is FAQ Answer: True
+
+================================================================================
+
+Your GXS Biz Account bank transfer limit is the daily limit for all transactions. This includes FAST transfers to both GXS Bank and non-GXS Bank bank accounts. You may change the limit within your GXS Bank app.

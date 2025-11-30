@@ -1,0 +1,11 @@
+Title: What is the Notice for the 'Cancellation Period for Collective Investment Schemes Constituted as Unit Trusts'? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/7_Day_Cancellation_Period/What_is_the_Notice_for_the_'Cancellation_Period_for_Collective_Investment_Schemes_Constituted_as_Unit_Trusts'%3F#elm-main-content
+Scraped: 2025-11-28T02:29:48.797006
+Word Count: 110
+Is FAQ Answer: True
+
+================================================================================
+
+In accordance with the requirements under the MAS Notice on Cancellation Period for Units in Authorised Collective Investment Scheme, you have the right to cancel your buy order within 7 calendar days from the date of purchase.
+If the last day of the cancellation period falls on a Sunday or public holiday in Singapore, the cancellation period will be extended to the next business day.
+If you have existing holdings in this fund or this is your second or subsequent buy order in this fund, the right to cancel will not apply, unless your second or subsequent Buy order was made within the 7-day cancellation period of your first order.

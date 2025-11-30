@@ -1,0 +1,33 @@
+Title: Is there a detailed guide I can refer to for opening a GXS Biz Account? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/Open_a_GXS_Biz_Account/Is_there_a_detailed_guide_I_can_refer_to_for_opening_a_GXS_Biz_Account%3F#elm-main-content
+Scraped: 2025-11-28T02:29:21.713876
+Word Count: 450
+Is FAQ Answer: True
+
+================================================================================
+
+Here’s a step-by-step guide to opening a GXS Biz Account, once you’ve received an invite from us.
+Search for 'GXS Bank' in Apple Store or Google Play Store. Download the latest version and launch it.
+You should then see the options to view Personal banking or Business banking.
+Tap on 'Business banking' and the next page should show you the GXS Biz Account. Tap on ‘Sign Up Now’ to begin the application process.
+You'll then be asked to log in with your Singpass details, in order for your personal and ACRA information to be shared with GXS Bank.
+Once you’ve provided your consent and approval, the next few screens will display your personal and company information retrieved from Singpass MyInfo and ACRA respectively.
+Tap on ‘Next’ accordingly.
+Do check the information displayed to ensure that the information retrieved is valid and accurate. If you'd like to change the pre-filled information at anytime, just tap the arrow down on the right of the screen to display the dropdown options.
+Next, we'd like to know more about your business information. When you encounter this next screen below, just fill in the details accordingly.
+Purpose of business - Do pick the option closest to your line of business. If in doubt, select ‘Others’ and there will be a text-based field for you to key in.
+Annual business income - Select a range from ‘less than $100,000’ to ‘more than $1,000,000'.
+Anticipated level of account activity - We would like to know how often you may need to make a deposit or withdrawal of your GXS Biz Account. Select a range from 0 to above 1,000 transactions.
+Anticipated amount of each transaction - For each deposit or withdrawal made in your GXS Biz Account, we would like to know the average amount of each transaction.
+Source of funds - If in doubt, select ‘Others’ and there will be a text-based field for you to key in.
+You’re nearly done!
+Tap on ‘Get Both’ if you’d like to proceed with the bundled application. Or if you prefer to proceed with just a savings account for now, just tap on ‘Get GXS Biz Account’.
+If your application is showing this message, don't worry. We may simply need a bit more time to assess your eligibility.
+Just sit back, relax and wait for a notification from us within 2 business days.
+If at any point you require further clarification or assistance, our Customer Support Team is here for you 24/7. Just reach out to us via:
+GXS app, Help Centre: GXS Chat (Recommended)
+GXS app, Help Centre: Submit an enquiry
+GXS Hotline: 1800 866 6685 or (+65) 6866 6685 (from overseas)
+GXS Customer Support Email:
+help@gxs.com.sg
+​​​​​​​

@@ -1,0 +1,10 @@
+Title: Why am I being charged S$0.10 for my bus/MRT rides on my GXS FlexiCard? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiCard/GXS_FlexiCard_Fees_and_Charges/Why_am_I_being_charged_S%240.10_for_my_bus%2F%2FMRT_rides_on_my_GXS_FlexiCard%3F
+Scraped: 2025-11-28T02:05:15.726355
+Word Count: 100
+Is FAQ Answer: True
+
+================================================================================
+
+When you tap your GXS FlexiCard on the fare gantry, a S$0.10 pre-authorisation charge is made to ensure your card is active and ready. Don't worry, this isn't your actual fare. It will be promptly returned once the final transaction details from SimplyGo are processed.
+If the S$0.10 charge is unsuccessful for any reason, don't fret! You can approach the staff at the MRT station for assistance. Alternatively, you can make a payment to your GXS FlexiCard and try again. Once the S$0.10 pre-authorisation is successful, you should be able to exit by tapping your card on the fare gantry.

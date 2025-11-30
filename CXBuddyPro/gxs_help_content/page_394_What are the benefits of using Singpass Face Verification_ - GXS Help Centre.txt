@@ -1,0 +1,18 @@
+Title: What are the benefits of using Singpass Face Verification? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Using_the_App/What_are_the_benefits_of_using_Singpass_Face_Verification%3F
+Scraped: 2025-11-28T02:13:32.943182
+Word Count: 122
+Is FAQ Answer: True
+
+================================================================================
+
+There are several key benefits to using Singpass Face Verification, each contributing to a more secure and convenient user experience:
+Security
+: It provides a high level of security by ensuring that the person attempting to access the service is the legitimate user.
+Convenience
+: Users can authenticate their identity quickly and easily without needing to remember passwords or carry physical identification documents.
+Integration
+: It is seamlessly integrated with various services that require identity verification, making it a versatile tool for both personal and business use.
+Overall, Singpass Face Verification offers a robust, secure, and user-friendly method for identity authentication, enhancing the digital experience for GXS Bank users.
+For more information on Singpass Face Verification, you can refer to
+Singpass Helpdesk.

@@ -1,0 +1,9 @@
+Title: What QR codes are supported by the GXS app for payment purposes? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Using_Scan_QR/What_QR_codes_are_supported_by_the_GXS_app_for_payment_purposes%3F
+Scraped: 2025-11-28T02:09:43.055092
+Word Count: 21
+Is FAQ Answer: True
+
+================================================================================
+
+We only support PayNow at the moment. Look for PayNow supported QR codes, such as SGQR codes with a PayNow logo.

@@ -1,0 +1,11 @@
+Title: I earn interest daily on my Saving Pockets, are they factored in the guess amount? - GXS Help Centre
+URL: https://help.gxs.com.sg/Promotions/Pocket_is_Right_campaign/I_earn_interest_daily_on_my_Saving_Pockets%2C_are_they_factored_in_the_guess_amount%3F
+Scraped: 2025-11-28T02:15:30.951086
+Word Count: 78
+Is FAQ Answer: True
+
+================================================================================
+
+No, interest credited will not be included in your guess amount. Only the nett amount - the total amount you deposited minus the total amount you withdrew during the guess period will be considered your final guess amount.
+For e.g. you deposit S$5,000.00 on 5 April, withdraw S$1,000.00 on 20 April and earn interest of S$8.00 for the month.
+At the end of the day of 30 April, your guess amount will be S$5,000.00 minus S$1,000.00 = S$4,000.00.

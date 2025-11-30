@@ -1,0 +1,12 @@
+Title: Can I open a GXS Biz Account or GXS FlexiLoan Biz without SingPass Myinfo? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Singpass_and_My_GXS_Account/Can_I_open_a_GXS_Biz_Account_or_GXS_FlexiLoan_Biz_without_SingPass_Myinfo%3F
+Scraped: 2025-11-28T02:09:18.263574
+Word Count: 34
+Is FAQ Answer: True
+
+================================================================================
+
+GXS Biz Account and GXS FlexiLoan Biz are only available to individuals who have Singpass Myinfo and have a registered account with ACRA.
+To apply for Singpass access, you may contact
+Singpass Helpdesk
+directly.

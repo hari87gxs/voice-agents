@@ -1,0 +1,16 @@
+Title: How do I log in to the GXS Bank app? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Using_the_App/How_do_I_log_in_to_the_GXS_Bank_app%3F#elm-main-content
+Scraped: 2025-11-28T02:38:20.927458
+Word Count: 132
+Is FAQ Answer: True
+
+================================================================================
+
+Logging in to your GXS Bank app is simple!
+On a new device
+Open the GXS Bank app and follow the onscreen instructions. To access your account, you’ll have to verify your identity via Singpass, email OTP and passcode. The good news is you’ll only have to do this once on a new device. After verification, your device becomes a registered device and future logins will be quick and easy. Do note that you can only have one registered device at any one time.
+On your registered device
+Open the GXS Bank app and key in your 6-digit passcode. You can also use Face ID or Touch ID to log in if your device has that function.
+If you are encountering issues with your Singpass login, do have a read
+here
+.

@@ -1,0 +1,9 @@
+Title: How much funds can I lock with Money Lock? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Savings_Account/Money_Lock/How_much_funds_can_I_lock_with_Money_Lock%3F
+Scraped: 2025-11-28T01:13:42.581874
+
+================================================================================
+
+Currently, the Money Lock feature can only be applied to your Saving Pocket(s).
+There is no specific limit on the amount you can lock; you have the flexibility to transfer some or all of your funds from your Main Account to your Saving Pocket and then lock it. Do note that the maximum balance of S$95,000 for your GXS Savings Account still applies.
+You can also choose to lock some or all of your Saving Pockets.

@@ -1,0 +1,9 @@
+Title: How do I check my GXS Biz Account balance? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/Manage_GXS_Biz_Account/How_do_I_check_my_GXS_Biz_Account_balance%3F
+Scraped: 2025-11-28T02:24:19.388344
+Word Count: 35
+Is FAQ Answer: True
+
+================================================================================
+
+Your GXS Biz Account balance is shown on your home screen and in your transaction history screen. You can view your transaction history by tapping on the 'GXS Biz Account' tile on the home screen.

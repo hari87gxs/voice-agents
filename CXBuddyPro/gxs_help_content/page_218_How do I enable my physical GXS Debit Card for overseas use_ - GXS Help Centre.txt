@@ -1,0 +1,14 @@
+Title: How do I enable my physical GXS Debit Card for overseas use? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Debit_Card/Usage_of_GXS_Debit_Card/How_do_I_enable_my_physical_GXS_Debit_Card_for_overseas_use%3F
+Scraped: 2025-11-28T02:04:15.153764
+Word Count: 69
+Is FAQ Answer: True
+
+================================================================================
+
+As a security measure, your physical GXS Debit Card is disabled for overseas use by default. To change this:
+On the GXS Bank app home screen, tap on the debit card icon by your GXS Savings Account balance.
+Tap on 'Settings'.
+Tap on 'Manage Card'.
+Toggle on 'Overseas transactions'.
+You can follow the above steps to enable or disable your GXS Debit Card for overseas use at any time.

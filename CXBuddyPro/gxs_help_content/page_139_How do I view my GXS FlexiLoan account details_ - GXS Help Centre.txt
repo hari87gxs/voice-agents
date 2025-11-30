@@ -1,0 +1,9 @@
+Title: How do I view my GXS FlexiLoan account details? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan/Manage_GXS_FlexiLoan_Account/How_do_I_view_my_GXS_FlexiLoan_account_details%3F
+Scraped: 2025-11-28T01:14:43.214421
+
+================================================================================
+
+On the GXS FlexiLoan home screen, tap on 'Manage'.
+Select 'Get Account Details'.
+You'll see your beneficiary name, account number, bank name, bank code and branch code.

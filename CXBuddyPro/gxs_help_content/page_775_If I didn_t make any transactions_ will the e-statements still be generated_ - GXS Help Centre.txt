@@ -1,0 +1,9 @@
+Title: If I didn’t make any transactions, will the e-statements still be generated? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/GXS_Invest_Documentation/If_I_didn%E2%80%99t_make_any_transactions%2C_will_the_e-statements_still_be_generated%3F#elm-main-content
+Scraped: 2025-11-28T02:34:37.163124
+Word Count: 18
+Is FAQ Answer: True
+
+================================================================================
+
+E-statements will continue to be generated monthly, even if you have not made any transactions within the month.

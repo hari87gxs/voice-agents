@@ -1,0 +1,16 @@
+Title: Why can’t I take a Balance Transfer loan? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan/Borrow_a_Balance_Transfer/Why_can%E2%80%99t_I_take_a_Balance_Transfer_loan%3F
+Scraped: 2025-11-28T01:16:20.795780
+
+================================================================================
+
+We are sorry to hear that. Below could be some reasons why you can’t borrow a loan:
+1 Balance Transfer: Only 1 Balance Transfer loan can be borrowed unless otherwise allocated by the bank.
+10 active loans: In combination with Instalment Loans, you can only borrow up to 10 loans at any one point in time from your available credit limit.
+Insufficient credit limit: You do not have sufficient credit limit to borrow a loan.
+Borrowing of a loan is in progress: You may have a loan that is pending
+Balance-To-Income (BTI): Your total interest-bearing outstanding balance on all unsecured credit facilities across all banks in Singapore exceeds the industry-wide borrowing limit for 3 consecutive months. To find out more about BTI, refer
+here
+.
+60 days past due: Any one of your loans was unpaid for 60 days past the due date.
+The bank reserves the right to suspend the borrowing of loans for any other reasons.

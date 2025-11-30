@@ -1,0 +1,13 @@
+Title: How do I freeze/unfreeze my GXS FlexiCard? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiCard/Usage_of_GXS_FlexiCard/5How_do_I_freeze%2F%2Funfreeze_my_GXS_FlexiCard%3F
+Scraped: 2025-11-28T02:06:54.491793
+Word Count: 55
+Is FAQ Answer: True
+
+================================================================================
+
+You can temporarily stop usage of your GXS FlexiCard by freezing it. If you would like to use your card again, simply unfreeze it.
+Here's how you can freeze/unfreeze your GXS FlexiCard:
+Log in to the GXS Bank app.
+On the GXS FlexiCard homescreen, tap on 'Freeze' or 'Unfreeze'.
+Confirm the Freeze or Unfreeze request.

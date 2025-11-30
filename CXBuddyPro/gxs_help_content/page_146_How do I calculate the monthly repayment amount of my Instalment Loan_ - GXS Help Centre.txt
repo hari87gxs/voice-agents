@@ -1,0 +1,20 @@
+Title: How do I calculate the monthly repayment amount of my Instalment Loan? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan/Borrow_an_Instalment_Loan/How_do_I_calculate_the_monthly_repayment_amount_of_my_Instalment_Loan%3F
+Scraped: 2025-11-28T01:15:04.104772
+
+================================================================================
+
+The interest payable component forms part of your Equal Monthly Instalment (EMI) amount, which is reflected in-app in your repayment schedule. For example,
+Annual Percentage Rate (APR): 3% p.a.
+Effective Interest Rate (EIR): 5.69% p.a.
+Tenure: 3 years
+Borrowed loan amount: S$10,000
+Total interest payable = Loan * APR * tenure
+= S$10,000 * 3% / 365 * (365 * 3 years)
+= S$900
+EMI amount = (interest payable + principal) / tenure
+= (S$900 + S$10,000) / 36 months
+= S$302.78
+Your monthly repayment amount over the 3 year tenure will therefore be S$302.78.
+*The Annual Percentage Rate (APR) represents the total borrowing cost, expressed as a yearly rate, relative to the initial loan amount.
+The Effective Interest Rate (EIR) is the rate that reflects the true cost of borrowing and takes into account total charges. It's computed over a reducing balance basis and accrued daily.

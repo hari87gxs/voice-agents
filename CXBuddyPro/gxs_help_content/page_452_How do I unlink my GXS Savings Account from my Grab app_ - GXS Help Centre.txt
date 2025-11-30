@@ -1,0 +1,16 @@
+Title: How do I unlink my GXS Savings Account from my Grab app? - GXS Help Centre
+URL: https://help.gxs.com.sg/Grab_and_Singtel_Experiences/GXS_on_Grab/How_do_I_unlink_my_GXS_Savings_Account_from_my_Grab_app%3F
+Scraped: 2025-11-28T02:16:53.496866
+Word Count: 71
+Is FAQ Answer: True
+
+================================================================================
+
+You can unlink your GXS Savings Account from the Grab app in less than a few minutes:
+From the Grab app home screen, tap on the 'Finance' tab.
+On the top right, select the 'Settings' icon.
+Choose 'All payment methods'.
+Click on 'GXS Savings Account'.
+Select 'Unlink your GXS Savings Account'.
+Select 'Unlink'.
+Tap on 'I’m Sure'. If you change your mind, there's the option of 'Not now' as well :)

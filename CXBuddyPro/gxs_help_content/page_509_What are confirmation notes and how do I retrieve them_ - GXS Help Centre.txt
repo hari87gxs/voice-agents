@@ -1,0 +1,15 @@
+Title: What are confirmation notes and how do I retrieve them? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/GXS_Invest_Documentation/What_are_confirmation_notes_and_how_do_I_retrieve_them%3F
+Scraped: 2025-11-28T02:20:18.948602
+Word Count: 117
+Is FAQ Answer: True
+
+================================================================================
+
+Confirmation notes serve to provide you with the details of your Buy or Sell transactions (including the trade date, executed unit price as well as the number of units) once the orders have been completed.
+Here's how you can view your confirmation notes:
+1. Log in to the GXS Bank app.
+2. Proceed to the GXS Invest home screen.
+3. Tap on the specific transaction.
+4. Scroll to the bottom of the screen and tap on 'Order Confirmation Note'.
+Confirmation notes will be made available through the GXS Bank app no later than 1 business day after each successful completion of an order. You will receive an email and/or push notification once your confirmation note is ready.

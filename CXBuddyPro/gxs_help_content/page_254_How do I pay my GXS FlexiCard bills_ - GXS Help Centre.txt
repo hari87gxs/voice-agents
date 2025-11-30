@@ -1,0 +1,20 @@
+Title: How do I pay my GXS FlexiCard bills? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiCard/GXS_FlexiCard_Payment/6How_do_I_pay_my_GXS_FlexiCard_bills%3F
+Scraped: 2025-11-28T02:06:14.158954
+Word Count: 134
+Is FAQ Answer: True
+
+================================================================================
+
+You can pay your GXS FlexiCard bill via the following method(s):
+Using your GXS Savings Account to pay via the GXS Bank app:
+On the GXS FlexiCard homescreen, click on 'Pay Due'
+Select the amount you'd like to repay
+Choose 'GXS Savings Account' as your payment method
+Review your payment details and click 'Confirm & Pay'
+Using an external bank account to pay with FAST transfer:
+Log in to the GXS Bank app to check your GXS FlexiCard bill outstanding amount and retrieve your card/account number
+Proceed to your external bank app/online banking platform to perform a FAST transfer to your GXS FlexiCard number
+Ensure you choose FAST payment to a bank account, not credit card account.
+Enter your 16-digit GXS FlexiCard number in the bank account field
+Note: FAST transfers are almost instantaneous!

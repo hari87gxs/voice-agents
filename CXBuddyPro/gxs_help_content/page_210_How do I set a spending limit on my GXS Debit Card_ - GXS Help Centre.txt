@@ -1,0 +1,14 @@
+Title: How do I set a spending limit on my GXS Debit Card? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Debit_Card/Usage_of_GXS_Debit_Card/How_do_I_set_a_spending_limit_on_my_GXS_Debit_Card%3F
+Scraped: 2025-11-28T02:03:50.282284
+Word Count: 56
+Is FAQ Answer: True
+
+================================================================================
+
+On the home screen of your GXS Bank app, click on the debit card icon by your GXS Savings Account balance.
+Tap on 'Settings'.
+Select 'Manage Card'.
+Tap 'Edit daily transaction limit'.
+Adjust your limit and click on 'Confirm'.
+From here on, card transactions that will lead to you exceeding your daily limit won't be approved.

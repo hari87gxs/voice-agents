@@ -1,0 +1,12 @@
+Title: Why can’t I edit some of the pre-filled information from SingPass Myinfo? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Singpass_and_My_GXS_Account/Why_can%E2%80%99t_I_edit_some_of_the_pre-filled_information_from_SingPass_Myinfo%3F
+Scraped: 2025-11-28T02:20:33.841254
+Word Count: 46
+Is FAQ Answer: True
+
+================================================================================
+
+Your auto-populated particulars from Singpass Myinfo can only be updated on your Singpass profile. However, you may edit other information on the GXS Bank app, such as your phone number and email address.
+For further assistance on your Singpass access, you may contact
+Singpass Helpdesk
+directly.

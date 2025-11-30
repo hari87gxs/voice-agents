@@ -1,0 +1,18 @@
+Title: How can I authenticate my identity on the GXS Bank app? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Using_the_App/How_can_I_authenticate_my_identity_on_the_GXS_Bank_app%3F
+Scraped: 2025-11-28T02:13:05.941568
+Word Count: 78
+Is FAQ Answer: True
+
+================================================================================
+
+To verify your identity on your current device,
+You can key in your 6-digit passcode or
+Use Face ID or Touch ID if you've enabled biometric access.
+If you're logging in to the GXS Bank app on a new device,
+You'll need to verify your identity via Singpass,
+Key in the OTP sent to your registered email, and
+Key in your 6-digit passcode.
+If you are encountering issues with your Singpass login, do have a read
+here
+.

@@ -1,0 +1,14 @@
+Title: How do I add a Favourite recipient for my GXS Savings Account? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Add_Favourite/How_do_I_add_a_Favourite_recipient_for_my_GXS_Savings_Account%3F
+Scraped: 2025-11-28T02:11:09.345234
+Word Count: 63
+Is FAQ Answer: True
+
+================================================================================
+
+Applicable to retail accounts only
+You can do that easily by following these steps:
+On the home screen, tap on ‘Send Money’.
+Under ‘Recent’ tab, scroll to find the recipient record that you'd like to add as a favourite.
+Tap on the star icon next to this recipient.
+Provide a ‘Preferred Name’ between 2 and 30 characters, then save the recipient as 'Favourite'.

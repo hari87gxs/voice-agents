@@ -1,0 +1,12 @@
+Title: How do I unlink my GXS Savings Account from My Singtel app? - GXS Help Centre
+URL: https://help.gxs.com.sg/Grab_and_Singtel_Experiences/My_Singtel_App/How_do_I_unlink_my_GXS_Savings_Account_from_My_Singtel_app%3F
+Scraped: 2025-11-28T02:17:41.706805
+Word Count: 37
+Is FAQ Answer: True
+
+================================================================================
+
+You may unlink your GXS Savings Account using the following steps:
+1. Open your GXS Bank app and click on 'Me'.
+2. Then to "Manage partner accounts".
+3. Click "unlink" on beside the My Singtel app icon.

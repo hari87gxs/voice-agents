@@ -1,0 +1,11 @@
+Title: What is eGIRO? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/About_eGIRO/What_is_eGIRO%3F
+Scraped: 2025-11-28T02:10:10.094849
+Word Count: 63
+Is FAQ Answer: True
+
+================================================================================
+
+Applicable to retail accounts only
+eGIRO is a joint initiative by The Association of Banks in Singapore (ABS) and participating banks, with the support of the Monetary Authority of Singapore (MAS). eGIRO offers customers a convenient way to connect their external bank accounts and add funds to their GXS Savings Account effortlessly.
+It's all about making banking smoother and more connected for you!

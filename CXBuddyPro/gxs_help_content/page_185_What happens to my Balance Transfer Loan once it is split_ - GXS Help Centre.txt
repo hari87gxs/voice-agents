@@ -1,0 +1,9 @@
+Title: What happens to my Balance Transfer Loan once it is split? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan/Split_a_Balance_Transfer/What_happens_to_my_Balance_Transfer_Loan_once_it_is_split%3F
+Scraped: 2025-11-28T01:17:05.907833
+
+================================================================================
+
+Once your Balance Transfer Loan is split, it will be closed and a new Instalment Loan will be opened with the remaining outstanding Balance Transfer Loan amount as the principal amount. The terms of the new loan, including the interest rate and repayment schedule, will be provided to you before the conversion is finalised.
+Note that the first instalment payable on your converted Instalment Loan is as soon as one month from the date which you choose to split your Balance Transfer Loan.
+For example, you requested a split of your Balance Transfer Loan on 1 June 2024. Your first instalment payable for the converted Instalment Loan will start in July 2024.

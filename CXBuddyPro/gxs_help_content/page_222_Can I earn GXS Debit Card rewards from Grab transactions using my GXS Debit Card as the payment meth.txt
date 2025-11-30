@@ -1,0 +1,10 @@
+Title: Can I earn GXS Debit Card rewards from Grab transactions using my GXS Debit Card as the payment method? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Debit_Card/GXS_Debit_Card_Rewards/Can_I_earn_GXS_Debit_Card_rewards_from_Grab_transactions_using_my_GXS_Debit_Card_as_the_payment_method%3F
+Scraped: 2025-11-28T02:04:30.421022
+Word Count: 35
+Is FAQ Answer: True
+
+================================================================================
+
+Oops! Unfortunately, Grab transactions paid using your GXS Debit Card are not eligible for GXS Debit Card rewards.
+Do note that our Ecosystem Terms and Grab’s terms apply for the Grab app and rewards programme.

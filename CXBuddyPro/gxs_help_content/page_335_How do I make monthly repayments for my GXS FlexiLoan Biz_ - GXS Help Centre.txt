@@ -1,0 +1,18 @@
+Title: How do I make monthly repayments for my GXS FlexiLoan Biz? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan_Biz/GXS_FlexiLoan_Biz_Repayment/How_do_I_make_monthly_repayments_for_my_GXS_FlexiLoan_Biz%3F
+Scraped: 2025-11-28T02:10:28.039794
+Word Count: 112
+Is FAQ Answer: True
+
+================================================================================
+
+We offer flexible ways for you to repay loans on your GXS FlexiLoan Biz Account. Choose the option that best suits you:
+1.
+Auto repayments (recommended)
+: Due amounts are automatically deducted from your GXS Biz Account on the repayment due date by 6am (SGT). Please ensure ahead of time that your Biz Account balances are sufficient to allow for a successful deduction.
+2.
+Manual repayments
+: You can manually initiate repayments from your GXS Biz Account at any time before or on the repayment due date.
+3.
+Repayment from a third-party bank account
+: You can transfer funds via FAST from an external bank account to your GXS FlexiLoan Biz Account.

@@ -1,0 +1,14 @@
+Title: What is Balance-To-Income (BTI) and how does it affect me? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan/Manage_GXS_FlexiLoan_Account/What_is_Balance-To-Income_(BTI)_and_how_does_it_affect_me%3F
+Scraped: 2025-11-28T01:14:51.981469
+
+================================================================================
+
+The regulatory requirements has placed a borrowing limit on the amount of unsecured credit that can be granted to borrowers across all banks in Singapore.
+This is to ensure that borrowers do not take up too much debt beyond their means to repay.
+What is the borrowing limit on unsecured credit?
+This limit is defined as Balance-To-Income (BTI) ratio. BTI ratio is calculated by taking your total unsecured interest-bearing outstanding balances across all financial institutions or corporations related to financial institutions in Singapore and dividing it by your monthly income. The industry-wide borrowing limit is currently set at 12x of monthly income and is applicable to borrowers with annual income less than S$120,000.
+What does my total unsecured interest-bearing outstanding debt include?
+Total outstanding debt includes debt across all financial institutions and corporations related to financial institutions. For purposes of calculating your BTI ratio, only interest-bearing unsecured debt needs to be included.
+This includes not only your outstanding balance on GXS unsecured lending products (e.g. GXS FlexiLoan) but also your interest-bearing outstanding balance with other financial institutions. Examples of interest-bearing outstanding balances could be amounts charged to credit cards that are not repaid in full by the due date, interest accruing unsecured personal loans or credit lines, or late interest on an otherwise interest-free loan. If you have a Grab Partner Cash Advance (PCA) loan, the outstanding balances are included as well.
+If your BTI ratio exceeds 12x of your monthly income for 3 consecutive months, your GXS FlexiLoan account will be suspended from further borrowings. At the moment, you will not be able to unblock your account once it is suspended.

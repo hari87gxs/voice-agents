@@ -1,0 +1,11 @@
+Title: Can I change my guess amount and when is the guess amount locked in? - GXS Help Centre
+URL: https://help.gxs.com.sg/Promotions/Pocket_is_Right_campaign/Can_I_change_my_guess_amount_and_when_is_the_guess_amount_locked_in%3F
+Scraped: 2025-11-28T02:14:47.690707
+Word Count: 79
+Is FAQ Answer: True
+
+================================================================================
+
+Yes, you can change your guess amount anytime during the guess period by depositing more funds or withdrawing funds from your Saving Pocket.
+Your guess amount will be locked based on the day end balance on the last day of the month, less any interest credited.
+You will then have to hold the fresh funds amount for the hold period of 1 month. Winners of the Grand Prize will be announced on the 30th day of the next month.

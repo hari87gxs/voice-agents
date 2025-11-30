@@ -1,0 +1,9 @@
+Title: Are GXS Biz Account e-statements considered certified or authorised statements? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/GXS_Biz_Account_Statements/Are_GXS_Biz_Account_e-statements_considered_certified_or_authorised_statements%3F#elm-main-content
+Scraped: 2025-11-28T02:29:27.329044
+Word Count: 39
+Is FAQ Answer: True
+
+================================================================================
+
+The e-statements available in your GXS Bank app are soft copies of your account statements, which you can print if needed. They will not have a signature since they are system generated documents, and are not certified true copies.

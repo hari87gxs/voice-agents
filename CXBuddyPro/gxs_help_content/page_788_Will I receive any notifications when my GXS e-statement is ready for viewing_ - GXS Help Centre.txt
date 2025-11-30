@@ -1,0 +1,9 @@
+Title: Will I receive any notifications when my GXS e-statement is ready for viewing? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/GXS_Biz_Account_Statements/Will_I_receive_any_notifications_when_my_GXS_e-statement_is_ready_for_viewing%3F#elm-main-content
+Scraped: 2025-11-28T02:35:16.715230
+Word Count: 17
+Is FAQ Answer: True
+
+================================================================================
+
+Yes you will! You will receive a push notification reminder when the e-statement is ready and available.

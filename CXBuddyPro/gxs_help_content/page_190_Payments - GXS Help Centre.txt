@@ -1,0 +1,79 @@
+Title: Payments - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments
+Scraped: 2025-11-28T02:02:41.357753
+Word Count: 646
+Is FAQ Answer: False
+
+================================================================================
+
+Learn about fund transfers, how to use PayNow, and our Scan QR feature. For payment related issues, check out our
+Emergencies
+category.
+About eGIRO
+No image available
+I am trying to link my external bank account to my GXS Bank account for eGIRO services. Why am I seeing ‘Fund transfer unsuccessful’ and ‘Something went wrong. Please try again later’ error messages?
+I have previously linked a bank account to transfer funds via eGIRO. Why can’t I transfer funds from the linked account now?
+What benefits does eGIRO bring to me?
+What is eGIRO?
+Add Favourite
+No image available
+Can I make changes to or remove an existing Favourite recipient?
+How can I use the Recent and/or Favourite recipient tabs?
+How do I add a Favourite recipient for my GXS Savings Account?
+How many Favourite recipients can I add to my GXS Savings Account?
+Is there a cooling period after I add a Favorite recipient for my GXS Savings Account?
+I see 2 sections under the ‘Send Money’ screen. What does ‘Recent’ and ‘Favourite’ mean?
+Cooling-Off Period
+No image available
+Can I increase my fund transfer limit for my GXS Savings Account during the cooling-off period?
+Can I opt out of the cooling-off period?
+How will the cooling-off period protect me?
+What is a cooling-off period?
+Keeping Your Payments Secure
+No image available
+How will I be notified of my transactions?
+What are my responsibilities as a Protected Account holder?
+What are some of my responsibilities before using any E-Payment?
+What are the different fund transfer and transaction limits?
+What are the E-Payments User Protection Guidelines?
+When will I be able to transfer more than S$10,000?
+Why are my transactions being rejected?
+Why can't I transfer funds to crypto platforms?
+Why can’t I transfer more than S$10,000 from my GXS Savings Account?
+Send Money
+No image available
+Can I receive funds in my GXS Savings Account via GIRO?
+Can I receive funds to my GXS FlexiLoan via GIRO?
+Can I send funds from my GXS Savings Account via GIRO?
+Can I send money without adding a beneficiary?
+How do I send money to another bank account via FAST?
+How do I send money to another GXS user?
+How do I stop or change details on my FAST / funds transfer?
+How long do FAST transfers take?
+What types of fund transfers are available for my GXS Savings Account?
+Using Google Pay
+No image available
+How can I make payments after adding my GXS Debit Card and/or GXS FlexiCard to Google Pay?
+How can I protect my device and virtual GXS Debit Card and/or GXS FlexiCard when using Google Pay?
+How do I add my GXS Debit Card and/or GXS FlexiCard to Google Pay?
+Using PayNow
+No image available
+How do I register / deregister for PayNow?
+How do I transfer money using PayNow?
+How long do PayNow transfers take?
+What is my PayNow daily transfer limit?
+Who can I transfer money to via PayNow?
+Why can’t I link my GXS Savings Account to PayNow?
+Why did I receive a notification to top up my account when I was sending money via PayNow?
+Will the bank unlink my GXS Savings Account from PayNow when I close my account?
+Using Scan QR
+No image available
+Can I make bill payments using Scan QR?
+Can I make online payment transactions using Scan QR?
+Do I need to enter a passcode to make a Scan QR payment?
+How secure is payment via Scan QR?
+Is there a daily limit for PayNow transactions when I use Scan QR on the GXS app?
+My transaction failed but money was deducted from my GXS Savings Account. Will I get a refund?
+What are the fees applicable for using Scan QR?
+What do I need to confirm before sending money via Scan QR?
+What QR codes are supported by the GXS app for payment purposes?

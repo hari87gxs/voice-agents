@@ -1,0 +1,21 @@
+Title: How do I turn off live screen sharing or mirroring on my device? - GXS Help Centre
+URL: https://help.gxs.com.sg/Emergencies/Malware_Threats/How_do_I_turn_off_live_screen_sharing_or_mirroring_on_my_device%3F
+Scraped: 2025-11-28T01:09:29.264733
+
+================================================================================
+
+To turn off live screen sharing or mirroring on Android devices:
+Swipe down from the top of the device screen twice to pull out the quick access function
+Type ‘Screen Cast’ or ‘Smart View or ‘Screen Mirror’ in the search bar ( Look for an icon that resembles a triangle inside 2 circular arrows or one that resembles a TV! Alternatively, tap on the gear icon on the top right corner of the quick access menu. Search for ‘screen mirror’, ‘screencast’ or ‘smart view’ in the search bar.)
+Tap and hold the ScreenCast, ScreenMirror or Smart View button to call up the relevant menu with all available devices.
+Disconnect devices by tapping on the device name.
+To turn off live screen-sharing or mirroring on iOS devices:
+Swipe down from the upper-right corner if your device has FaceID enabled or else swipe up from the bottom of your device if it is Touch ID enabled to open the Control Centre.
+Tap on the ‘Screen Mirroring’ button (resembles two overlapping screens) .
+Tap ‘stop mirroring’ on the device that you are mirroring to.
+An added bonus! If you prefer to disable screen mirroring completely, follow these steps:
+Tap on settings
+Tap general
+Tap automatically airPlay to TVs
+Tap never
+Note: The steps outlined above are the most common steps to turn off live screen sharing. Do refer to your user guide if you encounter any difficulties or variations depending on your specific device model.

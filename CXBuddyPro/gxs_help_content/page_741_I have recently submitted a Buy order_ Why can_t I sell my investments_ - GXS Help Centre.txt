@@ -1,0 +1,10 @@
+Title: I have recently submitted a Buy order. Why can't I sell my investments? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/GXS_Invest_Orders/I_have_recently_submitted_a_Buy_order._Why_can't_I_sell_my_investments%3F#elm-main-content
+Scraped: 2025-11-28T02:32:53.439811
+Word Count: 46
+Is FAQ Answer: True
+
+================================================================================
+
+For newly submitted buy orders, you may only sell your allocated units after a cool-down period of 2 business days starting from the trade date.
+This waiting period is in place to ensure that your newly allocated units are properly registered before they can be sold.

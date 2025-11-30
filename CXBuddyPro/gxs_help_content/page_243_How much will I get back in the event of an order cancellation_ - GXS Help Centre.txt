@@ -1,0 +1,12 @@
+Title: How much will I get back in the event of an order cancellation? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/7_Day_Cancellation_Period/How_much_will_I_get_back_in_the_event_of_an_order_cancellation%3F
+Scraped: 2025-11-28T02:05:32.430495
+Word Count: 138
+Is FAQ Answer: True
+
+================================================================================
+
+Any order to redeem placed successfully on the GXS Bank app before 3:30pm will be processed on the same day (provided such day is a relevant dealing day). If the order to redeem is placed after 3:30pm, the transaction shall be processed the next dealing day instead.
+The redemption proceeds that will be paid to you will be the number of units redeemed multiplied by the NAV of the relevant dealing day.
+There will be no penalty or fees imposed on customers for the cancellation of the Purchase Agreement. For the avoidance of doubt, GXS Bank does not charge any sales charge or front-end fee for the Purchase Agreement as well.
+Customers are to note that the published prices are indicative in nature and can change during the period between the submission and processing of the redemption request.

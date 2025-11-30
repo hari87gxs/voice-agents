@@ -1,0 +1,14 @@
+Title: My outgoing PayNow transaction failed but money was deducted from my GXS Biz Account. Will I get a refund? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/GXS_Biz_Account_Payments/My_outgoing_PayNow_transaction_failed_but_money_was_deducted_from_my_GXS_Biz_Account._Will_I_get_a_refund%3F
+Scraped: 2025-11-28T02:24:07.661558
+Word Count: 71
+Is FAQ Answer: True
+
+================================================================================
+
+Not to worry. If any amount is mistakenly deducted from your GXS Biz Account, it will be credited back within one business day. If the refund does not appear within this timeframe, please contact us at:
+• GXS Bank app, Help Centre: GXS Chat
+• GXS Bank app, Help Centre: Submit an enquiry
+• GXS Hotline: 1800 866 6685 or (+65) 6866 6685 (from overseas)
+• GXS Customer Support Email:
+smebiz@gxs.com.sg

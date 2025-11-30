@@ -1,0 +1,8 @@
+Title: What makes up the principal loan amount for my converted Instalment Loan? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan/Split_a_Balance_Transfer/What_makes_up_the_principal_loan_amount_for_my_converted_Instalment_Loan%3F
+Scraped: 2025-11-28T01:17:08.726110
+
+================================================================================
+
+The principal amount of your new Instalment Loan is based on the remaining outstanding balance of your Balance Transfer Loan. Only the full outstanding Balance Transfer Loan amount can be split into an Instalment Loan, you will not be able to select a partial amount. If you would like to convert a smaller amount, we suggest repaying a portion of your Balance Transfer first.
+Interest payable will be calculated using your prevailing GXS FlexiLoan interest rate and the repayment period based on the tenure you select for your new Instalment Loan.

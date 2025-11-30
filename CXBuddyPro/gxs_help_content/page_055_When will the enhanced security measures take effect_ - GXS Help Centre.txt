@@ -1,0 +1,10 @@
+Title: When will the enhanced security measures take effect? - GXS Help Centre
+URL: https://help.gxs.com.sg/Emergencies/Malware_Threats/When_will_the_enhanced_security_measures_take_effect%3F
+Scraped: 2025-11-28T01:09:48.043870
+
+================================================================================
+
+We will be rolling out the enhanced security measures from 17 November 2023.
+Here's a look at what's going to happen. From 17 to 30 November 2023, your GXS Bank app will alert you when potential security vulnerabilities are detected on your device. You are strongly encouraged to remove those vulnerabilities immediately to ensure that your device and data is safe. During this period, you will still be able to access your GXS Bank app at your own risk. Do note that in the case of confirmed malware being detected, you will need to remove those malicious apps to proceed.
+But from 1 December 2023 onwards, if security vulnerabilities remain detected on your device, you will no longer be able to access your GXS Bank app.
+To ensure you have the latest security measures, always update your GXS Bank app to the latest version!

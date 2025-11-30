@@ -1,0 +1,13 @@
+Title: How do I check the statuses of my orders? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/GXS_Invest_Orders/How_do_I_check_the_statuses_of_my_orders%3F
+Scraped: 2025-11-28T02:08:33.171173
+Word Count: 50
+Is FAQ Answer: True
+
+================================================================================
+
+You may check the status of your order(s) with these following steps:
+1. Log in to the GXS Bank app.
+2. Proceed to the GXS Invest home screen.
+3. Tap on 'Transactions' at the bottom of the page.
+4. Select the relevant transaction to view the order details and status.

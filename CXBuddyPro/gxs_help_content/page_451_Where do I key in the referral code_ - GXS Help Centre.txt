@@ -1,0 +1,10 @@
+Title: Where do I key in the referral code? - GXS Help Centre
+URL: https://help.gxs.com.sg/Promotions/'Refer_a_Friend'_campaign/Where_do_I_key_in_the_referral_code%3F
+Scraped: 2025-11-28T02:16:25.749723
+Word Count: 46
+Is FAQ Answer: True
+
+================================================================================
+
+First, do ensure that you have updated your GXS Bank app to the latest version (version 2.40 and above).
+Once you have the latest version, the referral code field should be visible at the beginning of the application process, right above the ‘Sign Up Now’ button.

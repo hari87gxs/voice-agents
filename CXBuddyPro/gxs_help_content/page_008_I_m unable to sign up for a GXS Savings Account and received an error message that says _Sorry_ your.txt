@@ -1,0 +1,14 @@
+Title: I'm unable to sign up for a GXS Savings Account and received an error message that says "Sorry, your application was denied.", what should I do? - GXS Help Centre
+URL: https://help.gxs.com.sg/Emergencies/Sign_Up_Issues/I'm_unable_to_sign_up_for_a_GXS_Savings_Account_and_received_an_error_message_that_says_%22Sorry%2C_your_application_was_denied.%22%2C_what_should_I_do%3F
+Scraped: 2025-11-28T01:07:24.127218
+
+================================================================================
+
+We are here to help! One common reason could be because you're not physically located in Singapore at the time of application. We suggest you try again when you're back in Singapore.
+Another reason could be that your mobile device is connected to a Virtual Private Network (VPN). To re-apply for a GXS Savings Account, you’ll need to disable your VPN before we are able to process your application. You can turn it back on thereafter.
+Need further assistance? You may reach out to us in one of the following ways:
+GXS Bank app, Help Centre: GXS Chat (recommended)
+GXS Bank app, Help Centre: Submit an enquiry
+GXS Hotline: 1800 866 6685 or (+65) 6866 6685 (from overseas)
+GXS Customer Support Email:
+help@gxs.com.sg

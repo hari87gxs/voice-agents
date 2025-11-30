@@ -1,0 +1,17 @@
+Title: How is minimum payment calculated for GXS FlexiCard? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiCard/GXS_FlexiCard_Payment/5How_is_minimum_payment_calculated_for_GXS_FlexiCard%3F
+Scraped: 2025-11-28T02:06:38.635940
+Word Count: 111
+Is FAQ Answer: True
+
+================================================================================
+
+Calculation of minimum payment for your GXS FlexiCard first takes into consideration:
+Your billed outstanding amount due:
+If total billed outstanding amount is less than S$15 - minimum payment will be the same amount.
+If more than or equal to S$15 - minimum payment amount will be S$15.
+Once the above is calculated, the below charges (if any) will be added to form the total minimum payment:
+2.  Overdue principal (if any).
+3.  Fees accrued eg. flexi fee, late fee, annual fee (if any).
+4.  Overlimit amount (if any) will be added to your current statement's minimum payment amount.
+Here are two illustrative examples on how minimum payment amount is derived:

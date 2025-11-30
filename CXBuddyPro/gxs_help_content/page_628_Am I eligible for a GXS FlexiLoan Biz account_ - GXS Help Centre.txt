@@ -1,0 +1,18 @@
+Title: Am I eligible for a GXS FlexiLoan Biz account? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan_Biz/Apply_for_a_GXS_FlexiLoan_Biz/Am_I_eligible_for_a_GXS_FlexiLoan_Biz_account%3F#elm-main-content
+Scraped: 2025-11-28T02:27:05.382194
+Word Count: 138
+Is FAQ Answer: True
+
+================================================================================
+
+We’re glad you’re interested! Here’s a quick eligibility check below. You must:
+Be at least 18 years old
+Have a residential address in Singapore
+Be a Singapore citizen or Singapore Permanent Resident
+Have a Singpass Myinfo account
+Have an active ACRA registration account
+Not currently hold, and never have held, a GXS Savings Account, GXS FlexiLoan, or GXS FlexiCard
+Not currently hold, and never have held, a GXS Biz Account or a GXS FlexiLoan Biz account.
+The GXS FlexiLoan Biz is currently available for sole proprietors and Private Limited entities with a single director and single shareholder where both roles are held by the same person.
+Do note that all GXS FlexiLoan Biz applications go through an evaluation process which is aligned with our internal requirements. This process includes an assessment of the applicant’s credit profile and eligibility.

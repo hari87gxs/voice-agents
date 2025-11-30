@@ -1,0 +1,10 @@
+Title: Why am I being charged $0.10 for my BUS/MRT rides by GXS Bank? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Debit_Card/Fees_and_Charges_of_GXS_Debit_Card/Why_am_I_being_charged_%240.10_for_my_BUS%2F%2FMRT_rides_by_GXS_Bank%3F
+Scraped: 2025-11-28T02:03:35.098109
+Word Count: 110
+Is FAQ Answer: True
+
+================================================================================
+
+We understand that every cent matters! When you tap your GXS Debit Card at the gantry, a $0.10 pre-authorisation charge is made to ensure your card is active and ready. Not to worry, this isn't your actual fare and it'll be promptly returned once the final transaction details from SimplyGo come in.
+If for any reason the $0.10 charge fails, fret not! You can approach the staff at the MRT station for further assistance. Alternatively, you can also top up your GXS Saving Account's Main Account and give it another go. Once the $0.10 pre-authorisation is done, you should be able to exit by tapping your card at the gantry.

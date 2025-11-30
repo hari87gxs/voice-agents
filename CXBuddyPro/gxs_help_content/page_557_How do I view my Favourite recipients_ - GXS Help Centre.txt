@@ -1,0 +1,9 @@
+Title: How do I view my Favourite recipients? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/GXS_Biz_Account_Payments/How_do_I_view_my_Favourite_recipients%3F
+Scraped: 2025-11-28T02:23:10.168577
+Word Count: 32
+Is FAQ Answer: True
+
+================================================================================
+
+To view your Favourite recipients, open your GXS Bank app. Tap on 'Send Money' on the top bar and you will be able to see your Favourite recipients in the Favourite tab.

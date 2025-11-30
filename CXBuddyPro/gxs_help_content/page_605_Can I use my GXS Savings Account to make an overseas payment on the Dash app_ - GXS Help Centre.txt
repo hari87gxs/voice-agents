@@ -1,0 +1,9 @@
+Title: Can I use my GXS Savings Account to make an overseas payment on the Dash app? - GXS Help Centre
+URL: https://help.gxs.com.sg/Grab_and_Singtel_Experiences/GXS_on_Singtel_Dash/Can_I_use_my_GXS_Savings_Account_to_make_an_overseas_payment_on_the_Dash_app%3F
+Scraped: 2025-11-28T02:25:53.863053
+Word Count: 23
+Is FAQ Answer: True
+
+================================================================================
+
+No, you will not be able to use your GXS Savings Account to pay on the Dash app for services outside of Singapore.

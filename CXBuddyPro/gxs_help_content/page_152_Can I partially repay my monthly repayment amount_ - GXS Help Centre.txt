@@ -1,0 +1,12 @@
+Title: Can I partially repay my monthly repayment amount? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan/GXS_FlexiLoan_Repayment/Can_I_partially_repay_my_monthly_repayment_amount%3F
+Scraped: 2025-11-28T01:15:22.535042
+
+================================================================================
+
+Yes you can. However, please note that late interest charges will apply to any remaining balance of your monthly repayment amount that's not paid by the repayment due date.
+To make a partial payment to a specific loan, here's how:
+In your GXS FlexiLoan home screen, select the individual loan you’d like to repay.
+Key in the amount you’d like to repay.
+Select your payment method.
+Review your repayment details and click 'Confirm & Pay'.

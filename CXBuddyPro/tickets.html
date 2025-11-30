@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CXBuddy - Ticket Dashboard</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .header {
+            background: white;
+            border-radius: 12px;
+            padding: 30px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .header h1 {
+            color: #6b46c1;
+            font-size: 2em;
+            margin-bottom: 10px;
+        }
+
+        .header .subtitle {
+            color: #718096;
+            font-size: 1.1em;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+
+        .stat-card {
+            background: white;
+            border-radius: 12px;
+            padding: 25px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: transform 0.2s;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .stat-card .label {
+            color: #718096;
+            font-size: 0.9em;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 10px;
+        }
+
+        .stat-card .value {
+            color: #2d3748;
+            font-size: 2.5em;
+            font-weight: 700;
+        }
+
+        .stat-card.total .value {
+            color: #6b46c1;
+        }
+
+        .stat-card.open .value {
+            color: #3182ce;
+        }
+
+        .stat-card.in-progress .value {
+            color: #ed8936;
+        }
+
+        .stat-card.resolved .value {
+            color: #38a169;
+        }
+
+        .stat-card.closed .value {
+            color: #718096;
+        }
+
+        .stat-card.avg-time .value {
+            font-size: 2em;
+        }
+
+        .categories-section, .tickets-section {
+            background: white;
+            border-radius: 12px;
+            padding: 30px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .section-title {
+            color: #6b46c1;
+            font-size: 1.5em;
+            font-weight: 700;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .categories-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+        }
+
+        .category-item {
+            background: #f7fafc;
+            border-left: 4px solid #6b46c1;
+            padding: 15px;
+            border-radius: 8px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .category-name {
+            color: #2d3748;
+            font-weight: 600;
+            text-transform: capitalize;
+        }
+
+        .category-count {
+            background: #6b46c1;
+            color: white;
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-weight: 700;
+        }
+
+        .tickets-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        .tickets-table th {
+            background: #f7fafc;
+            color: #2d3748;
+            font-weight: 700;
+            text-transform: uppercase;
+            font-size: 0.85em;
+            letter-spacing: 0.5px;
+            padding: 15px;
+            text-align: left;
+            border-bottom: 2px solid #e2e8f0;
+        }
+
+        .tickets-table td {
+            padding: 15px;
+            border-bottom: 1px solid #e2e8f0;
+            color: #4a5568;
+        }
+
+        .tickets-table tr:hover {
+            background: #f7fafc;
+        }
+
+        .status-badge {
+            display: inline-block;
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 0.85em;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+
+        .status-badge.open {
+            background: #bee3f8;
+            color: #2c5282;
+        }
+
+        .status-badge.in_progress {
+            background: #fbd38d;
+            color: #7c2d12;
+        }
+
+        .status-badge.resolved {
+            background: #9ae6b4;
+            color: #22543d;
+        }
+
+        .status-badge.closed {
+            background: #e2e8f0;
+            color: #4a5568;
+        }
+
+        .priority-badge {
+            display: inline-block;
+            padding: 3px 10px;
+            border-radius: 12px;
+            font-size: 0.8em;
+            font-weight: 600;
+        }
+
+        .priority-badge.urgent {
+            background: #feb2b2;
+            color: #742a2a;
+        }
+
+        .priority-badge.high {
+            background: #fbd38d;
+            color: #7c2d12;
+        }
+
+        .priority-badge.normal {
+            background: #bee3f8;
+            color: #2c5282;
+        }
+
+        .priority-badge.low {
+            background: #e2e8f0;
+            color: #4a5568;
+        }
+
+        .filters {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 20px;
+            align-items: center;
+        }
+
+        .filters select, .filters button {
+            padding: 10px 20px;
+            border: 2px solid #e2e8f0;
+            border-radius: 8px;
+            font-size: 1em;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .filters select:focus, .filters button:focus {
+            outline: none;
+            border-color: #6b46c1;
+        }
+
+        .filters button {
+            background: #6b46c1;
+            color: white;
+            border: none;
+            font-weight: 600;
+        }
+
+        .filters button:hover {
+            background: #553c9a;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #718096;
+            font-size: 1.2em;
+        }
+
+        .error {
+            background: #fed7d7;
+            color: #742a2a;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+
+        .refresh-info {
+            color: #718096;
+            font-size: 0.9em;
+            text-align: right;
+            margin-top: 10px;
+        }
+
+        .ticket-link {
+            color: #6b46c1;
+            text-decoration: none;
+            font-weight: 600;
+        }
+
+        .ticket-link:hover {
+            text-decoration: underline;
+        }
+
+        .time-ago {
+            color: #a0aec0;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🎫 CXBuddy Ticket Dashboard</h1>
+            <div class="subtitle">Real-time customer service analytics</div>
+        </div>
+
+        <div id="error-container"></div>
+
+        <div class="stats-grid">
+            <div class="stat-card total">
+                <div class="label">Total Tickets</div>
+                <div class="value" id="total-tickets">-</div>
+            </div>
+            <div class="stat-card open">
+                <div class="label">Open</div>
+                <div class="value" id="open-tickets">-</div>
+            </div>
+            <div class="stat-card in-progress">
+                <div class="label">In Progress</div>
+                <div class="value" id="in-progress-tickets">-</div>
+            </div>
+            <div class="stat-card resolved">
+                <div class="label">Resolved</div>
+                <div class="value" id="resolved-tickets">-</div>
+            </div>
+            <div class="stat-card closed">
+                <div class="label">Closed</div>
+                <div class="value" id="closed-tickets">-</div>
+            </div>
+            <div class="stat-card avg-time">
+                <div class="label">Avg Resolution Time</div>
+                <div class="value" id="avg-time">-</div>
+            </div>
+        </div>
+
+        <div class="categories-section">
+            <div class="section-title">
+                📊 Categories
+            </div>
+            <div class="categories-list" id="categories-list">
+                <div class="loading">Loading categories...</div>
+            </div>
+        </div>
+
+        <div class="tickets-section">
+            <div class="section-title">
+                📋 Recent Tickets
+            </div>
+            <div class="filters">
+                <select id="status-filter">
+                    <option value="">All Status</option>
+                    <option value="open">Open</option>
+                    <option value="in_progress">In Progress</option>
+                    <option value="resolved">Resolved</option>
+                    <option value="closed">Closed</option>
+                </select>
+                <button onclick="refreshData()">🔄 Refresh</button>
+            </div>
+            <div id="tickets-container">
+                <div class="loading">Loading tickets...</div>
+            </div>
+            <div class="refresh-info">Auto-refreshes every 30 seconds</div>
+        </div>
+    </div>
+
+    <script>
+        let currentFilter = '';
+
+        async function fetchStats() {
+            try {
+                const response = await fetch('/api/tickets/stats');
+                const data = await response.json();
+                
+                if (data.status === 'success') {
+                    const stats = data.data;
+                    
+                    // Update total tickets
+                    document.getElementById('total-tickets').textContent = stats.total_tickets;
+                    
+                    // Update status breakdown
+                    document.getElementById('open-tickets').textContent = stats.by_status.open || 0;
+                    document.getElementById('in-progress-tickets').textContent = stats.by_status.in_progress || 0;
+                    document.getElementById('resolved-tickets').textContent = stats.by_status.resolved || 0;
+                    document.getElementById('closed-tickets').textContent = stats.by_status.closed || 0;
+                    
+                    // Update average resolution time
+                    const avgHours = stats.avg_resolution_hours;
+                    let timeDisplay = '-';
+                    if (avgHours !== null) {
+                        if (avgHours < 1) {
+                            timeDisplay = `${Math.round(avgHours * 60)}m`;
+                        } else {
+                            timeDisplay = `${avgHours.toFixed(1)}h`;
+                        }
+                    }
+                    document.getElementById('avg-time').textContent = timeDisplay;
+                    
+                    // Update categories
+                    updateCategories(stats.by_category);
+                }
+            } catch (error) {
+                console.error('Failed to fetch stats:', error);
+                showError('Failed to load statistics');
+            }
+        }
+
+        function updateCategories(categories) {
+            const container = document.getElementById('categories-list');
+            
+            if (!categories || Object.keys(categories).length === 0) {
+                container.innerHTML = '<div class="loading">No categories yet</div>';
+                return;
+            }
+            
+            const categoryHTML = Object.entries(categories)
+                .sort((a, b) => b[1] - a[1])
+                .map(([name, count]) => `
+                    <div class="category-item">
+                        <div class="category-name">${name.replace(/_/g, ' ')}</div>
+                        <div class="category-count">${count}</div>
+                    </div>
+                `)
+                .join('');
+            
+            container.innerHTML = categoryHTML;
+        }
+
+        async function fetchTickets(status = '') {
+            try {
+                const url = status ? `/api/tickets?status=${status}&limit=50` : '/api/tickets?limit=50';
+                const response = await fetch(url);
+                const data = await response.json();
+                
+                if (data.status === 'success') {
+                    displayTickets(data.data);
+                }
+            } catch (error) {
+                console.error('Failed to fetch tickets:', error);
+                showError('Failed to load tickets');
+            }
+        }
+
+        function displayTickets(tickets) {
+            const container = document.getElementById('tickets-container');
+            
+            if (!tickets || tickets.length === 0) {
+                container.innerHTML = '<div class="loading">No tickets found</div>';
+                return;
+            }
+            
+            const tableHTML = `
+                <table class="tickets-table">
+                    <thead>
+                        <tr>
+                            <th>Ticket ID</th>
+                            <th>Customer</th>
+                            <th>Status</th>
+                            <th>Priority</th>
+                            <th>Category</th>
+                            <th>Created</th>
+                            <th>Summary</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        ${tickets.map(ticket => `
+                            <tr>
+                                <td>
+                                    <a href="#" class="ticket-link" onclick="viewTicket('${ticket.ticket_id}'); return false;">
+                                        ${ticket.ticket_id}
+                                    </a>
+                                </td>
+                                <td>${ticket.customer_name || 'Unknown'}</td>
+                                <td>
+                                    <span class="status-badge ${ticket.status}">
+                                        ${ticket.status.replace(/_/g, ' ')}
+                                    </span>
+                                </td>
+                                <td>
+                                    <span class="priority-badge ${ticket.priority}">
+                                        ${ticket.priority}
+                                    </span>
+                                </td>
+                                <td>${ticket.category ? ticket.category.replace(/_/g, ' ') : '-'}</td>
+                                <td>
+                                    <div>${new Date(ticket.created_at).toLocaleString()}</div>
+                                    <div class="time-ago">${timeAgo(ticket.created_at)}</div>
+                                </td>
+                                <td>${ticket.summary || '-'}</td>
+                            </tr>
+                        `).join('')}
+                    </tbody>
+                </table>
+            `;
+            
+            container.innerHTML = tableHTML;
+        }
+
+        function timeAgo(timestamp) {
+            const seconds = Math.floor((new Date() - new Date(timestamp)) / 1000);
+            
+            if (seconds < 60) return `${seconds}s ago`;
+            if (seconds < 3600) return `${Math.floor(seconds / 60)}m ago`;
+            if (seconds < 86400) return `${Math.floor(seconds / 3600)}h ago`;
+            return `${Math.floor(seconds / 86400)}d ago`;
+        }
+
+        function viewTicket(ticketId) {
+            // Open ticket details in new window/modal
+            window.open(`/api/tickets/${ticketId}`, '_blank');
+        }
+
+        function showError(message) {
+            const container = document.getElementById('error-container');
+            container.innerHTML = `<div class="error">${message}</div>`;
+            setTimeout(() => {
+                container.innerHTML = '';
+            }, 5000);
+        }
+
+        function refreshData() {
+            fetchStats();
+            fetchTickets(currentFilter);
+        }
+
+        // Event listeners
+        document.getElementById('status-filter').addEventListener('change', (e) => {
+            currentFilter = e.target.value;
+            fetchTickets(currentFilter);
+        });
+
+        // Initial load
+        refreshData();
+
+        // Auto-refresh every 30 seconds
+        setInterval(refreshData, 30000);
+    </script>
+</body>
+</html>

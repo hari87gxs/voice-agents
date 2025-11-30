@@ -1,0 +1,14 @@
+Title: How do I fund my GXS Biz Account? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/Fund_GXS_Biz_Account/How_do_I_fund_my_GXS_Biz_Account%3F
+Scraped: 2025-11-28T02:09:10.626092
+Word Count: 98
+Is FAQ Answer: True
+
+================================================================================
+
+You may fund your GXS Biz Account via FAST transfer:
+On the GXS homescreen, tap 'Add Money'.
+You’ll see your GXS beneficiary name, account number, bank name, bank code, and branch code.
+Log in to the bank account you wish to transfer money from, to fund your GXS Biz Account.
+Input your GXS Biz Account's details in another bank account's details to transfer money to your GXS Biz Account.
+(Note: At the moment, we do not support the receipt of funds to GXS Biz Accounts via Telegraphic Transfer, Cheque and Non-FAST transactions such as GIRO, MEPS & eGIRO.)

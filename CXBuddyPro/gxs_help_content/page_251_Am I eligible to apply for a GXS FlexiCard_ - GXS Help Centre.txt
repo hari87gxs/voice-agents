@@ -1,0 +1,13 @@
+Title: Am I eligible to apply for a GXS FlexiCard? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiCard/Apply_for_a_GXS_FlexiCard/Am_I_eligible_to_apply_for_a_GXS_FlexiCard%3F
+Scraped: 2025-11-28T02:06:01.776679
+Word Count: 127
+Is FAQ Answer: True
+
+================================================================================
+
+You will be eligible to apply for a GXS FlexiCard when you meet all of the following criteria:
+Age: between 21 - 55 years
+Nationality: Singapore Citizen/ Singapore Permanent Resident
+Do not have a GXS FlexiLoan account or Grab DAX PCA (Partner Cash Advance) account or GXS Biz Account and/or GXS FlexiLoan Biz
+While there is no income requirement to apply for a GXS FlexiCard, do note that all GXS FlexiCard applications go through an evaluation process which is aligned with our internal requirements. This process includes an assessment of the applicant’s credit profile and eligibility. For Grab users, including Grab drivers and delivery partners, your transactions and earnings may be relevant for credit assessments and could be shared between Grab and GXS Bank for these purposes.

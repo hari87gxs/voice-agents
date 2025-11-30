@@ -1,0 +1,10 @@
+Title: I did not receive an SMS OTP when I tried to log in to a new device. What should I do? - GXS Help Centre
+URL: https://help.gxs.com.sg/Emergencies/Login_Issues/I_did_not_receive_an_SMS_OTP_when_I_tried_to_log_in_to_a_new_device._What_should_I_do%3F
+Scraped: 2025-11-28T01:08:58.156953
+
+================================================================================
+
+Check if your data roaming has been activated to receive SMS. If you’ve lost your phone or changed your number, please reach out for help at:
+GXS Hotline: 1800 866 6685 or (+65) 6866 6685 (from overseas)
+GXS Customer Support Email:
+help@gxs.com.sg

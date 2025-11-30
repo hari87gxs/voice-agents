@@ -1,0 +1,15 @@
+Title: How do I request for a fee waiver for my GXS FlexiCard? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiCard/GXS_FlexiCard_Fees_and_Charges/How_do_I_request_for_a_fee_waiver_for_my_GXS_FlexiCard%3F
+Scraped: 2025-11-28T02:04:48.708046
+Word Count: 54
+Is FAQ Answer: True
+
+================================================================================
+
+Here's how you can request for a GXS FlexiCard fee waiver:
+Via GXS FlexiCard transaction history
+Log in to the GXS Bank app.
+Navigate to your GXS FlexiCard transaction history.
+Select the transaction for which you want a fee waiver.
+Tap on 'Get help'.
+Select ‘Requesting a fee waiver’ button and complete the form.

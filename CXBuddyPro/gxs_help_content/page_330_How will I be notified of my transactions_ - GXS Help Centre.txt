@@ -1,0 +1,9 @@
+Title: How will I be notified of my transactions? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Keeping_Your_Payments_Secure/How_will_I_be_notified_of_my_transactions%3F
+Scraped: 2025-11-28T02:10:13.162992
+Word Count: 40
+Is FAQ Answer: True
+
+================================================================================
+
+We will notify you of incoming and outgoing transactions via your email address in GXS records. We will also send you push notifications through the GXS Bank app. A gentle reminder from us to enable push notifications via mobile settings!

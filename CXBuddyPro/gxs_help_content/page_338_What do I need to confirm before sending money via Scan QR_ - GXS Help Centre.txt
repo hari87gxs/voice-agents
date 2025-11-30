@@ -1,0 +1,12 @@
+Title: What do I need to confirm before sending money via Scan QR? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Using_Scan_QR/What_do_I_need_to_confirm_before_sending_money_via_Scan_QR%3F
+Scraped: 2025-11-28T02:10:40.265642
+Word Count: 61
+Is FAQ Answer: True
+
+================================================================================
+
+For individuals:
+Check that your recipient's mobile number and registered name displayed on the screen are accurate before proceeding with your transaction. Confirm with the recipient if you're not sure!
+For merchants:
+You can check the merchant's UEN number and registered name displayed on the screen before proceeding with your transaction. Be sure to ask the merchant if you're having doubts!

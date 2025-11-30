@@ -1,0 +1,13 @@
+Title: How do I freeze / unfreeze my GXS Debit Card? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Debit_Card/Usage_of_GXS_Debit_Card/How_do_I_freeze_%2F%2F_unfreeze_my_GXS_Debit_Card%3F
+Scraped: 2025-11-28T02:04:24.503006
+Word Count: 70
+Is FAQ Answer: True
+
+================================================================================
+
+You can temporarily stop your active GXS Debit Card from being used by freezing it. If you would like to use your debit card again, simply unfreeze it.
+Here's how you can freeze / unfreeze your debit card:
+On the GXS Bank app home screen, tap on the debit card icon beside your GXS Savings Account balance.
+Click on 'Freeze Card' or 'Unfreeze Card'.
+Confirm the Freeze or Unfreeze request.

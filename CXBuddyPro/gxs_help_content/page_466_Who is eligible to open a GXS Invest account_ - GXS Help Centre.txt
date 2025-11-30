@@ -1,0 +1,16 @@
+Title: Who is eligible to open a GXS Invest account? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/Opening_a_GXS_Invest_Account/Who_is_eligible_to_open_a_GXS_Invest_account%3F
+Scraped: 2025-11-28T02:17:48.286675
+Word Count: 135
+Is FAQ Answer: True
+
+================================================================================
+
+You can open a GXS Invest account if:
+You are a Singapore Citizen, Permanent Resident, or foreigner with a valid pass
+You have a Singpass Myinfo account
+You are at least 18 years old
+You are residing in Singapore
+You open or hold a GXS Savings Account
+Due to restrictions stated in the fund(s) prospectus, we are unable to offer our investment products to US citizens, including US Permanent Residents and Green Card Holders.
+To open a GXS Invest account, your personal information on Singpass Myinfo has to be accurate and up-to-date. Do ensure that Singpass Myinfo has your latest updated details such as your residential address, email, and phone number. If you need any help updating your information or accessing your Singpass account, you can reach out to the Singpass Helpdesk for further assistance.

@@ -1,0 +1,12 @@
+Title: I just changed my phone but I can't access the GXS app. What should I do? - GXS Help Centre
+URL: https://help.gxs.com.sg/Emergencies/Login_Issues/I_just_changed_my_phone_but_I_can't_access_the_GXS_app._What_should_I_do%3F
+Scraped: 2025-11-28T01:09:01.414266
+
+================================================================================
+
+For your security, we've ensured that your GXS account is registered with only one device at any time. When you log into the GXS Bank app on a new device for the first time, you will be prompted to verify your identity via SingPass. Your old device will automatically be deregistered from your account. If you're using a new iPhone and restored your backup, please uninstall and redownload the GXS Bank app. Your new iPhone will be registered with your account after you log in with SingPass. Still facing issues? Reach out to us at:
+GXS app, Help Centre: GXS Chat (Recommended)
+GXS app, Help Centre: Submit an enquiry
+GXS Hotline: 1800 866 6685 or (+65) 6866 6685 (from overseas)
+GXS Customer Support Email:
+help@gxs.com.sg

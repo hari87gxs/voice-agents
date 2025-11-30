@@ -1,0 +1,14 @@
+Title: I have a virtual GXS Debit Card. How do I request for a physical one? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Debit_Card/Order_and_Delivery_of_GXS_Debit_Card/I_have_a_virtual_GXS_Debit_Card._How_do_I_request_for_a_physical_one%3F
+Scraped: 2025-11-28T02:04:39.124634
+Word Count: 93
+Is FAQ Answer: True
+
+================================================================================
+
+You can request for a physical GXS Debit Card on the GXS Bank app. To do so:
+On the home screen, tap on the debit card icon beside your GXS Savings Account balance.
+Click on 'Order physical card'. Choose from one of the 3 GXS Debit Card designs that we're currently offering
+If you need to, update your mailing address. Then tap 'Send My Card'.
+Your newly minted card will be with you in 5 working days!
+Do note that your virtual and physical GXS Debit Card will bear the same card number.

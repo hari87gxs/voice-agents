@@ -1,0 +1,12 @@
+Title: What are the different fund transfer and transaction limits? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Keeping_Your_Payments_Secure/What_are_the_different_fund_transfer_and_transaction_limits%3F
+Scraped: 2025-11-28T02:10:00.664144
+Word Count: 110
+Is FAQ Answer: True
+
+================================================================================
+
+Here’s an overview of the different fund transfers and transaction limits:
+Pro tip: All transactions and transfers made via the GXS Bank app are instant. Best of all, there are no fees charged by GXS! You can send money to your friends and family, or scan and pay, all in a matter of seconds.
+*Default Daily Limit is the limit set by GXS when you open a GXS Savings Account. You can easily change this limit via the GXS Bank app.
+**Grab Wallet / Singtel Dash transactions refer to the amount of money you spend directly using funds from your linked GXS Savings Account on the Grab and Dash apps.

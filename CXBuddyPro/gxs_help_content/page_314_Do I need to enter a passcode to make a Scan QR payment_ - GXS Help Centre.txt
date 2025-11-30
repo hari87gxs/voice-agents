@@ -1,0 +1,10 @@
+Title: Do I need to enter a passcode to make a Scan QR payment? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Using_Scan_QR/Do_I_need_to_enter_a_passcode_to_make_a_Scan_QR_payment%3F
+Scraped: 2025-11-28T02:09:22.898588
+Word Count: 42
+Is FAQ Answer: True
+
+================================================================================
+
+Applicable to retail accounts only
+To keep you safe, we may require you to re-authenticate via passcode or biometrics before you can make a Scan QR payment. This is an additional security feature we have for transfers of larger sums of money.

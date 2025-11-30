@@ -1,0 +1,9 @@
+Title: How do I check the account transactions in my GXS Savings Account? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Savings_Account/Manage_Account/How_do_I_check_the_account_transactions_in_my_GXS_Savings_Account%3F
+Scraped: 2025-11-28T01:12:08.523128
+
+================================================================================
+
+You can view your transaction history when you click on the 'GXS Savings Account' tile on the home screen. To view your monthly statements,
+Click on 'More' underneath  'Account Balance'.
+Select 'View Statements'.

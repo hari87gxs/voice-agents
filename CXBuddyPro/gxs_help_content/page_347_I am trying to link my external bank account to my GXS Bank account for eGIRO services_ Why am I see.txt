@@ -1,0 +1,14 @@
+Title: I am trying to link my external bank account to my GXS Bank account for eGIRO services. Why am I seeing ‘Fund transfer unsuccessful’ and ‘Something went wrong. Please try again later’ error messages? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/About_eGIRO/I_am_trying_to_link_my_external_bank_account_to_my_GXS_Bank_account_for_eGIRO_services._Why_am_I_seeing_%E2%80%98Fund_transfer_unsuccessful%E2%80%99_and_%E2%80%98Something_went_wrong._Please_try_again_later%E2%80%99_error_messages%3F
+Scraped: 2025-11-28T02:11:06.572711
+Word Count: 43
+Is FAQ Answer: True
+
+================================================================================
+
+Applicable to retail accounts only
+Our eGIRO services are temporarily unavailable. We are sorry for the inconvenience.
+During this interim period, please use these alternative methods to transfer funds to your GXS Savings Account:
+FAST
+PayNow
+Intrabank (applies to GXS Savings Account only)

@@ -1,0 +1,9 @@
+Title: Why can't I update my Singapore mailing and residential addresses to a foreign one? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Update_Personal_Details/Why_can't_I_update_my_Singapore_mailing_and_residential_addresses_to_a_foreign_one%3F#elm-main-content
+Scraped: 2025-11-28T02:32:35.074166
+Word Count: 48
+Is FAQ Answer: True
+
+================================================================================
+
+We currently do not support requests to update Singapore mailing and residential addresses to a foreign one. This includes updating your mobile number to a foreign one too. We do understand there might be genuine scenarios where this is needed, but it's not a feature we currently support.

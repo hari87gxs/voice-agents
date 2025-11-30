@@ -1,0 +1,17 @@
+Title: I’d like to report an unauthorised / erroneous transaction. How should I proceed? - GXS Help Centre
+URL: https://help.gxs.com.sg/Emergencies/Payment_Issues/I%E2%80%99d_like_to_report_an_unauthorised%2F%2Ferroneous_transaction._How_should_I_proceed%3F
+Scraped: 2025-11-28T01:08:00.429976
+
+================================================================================
+
+To make a report, please reach out to us at:
+GXS app, Help Centre: GXS Chat (Recommended)
+GXS app, Help Centre: Submit an enquiry
+GXS Hotline: 1800 866 6685 or (+65) 6866 6685 (from overseas)
+We would need details such as:
+Recipient name
+Recipient’s account number
+Transaction amount
+Transaction date and time
+Any comments entered in the transaction notes
+Please make a police report if you’ve encountered a fraud or scam. We may ask you to file a police report to facilitate our investigation.

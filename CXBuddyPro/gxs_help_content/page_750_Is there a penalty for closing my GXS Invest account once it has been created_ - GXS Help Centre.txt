@@ -1,0 +1,10 @@
+Title: Is there a penalty for closing my GXS Invest account once it has been created? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/Closing_your_GXS_Invest_Account/Is_there_a_penalty_for_closing_my_GXS_Invest_account_once_it_has_been_created%3F#elm-main-content
+Scraped: 2025-11-28T02:33:21.414366
+Word Count: 32
+Is FAQ Answer: True
+
+================================================================================
+
+There is no penalty for closing your GXS Invest account.
+However, do note that you will not be able to reinstate or reapply for a GXS Invest account once you've closed it.

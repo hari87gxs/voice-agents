@@ -1,0 +1,11 @@
+Title: How do I download my GXS Savings Account monthly statements? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Savings_Account/Account_Statements/How_do_I_download_my_GXS_Savings_Account_monthly_statements%3F
+Scraped: 2025-11-28T01:12:56.615009
+
+================================================================================
+
+Downloading your GXS e-statements is easy, simply:
+Go to 'Main Account'.
+Select 'More Options' (3 dots next to 'Account Balance') .
+Tap 'View my Statement'.
+Select the month you wish to download.

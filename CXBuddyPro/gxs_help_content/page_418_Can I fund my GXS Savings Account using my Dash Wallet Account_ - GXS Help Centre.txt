@@ -1,0 +1,12 @@
+Title: Can I fund my GXS Savings Account using my Dash Wallet Account? - GXS Help Centre
+URL: https://help.gxs.com.sg/Grab_and_Singtel_Experiences/GXS_on_Singtel_Dash/Can_I_fund_my_GXS_Savings_Account_using_my_Dash_Wallet_Account%3F
+Scraped: 2025-11-28T02:14:56.835174
+Word Count: 93
+Is FAQ Answer: True
+
+================================================================================
+
+Yes, you can!
+To move funds from your Dash Wallet to your GXS account, you can use the 'Send Money' function in the Dash app via two ways:
+If you have set up GXS Savings Account as your PayNow account via Phone Number, you can enter that phone number within the PayNow option.
+You can also send via your account number by pressing 'Bank/Wallet Account' and either doing a One Time transfer or add a recipient with GXS Bank as the Bank name, your account number (starting with 888) and your account name.

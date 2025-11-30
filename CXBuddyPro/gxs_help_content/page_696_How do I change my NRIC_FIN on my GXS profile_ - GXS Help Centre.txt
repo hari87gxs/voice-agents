@@ -1,0 +1,17 @@
+Title: How do I change my NRIC/FIN on my GXS profile? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Update_Personal_Details/How_do_I_change_my_NRIC%2F%2FFIN_on_my_GXS_profile%3F#elm-main-content
+Scraped: 2025-11-28T02:30:34.057244
+Word Count: 89
+Is FAQ Answer: True
+
+================================================================================
+
+We rely on Singpass Myinfo for some of your personal details, so this cannot be changed at the moment. If you’ve changed your NRIC/FIN since signing up with us (e.g. due to a change in residency status), please reach out to us for assistance at:
+GXS Bank app, Help Centre: GXS Chat (recommended)
+GXS Bank app, Help Centre: Submit an enquiry
+GXS Hotline:
+1800 866 6685
+or (+65) 6866 6685 (from overseas)
+GXS Customer Support Email:
+help@gxs.com.sg
+You may be asked to provide proof of NRIC/FIN change via email.

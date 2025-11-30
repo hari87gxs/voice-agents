@@ -1,0 +1,12 @@
+Title: Can I use Singpass Face Verification on any device? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Using_the_App/Can_I_use_Singpass_Face_Verification_on_any_device%3F
+Scraped: 2025-11-28T02:11:07.528945
+Word Count: 51
+Is FAQ Answer: True
+
+================================================================================
+
+Singpass Face Verification can be used on most modern devices that have a camera and internet access. However, for the best experience, it is recommended to use a device with a high-quality camera and stable internet connection.
+For more information on Singpass Face Verification, you can refer to
+Singpass Helpdesk
+.

@@ -1,0 +1,17 @@
+Title: My physical GXS FlexiCard was lost/stolen. What should I do? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiCard/Manage_FlexiCard_Disputes_and_Issues/My_physical_GXS_FlexiCard_was_lost%2F%2Fstolen._What_should_I_do%3F
+Scraped: 2025-11-28T02:06:29.487018
+Word Count: 83
+Is FAQ Answer: True
+
+================================================================================
+
+You can temporarily stop the usage of your GXS FlexiCard by freezing it. If you'd like to use your card again, simply unfreeze it.
+To freeze/unfreeze your GXS FlexiCard:
+On the GXS Bank app FlexiCard homescreen, tap on 'Freeze' or 'Unfreeze'.
+Confirm the Freeze or Unfreeze request.
+If you're certain that you have lost your GXS FlexiCard, please cancel your card immediately.
+To cancel your GXS FlexiCard:
+On the GXS FlexiCard homescreen, tap on 'Manage'.
+Select 'Cancel card'.
+Select 'Cancel' again to confirm.

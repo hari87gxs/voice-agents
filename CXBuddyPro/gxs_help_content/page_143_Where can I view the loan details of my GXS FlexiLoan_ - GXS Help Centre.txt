@@ -1,0 +1,9 @@
+Title: Where can I view the loan details of my GXS FlexiLoan? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan/Manage_GXS_FlexiLoan_Account/Where_can_I_view_the_loan_details_of_my_GXS_FlexiLoan%3F
+Scraped: 2025-11-28T01:14:55.071835
+
+================================================================================
+
+You can view details of your GXS FlexiLoan by simply logging into your GXS Bank app.
+Your loan details can be found within the GXS FlexiLoan home screen. You’ll be able to view your available credit limit, interest rate, and any borrowed loan(s).
+If you have active loan(s), you’ll also be able to view your monthly instalment(s) amount, upcoming due date, number of instalments paid/remaining, and the remaining amount(s) you have left to pay on your loan(s).

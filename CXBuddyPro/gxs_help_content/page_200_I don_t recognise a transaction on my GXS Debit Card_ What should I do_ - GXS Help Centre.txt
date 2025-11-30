@@ -1,0 +1,26 @@
+Title: I don't recognise a transaction on my GXS Debit Card. What should I do? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Debit_Card/Manage_Card_Disputes_and_Issues/I_don't_recognise_a_transaction_on_my_GXS_Debit_Card._What_should_I_do%3F
+Scraped: 2025-11-28T02:03:16.561623
+Word Count: 218
+Is FAQ Answer: True
+
+================================================================================
+
+You can raise a dispute for the transaction either from the Transaction Details view or through the Help Centre.
+To raise a dispute from the Transaction Details view, you need to:
+On the GXS Bank app home screen, tap on the debit card icon by your GXS Savings Account balance.
+Scroll through the transactions to find the suspicious transaction.
+Select the transaction to open up the Transaction Details view.
+Tap on 'Get Help'.
+Select 'Contact us via email'.
+Under ‘Did you authorise this transaction’, select 'Yes' or 'No'.
+Next, select the appropriate reason under 'Reasons for dispute'.
+Lastly, provide any details and documents to support the investigation about this dispute.
+To raise a dispute through the Help Centre, you need to:
+On the GXS Bank app Help Centre, tap on 'Get more help'.
+Tap on 'Contact us via email' and select 'Card transaction dispute' under ‘What kind of issue is it?’.
+Enter the Transaction ID you wish to dispute. You can copy this from the Transaction Details view.
+Under ‘Did you authorise this transaction’, select 'Yes' or 'No'.
+Next, select the appropriate reason under 'Reasons for dispute'.
+Lastly, provide any supporting details and documents to support the investigation about this dispute.
+Do note that for unauthorised transactions, the bank will perform a card block to protect your account.

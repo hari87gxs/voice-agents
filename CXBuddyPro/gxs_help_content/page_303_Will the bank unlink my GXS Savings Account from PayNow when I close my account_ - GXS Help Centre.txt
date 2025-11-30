@@ -1,0 +1,10 @@
+Title: Will the bank unlink my GXS Savings Account from PayNow when I close my account? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Using_PayNow/Will_the_bank_unlink_my_GXS_Savings_Account_from_PayNow_when_I_close_my_account%3F
+Scraped: 2025-11-28T02:08:49.744095
+Word Count: 22
+Is FAQ Answer: True
+
+================================================================================
+
+Applicable to retail accounts only
+Yes, the bank will unlink your GXS Savings Account from PayNow after your account has been closed.

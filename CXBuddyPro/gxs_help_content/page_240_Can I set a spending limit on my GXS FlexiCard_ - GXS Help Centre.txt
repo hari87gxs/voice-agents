@@ -1,0 +1,13 @@
+Title: Can I set a spending limit on my GXS FlexiCard? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiCard/Usage_of_GXS_FlexiCard/6Can_I_set_a_spending_limit_on_my_GXS_FlexiCard%3F
+Scraped: 2025-11-28T02:05:24.681836
+Word Count: 53
+Is FAQ Answer: True
+
+================================================================================
+
+By default, your GXS FlexiCard spending limit is set to S$500. Here's how you can change it:
+On the GXS FlexiCard homescreen, tap on 'Manage'.
+Tap on 'Set daily card transaction limit'.
+Adjust your limit and click on 'Confirm'.
+From here on, card purchases that exceed your spending limit will not be approved.

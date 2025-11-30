@@ -1,0 +1,12 @@
+Title: How do I send money to another GXS user? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Send_Money/How_do_I_send_money_to_another_GXS_user%3F
+Scraped: 2025-11-28T02:08:58.509319
+Word Count: 41
+Is FAQ Answer: True
+
+================================================================================
+
+You can do so via PayNow or through bank transfer. To make a bank transfer,
+Go to 'Send Money' on the GXS Bank app homepage.
+Click 'Account Number'.
+Enter the recipient’s name, account number, and the amount you wish to transfer.

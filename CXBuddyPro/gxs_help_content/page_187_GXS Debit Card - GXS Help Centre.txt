@@ -1,0 +1,49 @@
+Title: GXS Debit Card - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Debit_Card
+Scraped: 2025-11-28T02:02:29.366332
+Word Count: 478
+Is FAQ Answer: False
+
+================================================================================
+
+Usage of GXS Debit Card
+No image available
+Can I add my GXS Debit Card to Google Pay or Apple Pay?
+Can I use my GXS Debit Card to withdraw cash locally / internationally?
+How do I cancel my GXS Debit Card?
+How do I enable my physical GXS Debit Card for overseas use?
+How do I freeze / unfreeze my GXS Debit Card?
+How do I set a spending limit on my GXS Debit Card?
+How do I view my GXS Debit Card information?
+How do I view my GXS Debit Card monthly statements?
+I'm not receiving the One-Time Password (OTP) for my GXS Debit Card card payments online, what should I do?
+I received my physical GXS Debit Card and found a barcode printed in the mailer. What is it used for?
+I see a settlement date in my GXS Debit Card transaction details. What does this mean?
+Order and Delivery of GXS Debit Card
+No image available
+How do I activate my physical GXS Debit Card?
+How do I replace my GXS Debit Card?
+I haven't received my physical GXS Debit Card. When will it be delivered?
+I have a virtual GXS Debit Card. How do I request for a physical one?
+Manage Card Disputes and Issues
+No image available
+How long will my GXS Debit Card card transaction dispute take to resolve?
+I did not receive my refund from my GXS Debit Card transaction. What should I do?
+I don't recognise a transaction on my GXS Debit Card. What should I do?
+My physical GXS Debit Card was lost / stolen. What should I do?
+What should I do if a merchant has charged me multiple times on my GXS Debit Card for a wrong amount, goods not received, or services not rendered? And what if I've yet to receive a refund?
+Fees and Charges of GXS Debit Card
+No image available
+Are there any charges for using the GXS Debit Card?
+Are there fees for the GXS Debit Card?
+How are exchange rates determined for transactions in foreign currencies on my GXS Debit Card?
+How do we calculate and charge the actual fare to your GXS Debit Card for BUS/MRT rides?
+Is there a fee to request for a new GXS Debit Card?
+I made a transaction in a foreign currency with my GXS Debit Card. Why is the final SGD transaction amount debited from my account different?
+Why am I being charged $0.10 for my BUS/MRT rides by GXS Bank?
+GXS Debit Card Rewards
+No image available
+Can I earn GXS Debit Card rewards from Grab transactions using my GXS Debit Card as the payment method?
+How do I access my GXS Debit Card rewards on my GXS app?
+How do I earn rewards with my GXS Debit Card?
+Why didn't I receive my cash reward for my GXS Debit Card transaction?

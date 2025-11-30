@@ -1,0 +1,9 @@
+Title: Is there a cooling-off period after I add a Favorite recipient for my GXS Biz Account? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/GXS_Biz_Account_Payments/Is_there_a_cooling-off_period_after_I_add_a_Favorite_recipient_for_my_GXS_Biz_Account%3F#elm-main-content
+Scraped: 2025-11-28T02:28:19.266307
+Word Count: 19
+Is FAQ Answer: True
+
+================================================================================
+
+Nope, there isn't! Once the recipient is added as 'Favourite', you can proceed to transfer money to that recipient.

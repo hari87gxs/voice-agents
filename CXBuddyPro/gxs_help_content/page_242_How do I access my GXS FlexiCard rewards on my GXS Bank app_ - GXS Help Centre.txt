@@ -1,0 +1,9 @@
+Title: How do I access my GXS FlexiCard rewards on my GXS Bank app? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiCard/GXS_FlexiCard_Rewards/2How_do_I_access_my_GXS_FlexiCard_rewards_on_my_GXS_Bank_app%3F
+Scraped: 2025-11-28T02:05:30.710218
+Word Count: 21
+Is FAQ Answer: True
+
+================================================================================
+
+To view your GXS FlexiCard rewards, navigate to the GXS FlexiCard homescreen on the GXS Bank app and tap on 'Rewards'.

@@ -1,0 +1,9 @@
+Title: Is there a daily transaction limit for performing Dash transactions using funds from my GXS Savings Account? - GXS Help Centre
+URL: https://help.gxs.com.sg/Grab_and_Singtel_Experiences/GXS_on_Singtel_Dash/Is_there_a_daily_transaction_limit_for_performing_Dash_transactions_using_funds_from_my_GXS_Savings_Account%3F
+Scraped: 2025-11-28T02:08:20.962997
+Word Count: 50
+Is FAQ Answer: True
+
+================================================================================
+
+Yes, there is a daily transaction limit for all transactions made on Dash where GXS Savings Account is the payment method (including top ups of your Dash Wallet). By default, your daily transaction limit is automatically set to $1,000. You can change this limit to up to $15,000 per day.

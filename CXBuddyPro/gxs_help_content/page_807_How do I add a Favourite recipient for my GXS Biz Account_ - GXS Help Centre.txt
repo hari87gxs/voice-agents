@@ -1,0 +1,16 @@
+Title: How do I add a Favourite recipient for my GXS Biz Account? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/GXS_Biz_Account_Payments/How_do_I_add_a_Favourite_recipient_for_my_GXS_Biz_Account%3F#elm-main-content
+Scraped: 2025-11-28T02:36:14.729642
+Word Count: 91
+Is FAQ Answer: True
+
+================================================================================
+
+You can Add Favourite from your recent recipient list.
+1. Open your GXS Bank app,
+2. Tap on "Send Money" on the top bar
+3. If you have previously completed a transaction, you will see your recipient in the recent list
+4. Tap on "⭐" to add as a Favourite recipient
+5. Edit your recipient's nickname.
+6. You may be prompted to complete additional verification for added security of your account.
+Once the addition of your Favourite recipient is successful, you will receive an in-app notification as confirmation of the addition.

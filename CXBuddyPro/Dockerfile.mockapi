@@ -1,0 +1,20 @@
+FROM --platform=linux/amd64 python:3.11-slim
+
+WORKDIR /app
+
+# Install dependencies
+COPY requirements.txt .
+RUN pip install --no-cache-dir fastapi uvicorn
+
+# Copy mock API server
+COPY mock_gxs_api.py .
+
+# Expose port
+EXPOSE 8080
+
+# Set environment
+ENV HOST=0.0.0.0
+ENV PORT=8080
+
+# Run the mock API server - Cloud Run provides PORT env var
+CMD uvicorn mock_gxs_api:app --host 0.0.0.0 --port $PORT

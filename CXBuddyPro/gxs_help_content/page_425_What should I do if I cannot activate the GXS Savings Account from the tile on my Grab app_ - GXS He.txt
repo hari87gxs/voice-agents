@@ -1,0 +1,10 @@
+Title: What should I do if I cannot activate the GXS Savings Account from the tile on my Grab app? - GXS Help Centre
+URL: https://help.gxs.com.sg/Grab_and_Singtel_Experiences/Sign_Up_for_GXS_on_Grab/What_should_I_do_if_I_cannot_activate_the_GXS_Savings_Account_from_the_tile_on_my_Grab_app%3F
+Scraped: 2025-11-28T02:15:17.667773
+Word Count: 46
+Is FAQ Answer: True
+
+================================================================================
+
+Please close the app, launch the app again and retry.
+If you’re still facing an issue with activating your GXS Savings Account on the Grab app, please reach out to the friendly folks at Grab Help Centre for assistance and they will be happy to help.

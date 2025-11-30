@@ -1,0 +1,12 @@
+Title: Is there a daily limit for PayNow transactions when I use Scan QR on the GXS app? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Using_Scan_QR/Is_there_a_daily_limit_for_PayNow_transactions_when_I_use_Scan_QR_on_the_GXS_app%3F
+Scraped: 2025-11-28T02:11:33.936495
+Word Count: 49
+Is FAQ Answer: True
+
+================================================================================
+
+The daily limit for your PayNow transactions (including Scan QR) will be subject to the daily transfer limit you set for your GXS Savings Account. The default daily transfer limit is S$1,000. Here's how you can change that:
+Go to 'Me'.
+Tap on 'Change Limit'.
+Select 'Daily Transfer Limit'.

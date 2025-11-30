@@ -1,0 +1,13 @@
+Title: How do I view my GXS FlexiCard monthly statements? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiCard/Usage_of_GXS_FlexiCard/How_do_I_view_my_GXS_FlexiCard_monthly_statements%3F
+Scraped: 2025-11-28T02:06:17.030254
+Word Count: 44
+Is FAQ Answer: True
+
+================================================================================
+
+You can view your GXS FlexiCard monthly statements on the GXS Bank app.
+On the GXS FlexiCard homescreen, tap on 'Manage'.
+Tap on 'Monthly Statements'.
+Select a month.
+Do note that monthly statements are generated 14 calendar days before your card payment due date.

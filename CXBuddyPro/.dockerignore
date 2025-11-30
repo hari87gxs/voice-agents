@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Logs
+*.log
+server.log
+smart_scrape_unbuffered.log
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Documentation
+*.md
+ARCHITECTURE.md
+CODE_EXPLANATION.md
+DEPLOYMENT.md
+CONFIG_GUIDE.md
+README.md
+
+# Deployment
+.gcloudignore
+deploy.sh
+app.yaml
+
+# Test files
+test_*.py
+run_tests.py
+test_e2e.py
+
+# Scraped content (except consolidated file)
+gxs_help_content/page_*.txt
+gxs_help_content/scrape_metadata.json
+
+# Scraper scripts (not needed in production)
+scraper.py
+incremental_scraper.py
+smart_scraper.py

@@ -1,0 +1,12 @@
+Title: I see 2 sections under the ‘Send Money’ screen. What does ‘Recent’ and ‘Favourite’ mean? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Add_Favourite/I_see_2_sections_under_the_%E2%80%98Send_Money%E2%80%99_screen._What_does_%E2%80%98Recent%E2%80%99_and_%E2%80%98Favourite%E2%80%99_mean%3F
+Scraped: 2025-11-28T02:09:04.619596
+Word Count: 121
+Is FAQ Answer: True
+
+================================================================================
+
+Applicable to retail accounts only
+The 'Recent' tab, shows all the recipients you recently transferred funds to. This will include transfers performed via FAST, PayNow and Scan and Pay. Your recent recipients are shown in chronological order, with the most recent transfer made listed at the top.
+From this 'Recent' tab, you can then add a recent recipient as a 'Favourite'. To do this, just select a recipient from the list, tap on the star icon, provide a preferred name for the recipient and save the recipient as Favourite. This Favourite recipient will now be shown in the 'Favourite' tab.
+Congrats! You can now easily initiate a fund transfer to either a 'Recent' or a 'Favourite' recipient with a single tap.

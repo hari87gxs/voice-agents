@@ -1,0 +1,9 @@
+Title: Are the returns that I see already reflective of the annual management fee? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/Fees_and_Charges/Are_the_returns_that_I_see_already_reflective_of_the_annual_management_fee%3F
+Scraped: 2025-11-28T02:19:13.314108
+Word Count: 29
+Is FAQ Answer: True
+
+================================================================================
+
+Returns shown in the GXS mobile app have already reflected the deduction of the annual management fee. You need not worry about other fee deductions from your investment returns.

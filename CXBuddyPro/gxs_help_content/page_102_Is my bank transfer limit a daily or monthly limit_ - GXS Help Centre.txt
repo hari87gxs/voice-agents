@@ -1,0 +1,7 @@
+Title: Is my bank transfer limit a daily or monthly limit? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Savings_Account/Manage_Account/Is_my_bank_transfer_limit_a_daily_or_monthly_limit%3F
+Scraped: 2025-11-28T01:12:32.286588
+
+================================================================================
+
+Your bank transfer limit is the daily limit for all transactions. This includes FAST payments and transfers to both GXS and non-GXS bank accounts. You may change the limit within your GXS Bank app.

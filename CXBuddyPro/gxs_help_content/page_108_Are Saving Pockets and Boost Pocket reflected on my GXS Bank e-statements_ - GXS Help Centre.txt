@@ -1,0 +1,8 @@
+Title: Are Saving Pockets and Boost Pocket reflected on my GXS Bank e-statements? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Savings_Account/Account_Statements/Are_Saving_Pockets_and_Boost_Pocket_reflected_on_my_GXS_Bank_e-statements%3F
+Scraped: 2025-11-28T01:12:50.463174
+
+================================================================================
+
+Saving Pocket(s) will be reflected on your GXS Bank e-statement if you've added or removed money from them. They will appear even if you've deleted any Saving Pocket within the month. If there is no balance in the Saving Pocket, it will not show up on your statement.
+The Boost Pocket will be reflected on your GXS Bank e-statement once you’ve created one. You will be able to see the base interest and bonus interest earned and credited to the Boost Pocket.

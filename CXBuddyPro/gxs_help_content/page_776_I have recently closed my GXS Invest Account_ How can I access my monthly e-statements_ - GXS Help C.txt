@@ -1,0 +1,10 @@
+Title: I have recently closed my GXS Invest Account. How can I access my monthly e-statements? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/GXS_Invest_Documentation/I_have_recently_closed_my_GXS_Invest_Account._How_can_I_access_my_monthly_e-statements%3F#elm-main-content
+Scraped: 2025-11-28T02:34:39.929452
+Word Count: 49
+Is FAQ Answer: True
+
+================================================================================
+
+Please be sure to download and save your past monthly e-statements, as you will not be able to access them anymore once you have closed your GXS Invest account.
+A final monthly e-statement will be sent to your email address registered with us once your account is successfully closed.

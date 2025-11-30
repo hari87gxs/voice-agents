@@ -1,0 +1,14 @@
+Title: How does Singpass Face Verification work? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Using_the_App/How_does_Singpass_Face_Verification_work%3F
+Scraped: 2025-11-28T02:11:59.506828
+Word Count: 83
+Is FAQ Answer: True
+
+================================================================================
+
+The process of Singpass Face Verification involves several steps to ensure the security and accuracy of identity authentication.
+During the verification process, users are prompted to take a live photo using their device's camera. This photo is then compared against the government's records (CPF Board).
+Do note that it is important to have the Singpass app installed on your device in order to use the face verification feature.
+For a detailed step on the process, you can also refer to
+Singpass Helpdesk
+.

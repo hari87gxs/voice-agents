@@ -1,0 +1,10 @@
+Title: I am a GrabFood and GrabPay merchant, and a GXS Biz Account customer. Can I receive benefits from both GrabFood and GrabPay merchant programs? - GXS Help Centre
+URL: https://help.gxs.com.sg/?title=GXS_Biz_Account/Grab_%26_Singtel_Experiences/I_am_a_GrabFood_and_GrabPay_merchant,_and_a_GXS_Biz_Account_customer._Can_I_receive_benefits_from_both_GrabFood_and_GrabPay_merchant_programs%3F
+Scraped: 2025-11-28T02:14:42.044270
+Word Count: 39
+Is FAQ Answer: True
+
+================================================================================
+
+Eligible merchant outlets will only qualify for one reward, which will be communicated by Grab.
+Dual service merchants onboard GrabFood/Mart and GrabPay, will receive delivery-related rewards (i.e. waived participation in Islandwide Delivery - up to 12km for 3 months).

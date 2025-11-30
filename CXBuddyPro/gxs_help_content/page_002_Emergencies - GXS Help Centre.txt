@@ -1,0 +1,73 @@
+Title: Emergencies - GXS Help Centre
+URL: https://help.gxs.com.sg/Emergencies
+Scraped: 2025-11-28T01:07:05.697741
+
+================================================================================
+
+Have an emergency? We are here to help!
+Contact Us
+No image available
+How do I contact GXS Support or get help?
+How do I leave a complaint?
+How do I leave a compliment?
+How do I leave feedback for GXS?
+Sign Up Issues
+No image available
+I'm unable to sign up for a GXS Savings Account and received an error message that says "It’s not you, it’s us", what should I do?
+I'm unable to sign up for a GXS Savings Account and received an error message that says "Sorry, your application was denied.", what should I do?
+I got the message "Sorry! Your MyInfo details are incomplete." when applying for a GXS Savings Account. What information is needed and what should I do?
+My phone is jailbroken, why can’t I register it?
+What should I do if I can’t access my GXS accounts using Singpass login?
+Which browser should I use to launch the in-app browser, so that I can continue with my sign-up and login process?
+Why can't I register for GXS if my mobile phone does not have passcode protection turned on?
+Payment Issues
+No image available
+In cases of unauthorised transactions, will I be liable for them?
+I had a payment failure due to insufficient funds. If I try again, will there be a duplicate payment?
+I made a wrong transfer. How do I recover my funds?
+I received funds from transactions that I don't recognise or think are erroneous. What should I do?
+I want to transfer money but it’s over my daily transfer limit. What should I do?
+I’d like to appeal against your assessment of the unauthorised transaction(s) which I've reported to you. What should I do?
+I’d like to report an unauthorised / erroneous transaction. How should I proceed?
+There was a transaction failure during two factor (2FA) authentication. How do I resolve this issue?
+What happens after I report an unauthorised transaction to GXS?
+What is the difference between an unauthorised transaction and an erroneous transaction?
+Why was my funds transfer rejected by the other bank?
+Why was my incoming / outgoing payment rejected?
+Security Issues
+No image available
+How do I report an alleged fraud attempt or scam?
+How do I report an email, social media handle, website or application impersonating GXS?
+How do I report fake platforms impersonating GXS? (Email/Social media/Website/App)
+How do I report phishing email or messages, claiming to be from GXS, requesting for my GXS login credentials?
+I did not make this transaction, what should I do?
+How do I report phishing emails or messages from GXS Bank requesting for my login credentials?
+I’ve lost my phone, what should I do?
+What should I do if my phone got infected with malware, leading to the loss of my GXS Bank login credentials?
+What happens after I file a police report and submit it to GXS?
+Why do I need to file a police report?
+Login Issues
+No image available
+How do I unlock my GXS Bank account?
+I can’t log in to my GXS Bank app by using passcode or biometrics. What should I do?
+I did not receive an email OTP when trying to login using a new device, what should I do?
+I did not receive an SMS OTP when I tried to log in to a new device. What should I do?
+I just changed my phone but I can't access the GXS app. What should I do?
+I tried to log in to the GXS app, but there is an error: "Something went wrong, please try logging in later". How do I proceed?
+I tried to reset my GXS PIN with my Singpass account or my NRIC number but I was unable to access my GXS account. What should I do?
+Why does my app crash when I try to log in on my Android phone? I can only log successfully on my second try.
+Why is my GXS Bank app locked?
+Malware Threats
+No image available
+Does GXS collect and store data from my device to detect malware and access my app usage?
+How does GXS detect malware on my device?
+How do I change the accessibility settings for third-party apps that I have downloaded on my device?
+How do I keep up-to-date on the latest scams?
+How do I turn off live screen sharing or mirroring on my device?
+If there are suspected malware(s) on my device, how do I remove the malware(s)?
+What are these security vulnerabilities?
+What are ‘Accessibility’ services and how do hackers exploit them?
+What data does GXS collect from these security measures?
+What should I do to protect myself from malware?
+When will the enhanced security measures take effect?
+Why is GXS restricting access to the GXS app?

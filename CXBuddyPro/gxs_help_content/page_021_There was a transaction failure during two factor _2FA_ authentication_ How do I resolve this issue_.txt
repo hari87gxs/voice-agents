@@ -1,0 +1,12 @@
+Title: There was a transaction failure during two factor (2FA) authentication. How do I resolve this issue? - GXS Help Centre
+URL: https://help.gxs.com.sg/Emergencies/Payment_Issues/There_was_a_transaction_failure_during_two_factor_(2FA)_authentication._How_do_I_resolve_this_issue%3F
+Scraped: 2025-11-28T01:08:03.600102
+
+================================================================================
+
+If a two factor authentication is needed for a transfer, the GXS Bank app will prompt you to complete the authentication. Don’t worry,  your transaction will not go through if this fails. Please reach out to us if you’re facing issues with the 2FA via the following channels:
+GXS Bank app, Help Centre: GXS Chat (recommended)
+GXS Bank app, Help Centre: Submit an enquiry
+GXS Hotline: 1800 866 6685 or (+65) 6866 6685 (from overseas)
+GXS Customer Support Email:
+help@gxs.com.sg

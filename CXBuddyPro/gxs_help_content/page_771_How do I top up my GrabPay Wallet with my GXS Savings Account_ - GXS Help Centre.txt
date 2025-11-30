@@ -1,0 +1,22 @@
+Title: How do I top up my GrabPay Wallet with my GXS Savings Account? - GXS Help Centre
+URL: https://help.gxs.com.sg/Grab_and_Singtel_Experiences/GXS_on_Grab/How_do_I_top_up_my_GrabPay_Wallet_with_my_GXS_Savings_Account%3F#elm-main-content
+Scraped: 2025-11-28T02:34:25.832566
+Word Count: 142
+Is FAQ Answer: True
+
+================================================================================
+
+We're working on making top-ups to your GrabPay Wallet easy peasy. Here's how you can top up your GrabPay Wallet with your GXS Savings Account:
+First, get the VPA link from Grab app. Here's how:
+From your Grab app home screen, tap on your GrabPay Wallet balance.
+Tap on 'Top Up'.
+From the Top Up menu, tap on 'Banking app' > PayNow VPA (If you are doing this for the first time, you should receive a prompt about linking your VPA. Tap on Next > Link VPA).
+Select 'PayNow VPA'.
+Select 'Other Banks'.
+Copy VPA.
+Next, send money from your GXS Bank app using the VPA link:
+On your GXS Bank app home screen, tap on 'Send Money'.
+Select 'VPA'.
+Paste the copied VPA in the top bar.
+Enter your top-up amount and send.
+Top up to your GrabPay Wallet is done!

@@ -1,0 +1,14 @@
+Title: Is my data safe with Singpass Face Verification? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Using_the_App/Is_my_data_safe_with_Singpass_Face_Verification%3F
+Scraped: 2025-11-28T02:13:38.648255
+Word Count: 46
+Is FAQ Answer: True
+
+================================================================================
+
+There are stringent security measures in place to protect our users' personal information. For example, facial data that is retained is encrypted when stored and protected with tamper-evident logging (
+Singpass
+).
+For more information on Singpass Face Verification, you can refer to
+Singpass Helpdesk
+.

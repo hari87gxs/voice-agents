@@ -1,0 +1,10 @@
+Title: How much of my credit limit can I utilise for a Balance Transfer loan? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan/Borrow_a_Balance_Transfer/How_much_of_my_credit_limit_can_I_utilise_for_a_Balance_Transfer_loan%3F
+Scraped: 2025-11-28T01:16:01.470362
+
+================================================================================
+
+You will be granted a sub-limit from which you can take a Balance Transfer loan. This sub-limit is a percentage of your GXS FlexiLoan credit limit.
+Here's how you can locate the sub-limit on the GXS Bank app:
+Open your GXS Bank app. On your GXS FlexiLoan home screen, tap on 'Borrow'.
+Tap on the ‘change’ icon, there you will see the Balance Transfer limit which you can borrow your loan from.

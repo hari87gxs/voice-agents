@@ -1,0 +1,15 @@
+Title: How do I stop or change details on my FAST / funds transfer? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Send_Money/How_do_I_stop_or_change_details_on_my_FAST_%2F%2F_funds_transfer%3F
+Scraped: 2025-11-28T02:09:40.120286
+Word Count: 71
+Is FAQ Answer: True
+
+================================================================================
+
+We cannot stop or change payment details once the receiving bank has accepted your transfer.
+If you have transferred money to a wrong recipient, we would advise you to contact him/her to return the money. If you need more assistance:
+GXS Bank app, Help Centre: GXS Chat
+GXS Bank app, Help Centre: Contact Us form
+GXS Hotline: 1800 866 6685 or (+65) 6866 6685 (from overseas)
+GXS Customer Support Email:
+help@gxs.com.sg

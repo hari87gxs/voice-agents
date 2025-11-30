@@ -1,0 +1,22 @@
+Title: How do I change my mailing / residential address? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Update_Personal_Details/How_do_I_change_my_mailing_%2F%2F_residential_address%3F
+Scraped: 2025-11-28T02:11:39.706570
+Word Count: 153
+Is FAQ Answer: True
+
+================================================================================
+
+To update your mailing address:
+1. On homepage of the GXS Bank app, click on 'Me' tab on bottom right.
+2. Select 'Edit Profile' and click on edit icon for 'Mailing Address'.
+You will be prompted to verify your identity through biometrics (e.g. Touch or Face ID) or passcode. Key in your new mailing address and save to complete the update.
+To update your residential address, please send us a copy of the following documents (dated within the last 3 months):
+Utilities / telecommunication bill or
+Bank / credit card statement or
+Government correspondences or
+NRIC
+To submit your supporting documents, please follow these steps:
+1. From the homescreen of the GXS Bank app, tap on Help Centre (the icon is in the top right corner).
+2. Select 'Submit an enquiry'.
+3. Describe your request and attach your documents.
+Your request will be processed within 2 working days upon receipt of your documents.

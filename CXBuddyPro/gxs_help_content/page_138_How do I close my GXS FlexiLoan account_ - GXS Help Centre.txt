@@ -1,0 +1,13 @@
+Title: How do I close my GXS FlexiLoan account? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan/Manage_GXS_FlexiLoan_Account/How_do_I_close_my_GXS_FlexiLoan_account%3F
+Scraped: 2025-11-28T01:14:40.339921
+
+================================================================================
+
+We're sad to see you go! Do note that the closure is permanent, and you will not be able to reinstate or reapply for GXS FlexiLoan again once you have closed the account.
+Before closing your GXS FlexiLoan account, please ensure that all your loans have been fully repaid. We also encourage you to download all/any monthly statements as you may no longer be able to access the GXS Bank app once your account is closed.
+Once that's done, here's how you can close your GXS FlexiLoan account:
+On the GXS FlexiLoan home screen, tap on 'Manage'.
+Select 'Close Account'.
+Click 'Done'.
+Your GXS FlexiLoan account will be closed.

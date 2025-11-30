@@ -1,0 +1,9 @@
+Title: How to edit my Favourite recipient's nickname? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/GXS_Biz_Account_Payments/How_to_edit_my_Favourite_recipient's_nickname%3F
+Scraped: 2025-11-28T02:09:21.346567
+Word Count: 35
+Is FAQ Answer: True
+
+================================================================================
+
+To edit your Favourite recipients, open your GXS Bank app. Tap on 'Send Money' and swipe left on your recipient tile. Select the edit icon, type in your recipient's new nickname and then tap confirm.

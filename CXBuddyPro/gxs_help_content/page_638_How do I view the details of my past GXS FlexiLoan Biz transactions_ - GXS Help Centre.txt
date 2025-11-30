@@ -1,0 +1,9 @@
+Title: How do I view the details of my past GXS FlexiLoan Biz transactions? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan_Biz/Manage_GXS_FlexiLoan_Biz/How_do_I_view_the_details_of_my_past_GXS_FlexiLoan_Biz_transactions%3F#elm-main-content
+Scraped: 2025-11-28T02:27:35.041123
+Word Count: 19
+Is FAQ Answer: True
+
+================================================================================
+
+Just tap on 'History' on your GXS FlexiLoan Biz home screen within your GXS Bank app. It's that easy!

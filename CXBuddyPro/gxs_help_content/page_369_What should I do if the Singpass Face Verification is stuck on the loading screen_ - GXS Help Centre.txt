@@ -1,0 +1,22 @@
+Title: What should I do if the Singpass Face Verification is stuck on the loading screen? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Using_the_App/What_should_I_do_if_the_Singpass_Face_Verification_is_stuck_on_the_loading_screen%3F
+Scraped: 2025-11-28T02:12:14.983135
+Word Count: 91
+Is FAQ Answer: True
+
+================================================================================
+
+If the Singpass Face Verification is stuck on the loading screen, there are several troubleshooting steps you can take to resolve the issue.
+For iOS users, here are some steps to follow:
+Tap on ‘Settings’
+Select ‘General’
+Select ‘Transfer’ or’ Reset Device’
+Select ‘Reset’
+Reset Network Settings
+Tap on ‘Location & Privacy’
+If the problem persists after trying the above steps, you can reach out for further assistance through the following channels:
+GXS Hotline: (+65) 6866 6685
+GXS Customer Support Email: help@gxs.com.sg
+For Singpass related matters, do contact
+Singpass Helpdesk
+directly.

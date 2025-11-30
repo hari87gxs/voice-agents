@@ -1,0 +1,11 @@
+Title: How do I access my GXS Debit Card rewards on my GXS app? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Debit_Card/GXS_Debit_Card_Rewards/How_do_I_access_my_GXS_Debit_Card_rewards_on_my_GXS_app%3F
+Scraped: 2025-11-28T02:03:31.938280
+Word Count: 29
+Is FAQ Answer: True
+
+================================================================================
+
+On the GXS Bank app home screen:
+Tap on the debit card icon.
+Click on 'Rewards' to view all the rewards you've earned from using your GXS Debit Card.

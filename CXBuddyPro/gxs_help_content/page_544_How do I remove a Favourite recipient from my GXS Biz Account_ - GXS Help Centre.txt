@@ -1,0 +1,13 @@
+Title: How do I remove a Favourite recipient from my GXS Biz Account? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/GXS_Biz_Account_Payments/How_do_I_remove_a_Favourite_recipient_from_my_GXS_Biz_Account%3F
+Scraped: 2025-11-28T02:22:25.675769
+Word Count: 119
+Is FAQ Answer: True
+
+================================================================================
+
+Removing a Favourite from your Favourite list:
+To remove a Favourite recipient, open your GXS Bank app. Tap on "Send Money" and swipe left on your recipient tile. Select the remove icon and confirm your removal.
+Removing a Favourite from your recent recipient list:
+To remove a Favourite recipient, open your GXS Bank app. Tap on "Send Money" and "⭐" on the recipient tile. Then, confirm your removal.
+Once your Favourite recipient removal is successful, the recipient will be removed from your Favourite list. Do note that you will not be able to remove your Favourite recipient immediately after transacting with them. Head to the Favourites tab and slide over the recipient's tile to remove them from the list.

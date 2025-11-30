@@ -1,0 +1,37 @@
+Title: How do I make my monthly repayments? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan/GXS_FlexiLoan_Repayment/How_do_I_make_my_monthly_repayments%3F
+Scraped: 2025-11-28T01:15:28.382528
+
+================================================================================
+
+Making your monthly repayments can be done on the GXS Bank app via the following method(s):
+Using your GXS Savings Account to repay:
+On your GXS FlexiLoan home screen, select the loan you'd like to repay (located at the bottom of the screen).
+Select the amount you'd like to repay. You can choose between:
+Entering an amount of your choice;
+The monthly amount payable option; or
+The full repayment option.
+3. Select to repay with 'GXS Savings Account'.
+4. Review your repayment details and click 'Confirm & Pay'.
+Using a third-party bank account to repay:
+On your GXS FlexiLoan home screen, select the loan you'd like to repay (located at the bottom of the screen).
+Select the amount you'd like to repay. You can choose between:
+Entering an amount of your choice;
+The monthly amount payable option; or
+The full repayment option.
+3. Select to repay with 'Other Bank'.
+4. Review your repayment details and click 'Confirm & Get Instructions'.
+5. Proceed to your debiting third-party bank account to perform a FAST transfer to your GXS FlexiLoan account number. Be mindful to key in the exact amount of your instruction.
+Pro tip
+: Set up your GXS FlexiLoan account with your third-party bank account before your due date, as some banks have a cool-down period before allowing transfers.
+Here's how to set up your GXS FlexiLoan account:
+On your GXS FlexiLoan home screen, select 'Manage'
+Tap 'Get Account Details', and you’ll see your GXS beneficiary name, account number, bank name, bank code, and branch code
+Log in to your third-party bank account
+In that bank account, key in your GXS FlexiLoan account details to save your GXS FlexiLoan account as a payee. You’re good to go!
+Pro tip
+: Have more than 1 loan? Use the 'Quick Pay Due Option' to pay your upcoming monthly due amount across all loans.
+On your GXS FlexiLoan home screen, tap on 'Quick Pay Due'
+Select to repay with your 'GXS Savings Account' or 'Other Bank'
+Review your repayment details and follow the on-screen instructions
+Do note that any overdue loan amounts you have will need to be cleared before you can repay other loans.

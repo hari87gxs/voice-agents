@@ -1,0 +1,15 @@
+Title: Where can I find my Balance Transfer interest rates and fees? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan/GXS_Flexiloan_-_Balance_Transfer_Fees_and_Interest/Where_can_I_find_my_Balance_Transfer_interest_rates_and_fees%3F
+Scraped: 2025-11-28T01:16:32.563990
+
+================================================================================
+
+Great news! Balance Transfer is a 0% interest loan. It only comes with a one-time processing fee for each loan.
+In the borrowing journey, this one-time processing fee amount will be displayed. Do review this fee before you borrow the loan. Here's how:
+Open your GXS Bank app. On your GXS FlexiLoan home screen, tap on 'Borrow'.
+Select ‘Balance Transfer’ on the top bar. You may tap on the ‘change’ icon to change your loan type.
+Key in the amount you need.
+Select the tenure of your loan.
+The one-time fee amount will be displayed. Confirm to proceed.
+Here is an illustration of the one-time processing fee, refer to your app at the time of borrowing for the applicable processing fee:
+*Effective Interest Rate (EIR) is calculated with: $10,000 as principal borrowed from 1 Jan 2024 with 1% monthly minimum due. Do note the one-time upfront fee is subject to change by the bank.

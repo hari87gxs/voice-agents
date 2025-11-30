@@ -1,0 +1,15 @@
+Title: I opened a GXS Bank account as a FIN holder but I’m a Permanent Resident now. Do I need to update my new NRIC number with GXS Bank? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Update_Personal_Details/I_opened_a_GXS_Bank_account_as_a_FIN_holder_but_I%E2%80%99m_a_Permanent_Resident_now._Do_I_need_to_update_my_new_NRIC_number_with_GXS_Bank%3F#elm-main-content
+Scraped: 2025-11-28T02:36:11.570893
+Word Count: 136
+Is FAQ Answer: True
+
+================================================================================
+
+Firstly, congrats on becoming a Permanent Resident in Singapore!
+Yes, you do need to update your new NRIC number with us. Your personal details on GXS must match your information on Singpass Myinfo. You will not be able to log in to the GXS Bank app on a new device if you have not updated us with your personal information (e.g. if you have a new NRIC number but registered with your old FIN number with GXS).
+If you run into issues during new device registration because of a mismatch in personal details, fret not! We can process this change for you. Simply contact us at:
+GXS Hotline: 1800 866 6685 or (+65) 6866 6685 (from overseas)
+GXS Customer Support Email:
+help@gxs.com.sg
+You will need to email us copies of your old and new identification documents.

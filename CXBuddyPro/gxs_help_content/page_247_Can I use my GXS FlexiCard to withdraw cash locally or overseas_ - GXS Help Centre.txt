@@ -1,0 +1,9 @@
+Title: Can I use my GXS FlexiCard to withdraw cash locally or overseas? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiCard/Usage_of_GXS_FlexiCard/Can_I_use_my_GXS_FlexiCard_to_withdraw_cash_locally_or_overseas%3F
+Scraped: 2025-11-28T02:05:45.888242
+Word Count: 27
+Is FAQ Answer: True
+
+================================================================================
+
+GXS is a digital-only bank, so we don't have ATMs for local cash withdrawals. Currently, we also don't offer overseas cash withdrawal services. Stay tuned for updates!

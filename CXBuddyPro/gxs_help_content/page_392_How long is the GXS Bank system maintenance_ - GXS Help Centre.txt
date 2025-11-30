@@ -1,0 +1,9 @@
+Title: How long is the GXS Bank system maintenance? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Using_the_App/How_long_is_the_GXS_Bank_system_maintenance%3F
+Scraped: 2025-11-28T02:13:27.276147
+Word Count: 41
+Is FAQ Answer: True
+
+================================================================================
+
+We leverage cloud technology to give you seamless updates. In other words, we don’t have regular system maintenance like regular banks. If we have to put our systems on hold (and this is very unlikely!), we’ll let you know in advance.

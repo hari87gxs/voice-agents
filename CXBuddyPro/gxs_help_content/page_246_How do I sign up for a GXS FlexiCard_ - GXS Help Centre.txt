@@ -1,0 +1,10 @@
+Title: How do I sign up for a GXS FlexiCard? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiCard/Apply_for_a_GXS_FlexiCard/How_do_I_sign_up_for_a_GXS_FlexiCard%3F
+Scraped: 2025-11-28T02:05:42.607818
+Word Count: 50
+Is FAQ Answer: True
+
+================================================================================
+
+Just download the GXS Bank app via the App Store or Google Play Store. Then on the guest lobby, tap 'Sign Up' for GXS FlexiCard.
+If you already have an account with us, log into the GXS Bank app, go to the 'Home' tab, and tap 'Explore' for GXS FlexiCard.

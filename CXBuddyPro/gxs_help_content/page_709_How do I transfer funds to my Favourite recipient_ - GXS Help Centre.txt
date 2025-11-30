@@ -1,0 +1,14 @@
+Title: How do I transfer funds to my Favourite recipient? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/GXS_Biz_Account_Payments/How_do_I_transfer_funds_to_my_Favourite_recipient%3F#elm-main-content
+Scraped: 2025-11-28T02:31:13.881030
+Word Count: 57
+Is FAQ Answer: True
+
+================================================================================
+
+To transfer funds to your Favourite recipient:
+1. Open your GXS Bank app.
+2. Tap on the 'Send Money' button.
+3. You will see a list of Favourites previously saved.
+4. Select the recipient you want to transfer to and your recipient's details will be populated for you.
+5. Enter the transfer amount and complete your transfer.

@@ -1,0 +1,9 @@
+Title: Are returns on my investments compounded? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/GXS_Invest_Returns/Are_returns_on_my_investments_compounded%3F
+Scraped: 2025-11-28T02:18:51.534792
+Word Count: 20
+Is FAQ Answer: True
+
+================================================================================
+
+Yes, returns of the Fullerton SGD Cash Fund are compounded and are factored into the unit price of the fund.

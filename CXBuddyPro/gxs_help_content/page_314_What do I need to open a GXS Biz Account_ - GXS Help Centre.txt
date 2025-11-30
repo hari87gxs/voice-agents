@@ -1,0 +1,20 @@
+Title: What do I need to open a GXS Biz Account? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/Open_a_GXS_Biz_Account/What_do_I_need_to_open_a_GXS_Biz_Account%3F
+Scraped: 2025-11-28T02:09:24.215459
+Word Count: 115
+Is FAQ Answer: True
+
+================================================================================
+
+We’re excited to have you onboard! To open a GXS Biz Account, you'll need to:
+Be at least 18 years old.
+Have a residential address in Singapore.
+Be a Singapore citizen or Singapore Permanent Resident.
+Have a Singpass Myinfo account.
+Have an active ACRA registration account.
+Not currently hold, and never have held, a GXS Savings Account, GXS FlexiLoan Account, or GXS FlexiCard.
+Not currently hold, and never have held, a GXS Biz Account or a GXS FlexiLoan Biz.
+Make sure that your business details and residential address are updated on ACRA and Singpass respectively, before signing up for an account.
+If you require assistance on your Singpass access, you may contact
+Singpass Helpdesk
+directly.

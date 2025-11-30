@@ -1,0 +1,9 @@
+Title: Can I impose a surcharge or fee on a customer who wishes to pay me via PayNow? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/GXS_Biz_Account_Payments/Can_I_impose_a_surcharge_or_fee_on_a_customer_who_wishes_to_pay_me_via_PayNow%3F
+Scraped: 2025-11-28T02:10:55.529534
+Word Count: 34
+Is FAQ Answer: True
+
+================================================================================
+
+No, you're not allowed to impose any surcharge, special charge, finance charge, or similar fees (whether through a price increase or other means) on customers or payers who choose to pay you via PayNow.

@@ -1,0 +1,15 @@
+Title: How do I activate my physical GXS Debit Card? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Debit_Card/Order_and_Delivery_of_GXS_Debit_Card/How_do_I_activate_my_physical_GXS_Debit_Card%3F
+Scraped: 2025-11-28T02:03:38.138868
+Word Count: 61
+Is FAQ Answer: True
+
+================================================================================
+
+Here's how you can activate your brand new GXS Debit Card!
+From the home screen, tap on 'Debit Card' icon.
+Tap 'Activate Now' on the blue banner.
+Confirm and tap the 'Activate Card' button.
+Verify yourself via biometric or passcode.
+Key in the 5-digit verification code found on your Debit Card mailer.
+Tap 'Activate' again and you are ready to go!

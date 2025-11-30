@@ -1,0 +1,14 @@
+Title: Can I delete a scheduled transfer? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/GXS_Biz_Account_Payments/Can_I_delete_a_scheduled_transfer%3F#elm-main-content
+Scraped: 2025-11-28T02:33:14.799031
+Word Count: 63
+Is FAQ Answer: True
+
+================================================================================
+
+Absolutely! You can easily remove a scheduled transfer in the GXS Bank app. Here's how:
+1. Tap on "Send Money" on the top bar.
+2. In the Scheduled Transfers section, tap the ellipsis button next to the scheduled transfer you want to delete.
+3. Choose "Remove scheduled transfer."
+4. Confirm by tapping "Remove."
+Your scheduled transfer will then be removed from the list.

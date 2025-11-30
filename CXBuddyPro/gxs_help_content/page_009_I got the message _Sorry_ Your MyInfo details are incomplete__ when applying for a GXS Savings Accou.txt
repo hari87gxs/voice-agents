@@ -1,0 +1,30 @@
+Title: I got the message "Sorry! Your MyInfo details are incomplete." when applying for a GXS Savings Account. What information is needed and what should I do? - GXS Help Centre
+URL: https://help.gxs.com.sg/Emergencies/Sign_Up_Issues/I_got_the_message_%22Sorry!_Your_MyInfo_details_are_incomplete.%22_when_applying_for_a_GXS_Savings_Account._What_information_is_needed_and_what_should_I_do%3F
+Scraped: 2025-11-28T01:07:26.886254
+
+================================================================================
+
+To open a GXS Savings Account, your personal information on Singpass Myinfo has to be accurate and up to date.
+Here are the details we'll need from your Singpass Myinfo to process your application:
+NRIC / FIN
+Name
+Hanyu Pinyin Name
+Alias Name
+Sex
+Registered Address
+Email
+Date of Birth
+Country / Place of Birth
+Nationality / Citizenship
+Occupation
+CPF Employers
+Employer’s Name
+Marital Status
+Pass Expiry Date
+Mobile Number
+Residential Status
+Pass Type
+Once you've updated your personal details in Singpass Myinfo, you're all set to re-apply for a GXS Savings Account. We're looking forward to having you on board!
+If you are encountering issues with your Singpass login, do have a read
+here
+.

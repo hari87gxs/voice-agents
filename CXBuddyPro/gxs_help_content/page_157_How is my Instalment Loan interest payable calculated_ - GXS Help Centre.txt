@@ -1,0 +1,17 @@
+Title: How is my Instalment Loan interest payable calculated? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan/GXS_FlexiLoan_-_Instalment_Loan_Fees_and_Interest/How_is_my_Instalment_Loan_interest_payable_calculated%3F
+Scraped: 2025-11-28T01:15:37.295339
+
+================================================================================
+
+Interest is calculated on a daily non-compounding basis. This means that the interest is charged on your outstanding GXS FlexiLoan balance each day.
+To calculate the interest payable across your loan tenure when you first take a loan - For example, if you took a loan of S$10,000 with a tenure of 3 years:
+Annual Percentage Rate (APR): 3% p.a.
+Effective Interest Rate (EIR): 5.69% p.a.
+Tenure: 3 years
+Borrowed loan amount: S$10,000
+Total interest payable = Loan * APR * tenure
+= S$10,000 * 3% / 365 * (365 * 3 years)
+= S$900
+*The Annual Percentage Rate (APR) represents the total borrowing cost, expressed as a yearly rate, relative to the initial loan amount.
+The Effective Interest Rate (EIR) is the rate that reflects the true cost of borrowing and takes into account total charges. It's computed over a reducing balance basis and accrued daily.

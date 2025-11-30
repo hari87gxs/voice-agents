@@ -1,0 +1,9 @@
+Title: I have updated my personal details on Singpass Myinfo. Will GXS Bank receive my updated details automatically? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Update_Personal_Details/I_have_updated_my_personal_details_on_Singpass_Myinfo._Will_GXS_Bank_receive_my_updated_details_automatically%3F
+Scraped: 2025-11-28T02:11:29.834564
+Word Count: 17
+Is FAQ Answer: True
+
+================================================================================
+
+No. Please go to the 'Me' tab and tap on 'Edit Profile' to update your personal details.

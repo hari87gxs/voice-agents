@@ -1,0 +1,7 @@
+Title: If I didn’t make any transactions, will GXS e-statements be generated? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Savings_Account/Account_Statements/If_I_didn%E2%80%99t_make_any_transactions%2C_will_GXS_e-statements_be_generated%3F
+Scraped: 2025-11-28T01:13:08.679511
+
+================================================================================
+
+Rest easy! E-statements will continue to be generated monthly, even if you have not made any transactions within the month.

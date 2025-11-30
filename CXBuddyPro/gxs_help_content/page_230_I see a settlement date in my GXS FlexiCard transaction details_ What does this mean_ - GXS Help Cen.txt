@@ -1,0 +1,11 @@
+Title: I see a settlement date in my GXS FlexiCard transaction details. What does this mean? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiCard/Usage_of_GXS_FlexiCard/I_see_a_settlement_date_in_my_GXS_FlexiCard_transaction_details._What_does_this_mean%3F
+Scraped: 2025-11-28T02:04:54.483263
+Word Count: 88
+Is FAQ Answer: True
+
+================================================================================
+
+The settlement date is the date on which the amount that you've spent on your GXS FlexiCard is transferred to the merchant.
+Since the settlement is initiated by the merchant, the settlement date can occur anytime from a few days to several weeks after your transaction date.
+From the time of your transaction until the settlement date, there will be a hold on your card's credit limit for the transaction amount. This hold will reduce your available credit limit and will remain in place until the settlement date.

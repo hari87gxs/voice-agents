@@ -1,0 +1,10 @@
+Title: What is a scheduled transfer? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/GXS_Biz_Account_Payments/What_is_a_scheduled_transfer%3F
+Scraped: 2025-11-28T02:09:25.002154
+Word Count: 55
+Is FAQ Answer: True
+
+================================================================================
+
+A scheduled transfer is a feature in the GXS Bank app that allows users to set up automatic money transfers at specific times. These transfers can be set for a one-time event or recurring intervals, like daily, weekly, biweekly, or monthly.
+At the moment, scheduled outgoing transfers can only be made using FAST and PayNow.

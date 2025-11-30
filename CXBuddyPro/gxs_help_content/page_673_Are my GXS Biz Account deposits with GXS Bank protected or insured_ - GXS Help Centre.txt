@@ -1,0 +1,10 @@
+Title: Are my GXS Biz Account deposits with GXS Bank protected or insured? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/Fund_GXS_Biz_Account/Are_my_GXS_Biz_Account_deposits_with_GXS_Bank_protected_or_insured%3F#elm-main-content
+Scraped: 2025-11-28T02:29:24.503705
+Word Count: 72
+Is FAQ Answer: True
+
+================================================================================
+
+Your deposits in your GXS Biz Account are insured up to S$100,000 by the Singapore Deposit Insurance Corporation (SDIC), under the Deposit Insurance Scheme. Here's a description of the scheme:
+Singapore dollar deposits of non-bank depositors are insured by the Singapore Deposit Insurance Corporation, for up to S$100,000 in aggregate per depositor per Scheme member by law. Foreign currency deposits, dual currency investments, structured deposits and other investment products are not insured.

@@ -1,0 +1,9 @@
+Title: When will I receive my GrabCoins? - GXS Help Centre
+URL: https://help.gxs.com.sg/Promotions/GXS_Debit_Card_2_percent_GrabRewards_points_campaign/When_will_I_receive_my_GrabRewards_points%3F
+Scraped: 2025-11-28T02:16:22.844183
+Word Count: 51
+Is FAQ Answer: True
+
+================================================================================
+
+Under the 'GXS Debit Card 2% GrabCoins' campaign, GrabCoins will be credited to your Grab account within two business days after you meet the Qualifying Transaction criteria. However, if the Qualifying Spend transaction is cancelled or refunded, the awarded GrabCoins may be revoked or clawed back. Grab’s terms and conditions apply.

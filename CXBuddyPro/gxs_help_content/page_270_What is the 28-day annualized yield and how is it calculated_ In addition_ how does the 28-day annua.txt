@@ -1,0 +1,19 @@
+Title: What is the 28-day annualized yield and how is it calculated? In addition, how does the 28-day annualized yield differ from the fund’s historical return? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/GXS_Invest_Returns/What_is_the_7-day_annualized_yield_and_how_is_it_calculated%3F_In_addition%2C_how_does_the_7-day_annualized_yield_differ_from_the_fund%E2%80%99s_historical_return%3F_Will_the_historical_returns_be_the_same_or_similar_as_the_7-day_annualized_yield%3F
+Scraped: 2025-11-28T02:07:04.537436
+Word Count: 234
+Is FAQ Answer: True
+
+================================================================================
+
+The published yield is calculated by annualizing the last 28 dealing days average Net Asset Value (NAV). The formula is as follows:
+28-day annualized yield =
+(NAV on T+28 - NAV on T / NAV on T) / Number of Calendar Days * 365 * 100%
+This yield can help you gauge the fund’s yield based on the fund’s average NAV over the last 28 dealing days. However, past performance of an investment does not necessarily reflect its future performance, so the yield does not represent the fund’s future or actual returns and should be used for reference purposes only. The value of investments and investment returns (including dividends, distributions, income or other returns) may rise or fall.
+The 28-day annualised yield is a gauge of the fund’s yield based on the fund’s average NAV over the last 28 dealing days, and does not represent the actual of future performance of the fund. It is calculated and refreshed every day and will fluctuate depending on the underlying instruments within the fund.
+The fund’s historical return is based on actual past NAVs and shows how the fund has performed across a period of time.
+You may refer to the fund factsheet for the latest updated performance via the following steps:
+1. Log in to the GXS Bank app.
+2. Tap on 'GXS Invest'.
+3. Tap on 'More'.
+4. Scroll down and tap 'View Fact Sheet'.

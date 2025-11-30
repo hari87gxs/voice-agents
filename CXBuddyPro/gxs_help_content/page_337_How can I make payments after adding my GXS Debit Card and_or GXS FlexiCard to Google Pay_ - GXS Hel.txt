@@ -1,0 +1,16 @@
+Title: How can I make payments after adding my GXS Debit Card and/or GXS FlexiCard to Google Pay? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Using_Google_Pay/How_can_I_make_payments_after_adding_my_GXS_Debit_Card_and%2F%2For_GXS_FlexiCard_to_Google_Pay%3F
+Scraped: 2025-11-28T02:10:37.270148
+Word Count: 147
+Is FAQ Answer: True
+
+================================================================================
+
+You can make payments on your GXS Debit Card and/or GXS FlexiCard through Google Pay in the following 2 ways:
+Pay with your phone in stores or at merchant POS terminals:
+Unlock your phone where you've added your card on Google Pay.
+Place your phone over the contactless reader.
+You will see a tick mark on the screen accompanied by a soft tone and a subtle vibration to indicate a successful payment. You'll also be sent a notification for a successful card payment.
+Please note this method is only applicable to NFC (Near Field Communication) capable devices. Please ensure your device has NFC capabilities before trying to make contactless payments using Google Pay.
+Online checkout:
+For any online merchant offering the Google Wallet or Google Pay as a payment method, you can simply choose this payment method to pay using your GXS Debit Card or GXS FlexiCard.

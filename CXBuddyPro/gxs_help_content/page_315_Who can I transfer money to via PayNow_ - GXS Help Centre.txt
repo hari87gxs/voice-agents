@@ -1,0 +1,11 @@
+Title: Who can I transfer money to via PayNow? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Using_PayNow/Who_can_I_transfer_money_to_via_PayNow%3F
+Scraped: 2025-11-28T02:09:25.657507
+Word Count: 38
+Is FAQ Answer: True
+
+================================================================================
+
+Applicable to retail accounts only
+Your recipient must have a PayNow account for you to transfer money to them.
+This could be done via a mobile number, Singapore NRIC/FIN, Unique Entity Number (UEN), or Virtual Payment Address (VPA).

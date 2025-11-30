@@ -1,0 +1,51 @@
+    /**
+     * Handle agent handoff
+     * @param {string} targetAgent - 'hari' or 'riley'
+     */
+    async handleAgentHandoff(targetAgent) {
+        this.log(`🔄 Switching to ${targetAgent}...`, 'info');
+        this.updateStatus(`⏳ Transferring to ${targetAgent.toUpperCase()}... Please wait.`, false, false);
+        
+        // Play hold tone
+        this.playHoldTone();
+
+        // Clean up current connection (but don't end the session completely)
+        if (this.ws && this.ws.readyState === WebSocket.OPEN) {
+            this.ws.close();
+        }
+        
+        // Stop audio playback
+        this.stopAllAudio();
+        
+        // Stop microphone
+        if (this.micStream) {
+            this.micStream.getTracks().forEach(track => track.stop());
+        }
+
+        // Wait for hold tone to play
+        await new Promise(resolve => setTimeout(resolve, 2000));
+
+        let targetUrl;
+
+        if (targetAgent === 'hari') {
+            const hasJwt = sessionStorage.getItem('gxs_jwt');
+            if (!hasJwt) {
+                // No JWT - redirect to login page
+                this.log('Hari requires authentication - redirecting to login', 'info');
+                targetUrl = `mock_gxs_app.html`;
+            } else {
+                // Has JWT - go directly to authenticated Hari agent
+                targetUrl = `index.html?jwt=${encodeURIComponent(hasJwt)}&handoff=true`;
+            }
+        } else {
+            // Going to Riley - clear JWT and redirect to Riley's page
+            sessionStorage.removeItem('gxs_jwt');
+            sessionStorage.removeItem('gxs_user');
+            this.jwtToken = null;
+            // For now, just reload the current page (which should show Riley for non-authenticated)
+            targetUrl = `index.html?handoff=true`;
+        }
+
+        this.log(`Redirecting to ${targetAgent}...`, 'info');
+        window.location.href = targetUrl;
+    }

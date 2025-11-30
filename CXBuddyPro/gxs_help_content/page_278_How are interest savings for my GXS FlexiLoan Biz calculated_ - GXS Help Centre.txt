@@ -1,0 +1,10 @@
+Title: How are interest savings for my GXS FlexiLoan Biz calculated? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan_Biz/GXS_FlexiLoan_Biz_-_Interest_and_Fees/How_are_interest_savings_for_my_GXS_FlexiLoan_Biz_calculated%3F
+Scraped: 2025-11-28T02:07:27.359457
+Word Count: 74
+Is FAQ Answer: True
+
+================================================================================
+
+Interest is calculated on a daily, non-compounding basis. You can check your total interest saved upon entering your repayment amount.
+If an early repayment is made, it will be deducted from your outstanding GXS FlexiLoan Biz balance on that day, resulting in interest savings for you as interest is calculated on a reduced outstanding balance instead. The interest amount that you saved will be shown in your GXS Bank app during the repayment process.

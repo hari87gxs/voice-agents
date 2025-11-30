@@ -1,0 +1,9 @@
+Title: Can I send money without adding a beneficiary? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Send_Money/Can_I_send_money_without_adding_a_beneficiary%3F
+Scraped: 2025-11-28T02:09:48.724874
+Word Count: 29
+Is FAQ Answer: True
+
+================================================================================
+
+Absolutely. You don’t need to add a beneficiary to your GXS Bank account to transfer money – choose between PayNow or a bank transfer using your recipient’s account number.

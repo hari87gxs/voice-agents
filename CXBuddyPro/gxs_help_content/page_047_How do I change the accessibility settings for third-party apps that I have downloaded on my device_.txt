@@ -1,0 +1,20 @@
+Title: How do I change the accessibility settings for third-party apps that I have downloaded on my device? - GXS Help Centre
+URL: https://help.gxs.com.sg/Emergencies/Malware_Threats/How_do_I_change_the_accessibility_settings_for_third-party_apps_that_I_have_downloaded_on_my_device%3F
+Scraped: 2025-11-28T01:09:23.441767
+
+================================================================================
+
+Accessibility settings is currently available on Android devices. The steps to change accessibility settings for third-party apps differ for different phone models.
+Generally, the steps are as follows:
+Tap on your device’s setting app
+Scroll down and select ‘accessibility’
+Scroll until you find the accessibility service or feature you need to disable
+Tap the toggle switch to turn off the feature
+Via Home Screen shortcut
+Press and hold on an empty spot on your home screen
+Tap on the ‘widgets’ icon
+Swipe through the widgets until you reach the ‘settings shortcut’ widget
+Drag and drop the widget onto your home screen
+Choose 'accessibility’ from the setting options
+Tap on the feature you need to disable. Tap the toggle switch to turn off the feature
+Note: The steps outlined above are the most common steps. Do refer to your user guide if you encounter any difficulties or variations depending on your specific device model.

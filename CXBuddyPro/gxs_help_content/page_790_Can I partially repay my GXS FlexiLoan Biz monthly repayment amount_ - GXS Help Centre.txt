@@ -1,0 +1,15 @@
+Title: Can I partially repay my GXS FlexiLoan Biz monthly repayment amount? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan_Biz/GXS_FlexiLoan_Biz_Repayment/Can_I_partially_repay_my_GXS_FlexiLoan_Biz_monthly_repayment_amount%3F#elm-main-content
+Scraped: 2025-11-28T02:35:22.936628
+Word Count: 81
+Is FAQ Answer: True
+
+================================================================================
+
+Yes you can. However, please note that late interest charges will apply to any remaining balance of your monthly repayment amount that's not paid by the repayment due date.
+To make a partial payment to a specific loan, here's how:
+On your GXS FlexiLoan Biz home screen, select the loan you'd like to repay.
+Tap on ‘Pay Due’.
+Select the amount you'd like to repay.
+Select to repay with 'GXS Biz Account'.
+Review your repayment details and click 'Confirm & Repay'.

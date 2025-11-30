@@ -1,0 +1,21 @@
+Title: How do I read the statuses of my orders? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/GXS_Invest_Orders/How_do_I_read_the_statuses_of_my_orders%3F
+Scraped: 2025-11-28T02:07:15.978856
+Word Count: 241
+Is FAQ Answer: True
+
+================================================================================
+
+For Buy orders
+Order submitted: Your order has been successfully submitted.
+Order confirmed: Your order has been confirmed.
+Order completed: Your order has been successfully processed and you can view your allocated units in your account.
+Unsuccessful: Your Buy order has failed or was cancelled. This could be due to a system error or a trade reversal.
+Refund initiated: If your Buy order was unsuccessful, a refund will be initiated as the money for the Buy order has already been debited from your GXS Savings Account.
+Refund completed: The refund of the money to your GXS Savings Account resulting from an unsuccessful Buy order has been completed.
+For Sell orders
+Order submitted: Your order has been successfully submitted.
+Order confirmed: Your order has been confirmed and the units will be removed from your account.
+Order completed: Your order has been successfully processed and the redemption amount credited into the Main Account of your GXS Savings Account.
+Unsuccessful: Your Sell order was unsuccessful. This could be due to a system error or a trade reversal. You may want to make another Sell order.
+Crediting failed: Your Sell order has been successfully completed but we are unable to credit the redemption amount as you have hit the maximum balance amount on your GXS Savings Account which consists of funds in your Main Account and Saving Pocket(s). You will need to reduce the balance before we can credit the amount into your Main Account.

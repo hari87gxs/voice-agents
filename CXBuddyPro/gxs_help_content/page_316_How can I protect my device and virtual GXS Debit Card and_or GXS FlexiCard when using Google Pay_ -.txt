@@ -1,0 +1,9 @@
+Title: How can I protect my device and virtual GXS Debit Card and/or GXS FlexiCard when using Google Pay? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Using_Google_Pay/How_can_I_protect_my_device_and_virtual_GXS_Debit_Card_and%2F%2For_GXS_FlexiCard_when_using_Google_Pay%3F
+Scraped: 2025-11-28T02:09:28.704077
+Word Count: 55
+Is FAQ Answer: True
+
+================================================================================
+
+To keep your virtual GXS Debit and/or GXS FlexiCard secure, you must maintain a strong password on your device and never let anyone else use it. If you ever decide to lend your device or dispose it off, be sure to first delete your virtual GXS Debit Card and/or GXS FlexiCard from your digital wallet.

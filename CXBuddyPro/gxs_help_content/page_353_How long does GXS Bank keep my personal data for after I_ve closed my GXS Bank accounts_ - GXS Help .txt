@@ -1,0 +1,9 @@
+Title: How long does GXS Bank keep my personal data for after I've closed my GXS Bank accounts? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Your_Data_Privacy/How_long_does_GXS_Bank_keep_my_personal_data_for_after_I've_closed_my_GXS_Bank_accounts%3F
+Scraped: 2025-11-28T02:11:27.088973
+Word Count: 18
+Is FAQ Answer: True
+
+================================================================================
+
+Customer data are generally retained for 7 years after closure of account for audit, regulatory and legal purposes.

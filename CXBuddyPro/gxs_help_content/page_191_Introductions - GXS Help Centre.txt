@@ -1,0 +1,87 @@
+Title: Introductions - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions
+Scraped: 2025-11-28T02:02:45.309852
+Word Count: 803
+Is FAQ Answer: False
+
+================================================================================
+
+Find out how to update your personal details, as well as information on data privacy, and log-in profile settings.
+About Us
+No image available
+Does GXS Bank have a physical branch that I can visit?
+How can I find out about job opportunities with GXS Bank?
+How often will GXS Betterzine be updated with stories?
+What is GXS Betterzine?
+Who is GXS?
+Why is GXS Betterzine talking about such a wide range of topics that are not finance-related?  How does GXS Betterzine decide on the articles/topics to publish?
+Your Data Privacy
+No image available
+How can I access my personal data?
+How does GXS Bank collect my personal data?
+How does GXS Bank disclose my personal data?
+How does GXS Bank use my personal data?
+How do I contact your Data Privacy Officer (DPO)?
+How long does GXS Bank keep my personal data for after I've closed my GXS Bank accounts?
+My number is listed in the DNC Registry. Will I receive marketing calls from GXS Bank?
+What data does GXS Bank receive from Singpass and what do you use it for?
+Who do you share my personal data with?
+Who owns the rights to the photos that I upload to my Saving Pockets?
+Will I be charged a fee for my request to access my personal data?
+Update Personal Details
+No image available
+How can I update or change my personal data?
+How do I change my email address on my GXS profile?
+How do I change my mailing / residential address?
+How do I change my mobile number on my GXS profile?
+How do I change my NRIC/FIN on my GXS profile?
+How do I change my preferred name on my GXS profile?
+How do I upload documents to update my details?
+I have updated my personal details on Singpass Myinfo. Will GXS Bank receive my updated details automatically?
+I opened a GXS Bank account as a FIN holder but I’m a Permanent Resident now. Do I need to update my new NRIC number with GXS Bank?
+Why can't I update my Singapore mailing and residential addresses to a foreign one?
+Using the App
+No image available
+Can I use Singpass Face Verification on any device?
+How can I authenticate my identity on the GXS Bank app?
+How can I rate my experience within the GXS Bank app?
+How does Singpass Face Verification work?
+How do I enable/disable biometrics login (fingerprint and face ID) on the GXS Bank app?
+How do I log in to the GXS Bank app?
+How do I log out of the GXS Bank app on my phone?
+How do I reset my GXS Bank app passcode?
+How do I update my GXS Bank app notification preferences?
+How long is the GXS Bank system maintenance?
+Is my data safe with Singpass Face Verification?
+What are the benefits of using Singpass Face Verification?
+What happens if I change my appearance significantly?
+What is Singpass Face Verification?
+What should I do if Singpass Face Verification fails?
+What should I do if the Singpass Face Verification is stuck on the loading screen?
+Where can I download the GXS Bank app?
+Why can't I find the GXS Bank app on the Play Store or App Store?
+Why can’t I access the GXS Bank app on my phone?
+Why can’t I download the GXS Bank app onto my phone?
+Withdraw, Access, or Correct Your Data
+No image available
+Does GXS Bank share my personal data with Grab or Singtel, and vice versa? How do I withdraw consent from sharing my data with them?
+How can I withdraw my consent from marketing and offers?
+How can I withdraw my consent from third party data sharing?
+How does GXS Bank protect my privacy?
+How long will it take to process my request to access or correct my personal data?
+How long will it take to withdraw my consent from marketing or third party data sharing?
+I'm not satisfied with GXS Bank's response to my request to access/correct my personal data. What should I do?
+Will withdrawing my consent lead to the termination of my account?
+Singpass and My GXS Account
+No image available
+Can I open a GXS Biz Account or GXS FlexiLoan Biz without SingPass Myinfo?
+Can I open a GXS Savings Account without SingPass Myinfo?
+If I update my personal details on SingPass after opening a GXS Savings Account, will my details on GXS be updated as well?
+Why can’t I apply with Singpass Myinfo?
+Why can’t I edit some of the pre-filled information from SingPass Myinfo?
+Keeping Your Data and Device Secure
+No image available
+How can I safeguard my data?
+How do I identify an official GXS SMS/email or check that it's not a scam?
+How is my GXS account(s) protected?
+What can I do to protect my mobile device?

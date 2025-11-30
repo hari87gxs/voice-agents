@@ -1,0 +1,9 @@
+Title: Is there a daily transaction limit for performing My Singtel transactions using funds from my GXS Savings Account? - GXS Help Centre
+URL: https://help.gxs.com.sg/Grab_and_Singtel_Experiences/My_Singtel_App/Is_there_a_daily_transaction_limit_for_performing_My_Singtel_transactions_using_funds_from_my_GXS_Savings_Account%3F
+Scraped: 2025-11-28T02:17:42.556145
+Word Count: 46
+Is FAQ Answer: True
+
+================================================================================
+
+Yes, there is a daily transaction limit for all payments made on My Singtel App using your GXS Savings Account. The default daily transaction limit is set at S$500, but you can increase this limit to up to S$1,000 per day through your GXS Bank app.

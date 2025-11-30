@@ -1,0 +1,12 @@
+Title: What is a cooling-off period? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Cooling-Off_Period/What_is_a_cooling-off_period%3F
+Scraped: 2025-11-28T02:09:57.591298
+Word Count: 80
+Is FAQ Answer: True
+
+================================================================================
+
+The cooling-off period is a safety measure that gives you 12 hours to respond and prevent any unauthorised changes to your daily transfer limits or personal information. This feature is activated when you complete one of the following actions:
+1. Set up of the GXS Bank app on a new or existing mobile device.
+2. Linking of GXS Savings Account to Dash/Grab app.
+This measure is put in place to protect you from scammers attempting unauthorised transactions using your accounts.

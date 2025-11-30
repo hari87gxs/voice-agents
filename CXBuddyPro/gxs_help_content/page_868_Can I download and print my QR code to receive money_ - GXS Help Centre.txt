@@ -1,0 +1,10 @@
+Title: Can I download and print my QR code to receive money? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/GXS_Biz_Account_Payments/Can_I_download_and_print_my_QR_code_to_receive_money%3F#elm-main-content
+Scraped: 2025-11-28T02:39:16.243920
+Word Count: 42
+Is FAQ Answer: True
+
+================================================================================
+
+Yes, you can! Simply click on 'Save as image' on your QR receive page to download the QR code to your phone’s gallery.
+Once it's saved, you can print the image and display it at your store to receive payments from customers.

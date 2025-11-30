@@ -1,0 +1,9 @@
+Title: How are exchange rates determined for transactions in foreign currencies on my GXS FlexiCard? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiCard/GXS_FlexiCard_Fees_and_Charges/How_are_exchange_rates_determined_for_transactions_in_foreign_currencies_on_my_GXS_FlexiCard%3F
+Scraped: 2025-11-28T02:05:48.765407
+Word Count: 27
+Is FAQ Answer: True
+
+================================================================================
+
+When you make a transaction in a foreign currency with your GXS FlexiCard, it will be converted into Singapore dollars by Mastercard using their prevailing exchange rates.

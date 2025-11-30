@@ -1,0 +1,9 @@
+Title: How do I view my GXS Savings Account details? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Savings_Account/Account_Statements/How_do_I_view_my_GXS_Savings_Account_details%3F
+Scraped: 2025-11-28T01:12:59.849010
+
+================================================================================
+
+The home page in the GXS Bank app displays your account number. To view more details,
+Tap on 'Me' in the app.
+Click on 'View Account Details'.

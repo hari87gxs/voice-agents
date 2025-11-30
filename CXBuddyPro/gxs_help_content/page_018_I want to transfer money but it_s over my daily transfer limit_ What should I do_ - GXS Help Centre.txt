@@ -1,0 +1,12 @@
+Title: I want to transfer money but it’s over my daily transfer limit. What should I do? - GXS Help Centre
+URL: https://help.gxs.com.sg/Emergencies/Payment_Issues/I_want_to_transfer_money_but_it%E2%80%99s_over_my_daily_transfer_limit._What_should_I_do%3F
+Scraped: 2025-11-28T01:07:54.275249
+
+================================================================================
+
+If you are transferring an amount that is higher than your daily transfer limit, you can change your limit in two ways:
+Go to 'Me'.
+Press 'Change limits'.
+Alternatively,
+From the 'Send' page, tap the three dots.
+Select 'Change daily transfer limit'.

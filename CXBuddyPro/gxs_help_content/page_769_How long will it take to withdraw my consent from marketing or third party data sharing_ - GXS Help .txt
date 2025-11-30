@@ -1,0 +1,9 @@
+Title: How long will it take to withdraw my consent from marketing or third party data sharing? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Withdraw%2C_Access%2C_or_Correct_Your_Data/How_long_will_it_take_to_withdraw_my_consent_from_marketing_or_third_party_data_sharing%3F#elm-main-content
+Scraped: 2025-11-28T02:34:19.858734
+Word Count: 40
+Is FAQ Answer: True
+
+================================================================================
+
+When you change your consent preferences in the GXS app, these changes will take effect within 48 hours. If you requested to change your consent preferences via email or our hotline, these will come into effect within 10 business days.

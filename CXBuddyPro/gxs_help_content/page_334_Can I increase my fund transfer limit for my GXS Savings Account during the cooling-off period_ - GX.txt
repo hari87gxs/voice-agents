@@ -1,0 +1,10 @@
+Title: Can I increase my fund transfer limit for my GXS Savings Account during the cooling-off period? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Cooling-Off_Period/Can_I_increase_my_fund_transfer_limit_for_my_GXS_Savings_Account_during_the_cooling-off_period%3F
+Scraped: 2025-11-28T02:10:28.045420
+Word Count: 51
+Is FAQ Answer: True
+
+================================================================================
+
+You will not be able to increase your daily transfer limit during the 12-hour cooling-off period.
+The cooling-off period is a security measure designed to prevent unauthorised changes to your daily transfer limits or personal information. You’ll need to wait until the cooling-off period has elapsed before increasing your transaction limit.

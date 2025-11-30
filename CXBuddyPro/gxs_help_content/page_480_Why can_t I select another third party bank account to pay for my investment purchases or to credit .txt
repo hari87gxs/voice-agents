@@ -1,0 +1,10 @@
+Title: Why can’t I select another third party bank account to pay for my investment purchases or to credit the sale proceeds from my investment redemption? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/GXS_Invest_Orders/Why_can%E2%80%99t_I_select_another_third_party_bank_account_to_pay_for_my_investment_purchases_or_to_credit_the_sale_proceeds_from_my_investment_redemption%3F
+Scraped: 2025-11-28T02:18:39.936655
+Word Count: 39
+Is FAQ Answer: True
+
+================================================================================
+
+We are working to avail alternative funding and crediting sources in the near future. Do keep a lookout for it!
+In the meantime, you can only fund your investment purchases and receive sale proceeds to/from your GXS Savings Account.

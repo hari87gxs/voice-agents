@@ -1,0 +1,17 @@
+Title: How do I open an account for GXS Invest? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/Opening_a_GXS_Invest_Account/How_do_I_open_an_account_for_GXS_Invest%3F
+Scraped: 2025-11-28T02:23:19.288477
+Word Count: 132
+Is FAQ Answer: True
+
+================================================================================
+
+To open a GXS Invest account, you first need an existing GXS Savings Account. If you need help opening one, refer to our detailed guide
+here
+.
+If you're already an existing GXS Savings Account customer, simply follow these steps to open a GXS Invest account:
+1. Log in to your GXS Bank app.
+2. Tap on 'GXS Invest'.
+3. Tap on 'Create Account'.
+4. Follow the guided instructions to create a GXS Invest account with Singpass Myinfo.
+At the moment, you cannot open a GXS Invest account unless you hold a GXS Savings Account (even if you have any other GXS products/accounts). However, GXS Bank is exploring options to make GXS Invest available to these customers in the near future. Keep an eye out for updates from GXS Bank regarding this!

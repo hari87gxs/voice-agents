@@ -1,0 +1,10 @@
+Title: Why is the approval for my application to open a GXS Invest account taking such a long time? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/Opening_a_GXS_Invest_Account/Why_is_the_approval_for_my_application_to_open_a_GXS_Invest_account_taking_such_a_long_time%3F#elm-main-content
+Scraped: 2025-11-28T02:37:40.786948
+Word Count: 54
+Is FAQ Answer: True
+
+================================================================================
+
+Whilst approvals for GXS Invest account applications typically take 1 business day, we may need more time and information to ensure that all our customers satisfy our eligibility criteria to open a GXS Invest account.
+If we require more information to approve your application, we will send you an email or a push notification.

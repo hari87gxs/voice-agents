@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GXS Bank - Customer Experience</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .container {
+            background: white;
+            border-radius: 24px;
+            box-shadow: 0 25px 60px rgba(0, 0, 0, 0.3);
+            padding: 50px;
+            max-width: 600px;
+            width: 100%;
+            text-align: center;
+        }
+
+        .logo {
+            margin-bottom: 40px;
+        }
+
+        .logo h1 {
+            font-size: 3.5em;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-weight: 900;
+            margin-bottom: 10px;
+        }
+
+        .logo p {
+            color: #666;
+            font-size: 1.2em;
+            font-weight: 500;
+        }
+
+        .tagline {
+            font-size: 1.4em;
+            color: #333;
+            margin-bottom: 50px;
+            line-height: 1.6;
+        }
+
+        .options {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .option-card {
+            background: linear-gradient(135deg, #f7f9fc 0%, #eef2f7 100%);
+            border: 3px solid #e1e8ed;
+            border-radius: 16px;
+            padding: 30px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            display: block;
+        }
+
+        .option-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(102, 126, 234, 0.3);
+            border-color: #667eea;
+        }
+
+        .option-card h2 {
+            font-size: 1.8em;
+            color: #2d3748;
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+        }
+
+        .option-card p {
+            color: #666;
+            font-size: 1.1em;
+            line-height: 1.5;
+        }
+
+        .riley-card {
+            background: linear-gradient(135deg, #e0e7ff 0%, #c7d2fe 100%);
+        }
+
+        .hari-card {
+            background: linear-gradient(135deg, #ddd6fe 0%, #c4b5fd 100%);
+        }
+
+        .icon {
+            font-size: 1.5em;
+        }
+
+        .subtitle {
+            color: #888;
+            font-size: 0.95em;
+            margin-top: 40px;
+            padding-top: 30px;
+            border-top: 2px solid #e1e8ed;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="logo">
+            <h1>🏦 GXS Bank</h1>
+            <p>Customer Experience Platform</p>
+        </div>
+
+        <div class="tagline">
+            Choose how you'd like to get started
+        </div>
+
+        <div class="options">
+            <a href="index.html" class="option-card riley-card">
+                <h2><span class="icon">💬</span> Talk to Riley</h2>
+                <p>General inquiries, product information, and support</p>
+            </a>
+
+            <a href="mock_gxs_app.html" class="option-card hari-card">
+                <h2><span class="icon">🔐</span> Login & Talk to Hari</h2>
+                <p>Access your account with personalized assistance</p>
+            </a>
+        </div>
+
+        <div class="subtitle">
+            Powered by voice AI • Available 24/7
+        </div>
+    </div>
+
+    <script>
+        // Auto-redirect if JWT is present in session storage
+        const hasJwt = sessionStorage.getItem('gxs_jwt');
+        if (hasJwt) {
+            window.location.href = `index.html?jwt=${encodeURIComponent(hasJwt)}`;
+        }
+    </script>
+</body>
+</html>

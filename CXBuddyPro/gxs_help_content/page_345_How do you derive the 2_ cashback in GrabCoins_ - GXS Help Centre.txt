@@ -1,0 +1,18 @@
+Title: How do you derive the 2% cashback in GrabCoins? - GXS Help Centre
+URL: https://help.gxs.com.sg/Promotions/GXS_Debit_Card_2_percent_GrabRewards_points_campaign/How_do_you_derive_the_2percent_cashback_in_GrabRewards_points%3F
+Scraped: 2025-11-28T02:11:01.385435
+Word Count: 139
+Is FAQ Answer: True
+
+================================================================================
+
+The issuance of GrabCoins are based on the currency charges on Grab and converted into Singapore Dollars (SGD) based on the following exchange rates, which are fixed and used throughout this campaign period to award GrabCoins:
+Example of how it works:
+When John spends MYR20 on a Grab ride in Malaysia with his GXS Debit Card, here’s how his rewards are calculated:
+Exchange rate: SGD to MYR exchange rate is fixed at 3.3294
+Currency Conversion: MYR20 ÷ 3.3294 = SGD6.01.
+Reward Rate: 2% of SGD6.01 is equivalent to 60 GrabCoins (≈ SGD 0.12); as every 500 GrabCoins you earn can be used to offset S$1 of your purchases.
+The exchange rates above only apply for awarding GrabCoins under this Campaign. Mastercard exchange rates will apply for GXS Debit Card transactions.
+Please refer
+here
+for the campaign terms and conditions.

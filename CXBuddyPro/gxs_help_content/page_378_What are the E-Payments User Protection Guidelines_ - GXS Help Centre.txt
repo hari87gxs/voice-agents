@@ -1,0 +1,24 @@
+Title: What are the E-Payments User Protection Guidelines? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/Keeping_your_GXS_Biz_Account_Payments_and_Money_Secure/What_are_the_E-Payments_User_Protection_Guidelines%3F
+Scraped: 2025-11-28T02:12:44.657375
+Word Count: 243
+Is FAQ Answer: True
+
+================================================================================
+
+The Monetary Authority of Singapore (MAS) has issued these Guidelines on the roles and responsibilities of banks and customers when it comes to Electronic Payments (E-Payments).
+The Guidelines establish a common baseline protection that Financial Institutions will provide to individuals and sole proprietors from losses arising from unauthorised or erroneous e-payment transactions from their protected accounts.
+What is a protected account?
+In the Guidelines, protected accounts are:
+Held by either individuals or sole proprietors (business owners), including those held jointly by multiple account holders, and can hold a balance of S$500 or more at any time or is a credit facility and is capable of being used for E-Payment transactions
+What E-Payments do the Guidelines cover?
+The Guidelines cover all payments initiated through electronic means, and funds received through electronic means. These include online payments and transfers.
+How do the Guidelines protect me?
+As an E-Payments user, the Guidelines set out your responsibilities to adopt good security practices. These include how you should protect your device, login credentials, access codes and protected accounts.
+We send you transaction notifications so you’re alerted of unauthorised transactions. There are also multiple channels of reaching us if you need to report any unauthorised transactions.
+We will investigate claims of unauthorised transactions, with the aim of achieving a fair and reasonable resolution.
+You can read about the Guidelines listed down by MAS and FAQs by ABS below.
+E-Payment Guidelines from MAS:
+www.mas.gov.sg/regulation/guidelines/guidelines-for-e-payments-user-protection
+E-Payment Guidelines FAQ from ABS:
+www.abs.org.sg/consumer-banking/consumers/faq---e-payment-guidelines

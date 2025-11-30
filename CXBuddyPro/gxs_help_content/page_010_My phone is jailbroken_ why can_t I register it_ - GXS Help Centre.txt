@@ -1,0 +1,7 @@
+Title: My phone is jailbroken, why can’t I register it? - GXS Help Centre
+URL: https://help.gxs.com.sg/Emergencies/Sign_Up_Issues/My_phone_is_jailbroken%2C_why_can%E2%80%99t_I_register_it%3F
+Scraped: 2025-11-28T01:07:29.868975
+
+================================================================================
+
+To keep your account safe, we are not able to provide access to GXS accounts on jailbroken devices. You can still access your GXS account on another device.

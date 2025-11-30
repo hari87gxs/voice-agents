@@ -1,0 +1,12 @@
+Title: What is GXS Invest? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/GXS_Invest_Features/What_is_GXS_Invest%3F
+Scraped: 2025-11-28T02:18:36.719186
+Word Count: 144
+Is FAQ Answer: True
+
+================================================================================
+
+GXS Invest is a product by GXS Bank that provides access to investment product(s), including the Fullerton SGD Cash Fund - Class G ("Fullerton SGD Cash Fund").
+Fullerton SGD Cash Fund is actively managed by Fullerton Fund Management, a Temasek Holdings and Income Insurance backed asset management company. The Fund seeks to provide investors with liquidity while achieving a return that is comparable to the SGD Bank Saving Deposits rate by investing primarily into Singapore Dollar-denominated deposits as well as Singapore government related bills.
+Eligible customers invested in Fullerton SGD Cash Fund purchased through GXS Bank will also receive a complimentary group personal accident insurance coverage of up to 3 times the investment amount, subject to a maximum of S$100,000, underwritten by Singapore Life Ltd ("Singlife").
+For more information on the Group Personal Accident insurance coverage, refer to the FAQ section on ‘Singlife Insurance’.

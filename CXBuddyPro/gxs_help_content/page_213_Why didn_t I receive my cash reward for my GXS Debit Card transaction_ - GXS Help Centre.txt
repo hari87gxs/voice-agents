@@ -1,0 +1,16 @@
+Title: Why didn't I receive my cash reward for my GXS Debit Card transaction? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Debit_Card/GXS_Debit_Card_Rewards/Why_didn't_I_receive_my_cash_reward_for_my_GXS_Debit_Card_transaction%3F
+Scraped: 2025-11-28T02:03:59.146228
+Word Count: 109
+Is FAQ Answer: True
+
+================================================================================
+
+We're sorry to hear that.
+Here's what you need to know:
+To receive your cash reward successfully, the balance in your GXS Savings Account, after crediting the cash reward, should not be more than the maximum balance amount your GXS Savings Account can have. Unfortunately, we will not be able to credit the reward if:
+Your maximum balance amount of your GXS Savings Account has been reached, at the time of the Cash Reward crediting
+The crediting of the Cash Reward will cause the balance amount of your GXS Savings Account to be reached.
+You can also refer to the
+Rewards Terms
+for the full list of excluded transactions.

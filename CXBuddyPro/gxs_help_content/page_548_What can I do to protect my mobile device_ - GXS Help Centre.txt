@@ -1,0 +1,12 @@
+Title: What can I do to protect my mobile device? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Keeping_Your_Data_and_Device_Secure/What_can_I_do_to_protect_my_mobile_device%3F
+Scraped: 2025-11-28T02:22:38.218243
+Word Count: 97
+Is FAQ Answer: True
+
+================================================================================
+
+Here are 3 ways you can protect your mobile device:
+Set up automatic updates for your device's applications and operating systems. This is to ensure you have the newest security patches and bug fixes to secure your device and data
+Download apps only from the official Google Play Store or the Apple App Store. Be sure to read the reviews and ratings too. Unverified or unsupported apps can be carriers of security vulnerabilities.
+Lastly, do not set passwords that are easy to guess or are related to your personal details, such as your birthday or NRIC number.

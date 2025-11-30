@@ -1,0 +1,16 @@
+Title: What are some of my responsibilities before using any E-Payment? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Keeping_Your_Payments_Secure/What_are_some_of_my_responsibilities_before_using_any_E-Payment%3F
+Scraped: 2025-11-28T02:11:18.353572
+Word Count: 96
+Is FAQ Answer: True
+
+================================================================================
+
+Here are some responsibilities you should take note of:
+Make sure your email address and phone numbers are correct and up to date with GXS Bank
+Protect your login credentials (Any person who has access to your phone via Face ID/Touch ID/GXS passcode can see your account details and make transactions)
+Enable and read all notifications from us
+Once you've noticed an unauthorised transaction, please report it immediately to us at:
+GXS app, Help Centre: GXS Chat (Recommended)
+GXS app, Help Centre: Submit an enquiry
+GXS Hotline: 1800 866 6685 or (+65) 6866 6685 (from overseas)

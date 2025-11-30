@@ -1,0 +1,16 @@
+Title: Why can’t I access the GXS Bank app on my phone? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Using_the_App/Why_can%E2%80%99t_I_access_the_GXS_Bank_app_on_my_phone%3F
+Scraped: 2025-11-28T02:12:02.529493
+Word Count: 193
+Is FAQ Answer: True
+
+================================================================================
+
+We have recently enhanced the security measures on the GXS Bank app. To ensure that our app remains secure and equipped with the latest features, you will need to update your phone operating system (OS) by 15 December 2024.
+Please consider the following options:
+Upgrade your phone’s OS: Check your device settings for available updates and install the latest version (minimum version supported: iOS 14 and Android 8)
+Consider switching to a new device: Upgrade to a new phone that supports the latest and most secure OS.
+Do note: Phones that are running on OS versions lower than those stated above will no longer be supported by the bank.
+In addition to safeguarding your data and credentials, the GXS Bank app will not run on a rooted, jailbroken device or on non-generally available platforms (e.g. private developer beta and public beta).
+If you've upgraded your mobile device to beta iOS/Android platforms, you should roll back the update to continue accessing the GXS Bank app.
+If you're unable to roll back the update, you can log in to the GXS Bank app using another phone. This will however, require you to re-authenticate your identity.

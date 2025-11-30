@@ -1,0 +1,9 @@
+Title: Why did the GXS Bank app say that my company is not eligible to onboard? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/Open_a_GXS_Biz_Account/Why_did_the_GXS_Bank_app_say_that_my_company_is_not_eligible_to_onboard%3F
+Scraped: 2025-11-28T02:20:49.238988
+Word Count: 40
+Is FAQ Answer: True
+
+================================================================================
+
+We apologise for the inconvenience! This usually means we're not quite ready to support your company type just yet. Don't worry, we've added you to our waitlist and will reach out immediately once we are ready for you to onboard!

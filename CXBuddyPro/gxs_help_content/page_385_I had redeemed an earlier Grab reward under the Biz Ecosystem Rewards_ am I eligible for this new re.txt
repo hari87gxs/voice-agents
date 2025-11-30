@@ -1,0 +1,9 @@
+Title: I had redeemed an earlier Grab reward under the Biz Ecosystem Rewards, am I eligible for this new reward? - GXS Help Centre
+URL: https://help.gxs.com.sg/?title=GXS_Biz_Account/Grab_%26_Singtel_Experiences/I_had_redeemed_an_earlier_Grab_reward_under_the_Biz_Ecosystem_Rewards,_am_I_eligible_for_this_new_reward%3F
+Scraped: 2025-11-28T02:13:12.537108
+Word Count: 34
+Is FAQ Answer: True
+
+================================================================================
+
+Yes, eligibility is only applicable to merchants with multiple stores. Each store linked to a GXS account as the Grab settlement account is eligible for a reward if it has never been redeemed before.

@@ -1,0 +1,11 @@
+Title: How do I view my scheduled transfers? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/GXS_Biz_Account_Payments/How_do_I_view_my_scheduled_transfers%3F#elm-main-content
+Scraped: 2025-11-28T02:28:25.619072
+Word Count: 43
+Is FAQ Answer: True
+
+================================================================================
+
+You can easily view all your upcoming scheduled transfers within the GXS Bank app. Here's how:
+1. Tap on "Send Money" on the top bar.
+2. You can view your list of scheduled transfers, and the start and end dates of the transfers.

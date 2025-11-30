@@ -1,0 +1,9 @@
+Title: How do I top up my Dash wallet with my GXS Savings Account? - GXS Help Centre
+URL: https://help.gxs.com.sg/Grab_and_Singtel_Experiences/GXS_on_Singtel_Dash/How_do_I_top_up_my_Dash_wallet_with_my_GXS_Savings_Account%3F
+Scraped: 2025-11-28T02:17:02.891398
+Word Count: 26
+Is FAQ Answer: True
+
+================================================================================
+
+From your Dash app home screen, tap on the 'Top Up' tile. Select 'GXS Savings Account' and key in the top up amount. There you go!

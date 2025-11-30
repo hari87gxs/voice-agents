@@ -1,0 +1,10 @@
+Title: Where can I find my Instalment Loan interest rates? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan/GXS_FlexiLoan_-_Instalment_Loan_Fees_and_Interest/Where_can_I_find_my_Instalment_Loan_interest_rates%3F
+Scraped: 2025-11-28T01:15:49.327414
+
+================================================================================
+
+Your interest rate (APR and EIR) will be shared with you upon successful application along with your assigned credit limit, so that you have all the details you need to make an informed decision on whether you wish to take on the offer.
+You may also find your interest rate within the GXS FlexiLoan home screen right beneath your credit limit.
+*The Annual Percentage Rate (APR) represents the total borrowing cost, expressed as a yearly rate, relative to the initial loan amount.
+The Effective Interest Rate (EIR) is the rate that reflects the true cost of borrowing and takes into account total charges. It's computed over a reducing balance basis and accrued daily.

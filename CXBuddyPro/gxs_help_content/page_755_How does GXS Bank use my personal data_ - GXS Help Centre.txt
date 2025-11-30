@@ -1,0 +1,16 @@
+Title: How does GXS Bank use my personal data? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Your_Data_Privacy/How_does_GXS_Bank_use_my_personal_data%3F#elm-main-content
+Scraped: 2025-11-28T02:33:37.171466
+Word Count: 72
+Is FAQ Answer: True
+
+================================================================================
+
+We use your data to:
+Confirm your identity.
+Respond to queries and feedback.
+Enhance our products and services.
+Execute our day-to-day business and administrative operations.
+Comply with laws and legal obligations, and our GXS Bank policies.
+Perform checks so as to prevent and detect crime, and for risk management purposes.
+Note that this is a non-exhaustive list. For more details, please refer to our full Data Protection Policy on GXS Bank website.

@@ -1,0 +1,9 @@
+Title: Can I add my GXS FlexiCard to Google Pay or Apple Pay? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiCard/Usage_of_GXS_FlexiCard/2Can_I_add_my_GXS_FlexiCard_to_Google_Pay_or_Apple_Pay%3F
+Scraped: 2025-11-28T02:06:41.889384
+Word Count: 31
+Is FAQ Answer: True
+
+================================================================================
+
+Yes, you can now add Google Pay to your GXS FlexiCard to pay for transactions. Unfortunately for Apple Pay, that feature isn't quite ready yet. Do stay tuned for more updates!

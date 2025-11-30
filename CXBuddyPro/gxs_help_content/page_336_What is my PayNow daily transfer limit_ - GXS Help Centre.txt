@@ -1,0 +1,10 @@
+Title: What is my PayNow daily transfer limit? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Using_PayNow/What_is_my_PayNow_daily_transfer_limit%3F
+Scraped: 2025-11-28T02:10:34.152241
+Word Count: 21
+Is FAQ Answer: True
+
+================================================================================
+
+Applicable to retail accounts only
+Your PayNow transfer limit is subject to your daily transfer limit of your GXS Savings Account.

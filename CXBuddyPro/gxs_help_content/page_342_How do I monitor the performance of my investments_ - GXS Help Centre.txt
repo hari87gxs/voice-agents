@@ -1,0 +1,10 @@
+Title: How do I monitor the performance of my investments? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/GXS_Invest_Features/How_do_I_monitor_the_performance_of_my_investments%3F
+Scraped: 2025-11-28T02:10:52.333114
+Word Count: 54
+Is FAQ Answer: True
+
+================================================================================
+
+The performance of your investments will be reflected in the ‘Current value’ and ‘Total returns’ with fluctuations in the unit price reflecting both increases and decreases in value.
+Please note that if your total investment amount is relatively small, you may not notice changes in your 'Current Value' on a day to day basis.

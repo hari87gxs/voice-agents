@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GXS Bank - Login</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .container {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            padding: 40px;
+            max-width: 400px;
+            width: 100%;
+        }
+
+        .logo {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .logo h1 {
+            font-size: 2.5em;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-weight: 900;
+        }
+
+        .logo p {
+            color: #666;
+            margin-top: 5px;
+            font-size: 0.9em;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+            color: #333;
+            font-weight: 600;
+            font-size: 0.9em;
+        }
+
+        select, input {
+            width: 100%;
+            padding: 12px 15px;
+            border: 2px solid #e1e8ed;
+            border-radius: 10px;
+            font-size: 1em;
+            transition: border-color 0.3s;
+        }
+
+        select:focus, input:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        button {
+            width: 100%;
+            padding: 15px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 10px;
+            font-size: 1.1em;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+
+        button:hover {
+            transform: translateY(-2px);
+        }
+
+        button:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+        }
+
+        .info-box {
+            background: #f8f9fa;
+            border-left: 4px solid #667eea;
+            padding: 15px;
+            margin-top: 20px;
+            border-radius: 5px;
+        }
+
+        .info-box h3 {
+            color: #667eea;
+            margin-bottom: 10px;
+            font-size: 1em;
+        }
+
+        .info-box p {
+            color: #666;
+            font-size: 0.85em;
+            line-height: 1.5;
+        }
+
+        .success-box {
+            background: #d4edda;
+            border: 2px solid #28a745;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+            display: none;
+        }
+
+        .success-box h3 {
+            color: #155724;
+            margin-bottom: 15px;
+        }
+
+        .jwt-token {
+            background: #fff;
+            padding: 15px;
+            border-radius: 8px;
+            word-break: break-all;
+            font-family: 'Courier New', monospace;
+            font-size: 0.75em;
+            margin: 10px 0;
+            border: 1px solid #c3e6cb;
+        }
+
+        .copy-btn {
+            background: #28a745;
+            margin-top: 10px;
+            padding: 10px;
+            font-size: 0.9em;
+        }
+
+        .copy-btn:hover {
+            background: #218838;
+        }
+
+        .riley-link {
+            display: block;
+            margin-top: 15px;
+            padding: 12px;
+            background: #667eea;
+            color: white;
+            text-decoration: none;
+            text-align: center;
+            border-radius: 8px;
+            font-weight: 600;
+        }
+
+        .riley-link:hover {
+            background: #5568d3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="logo">
+            <h1>GXS Bank</h1>
+            <p>Mock Authentication</p>
+        </div>
+
+        <form id="loginForm">
+            <div class="form-group">
+                <label for="userSelect">Select Demo User</label>
+                <select id="userSelect" required>
+                    <option value="">Choose a user...</option>
+                    <option value="john_doe">John Doe (Personal Account)</option>
+                    <option value="jane_smith">Jane Smith (Business Account)</option>
+                    <option value="mike_wong">Mike Wong (Premium Account)</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="password">Password (any text)</label>
+                <input type="password" id="password" placeholder="Enter any password" required>
+            </div>
+
+            <button type="submit">Login to GXS</button>
+        </form>
+
+        <div class="success-box" id="successBox">
+            <h3>✓ Login Successful!</h3>
+            <p><strong>User:</strong> <span id="displayName"></span></p>
+            <p><strong>Account Type:</strong> <span id="accountType"></span></p>
+            
+            <div>
+                <p style="margin-top: 15px; margin-bottom: 5px;"><strong>JWT Token:</strong></p>
+                <div class="jwt-token" id="jwtToken"></div>
+                <button class="copy-btn" onclick="copyToken()">📋 Copy Token</button>
+            </div>
+
+            <a href="#" class="riley-link" id="rileyLink" target="_blank">
+                🤖 Talk to Riley with this account →
+            </a>
+        </div>
+
+        <div class="info-box">
+            <h3>ℹ️ Mock Login Info</h3>
+            <p>This is a mock GXS login for testing Riley integration. Select any user and enter any password to get a JWT token.</p>
+        </div>
+    </div>
+
+    <script>
+        const MOCK_USERS = {
+            john_doe: {
+                userId: 'USR-001',
+                name: 'John Doe',
+                email: 'john.doe@email.com',
+                accountType: 'Personal Account',
+                accountNumber: '1234567890',
+                mainAccountBalance: 15234.50,
+                savingsBalance: 42890.00,
+                cardNumber: '5123-****-****-8901',
+                cardStatus: 'active'
+            },
+            jane_smith: {
+                userId: 'USR-002',
+                name: 'Jane Smith',
+                email: 'jane.smith@email.com',
+                accountType: 'Business Account',
+                accountNumber: '2345678901',
+                mainAccountBalance: 89456.75,
+                savingsBalance: 125000.00,
+                cardNumber: '5123-****-****-4562',
+                cardStatus: 'active',
+                businessName: 'Smith Trading Pte Ltd'
+            },
+            mike_wong: {
+                userId: 'USR-003',
+                name: 'Mike Wong',
+                email: 'mike.wong@email.com',
+                accountType: 'Premium Account',
+                accountNumber: '3456789012',
+                mainAccountBalance: 234567.80,
+                savingsBalance: 500000.00,
+                cardNumber: '5123-****-****-7893',
+                cardStatus: 'active'
+            }
+        };
+
+        document.getElementById('loginForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            const selectedUser = document.getElementById('userSelect').value;
+            if (!selectedUser) return;
+
+            const userData = MOCK_USERS[selectedUser];
+            
+            // Create JWT payload
+            const payload = {
+                sub: userData.userId,
+                name: userData.name,
+                email: userData.email,
+                accountNumber: userData.accountNumber,
+                accountType: userData.accountType,
+                iat: Math.floor(Date.now() / 1000),
+                exp: Math.floor(Date.now() / 1000) + (60 * 60 * 24) // 24 hours
+            };
+
+            // Create mock JWT (base64 encoded JSON)
+            const header = btoa(JSON.stringify({ alg: 'HS256', typ: 'JWT' }));
+            const body = btoa(JSON.stringify(payload));
+            const signature = btoa('mock_signature_' + selectedUser);
+            const jwt = `${header}.${body}.${signature}`;
+
+            // Display success
+            document.getElementById('displayName').textContent = userData.name;
+            document.getElementById('accountType').textContent = userData.accountType;
+            document.getElementById('jwtToken').textContent = jwt;
+            
+            // Store token in sessionStorage
+            sessionStorage.setItem('gxs_jwt', jwt);
+            sessionStorage.setItem('gxs_user', JSON.stringify(userData));
+            
+            // Update link to talk to Hari (authenticated account manager)
+            const hariUrl = `index.html?jwt=${encodeURIComponent(jwt)}`;
+            const rileyLink = document.getElementById('rileyLink');
+            rileyLink.href = hariUrl;
+            rileyLink.textContent = '🎙️ Talk to Hari - Your Account Manager';
+            
+            document.getElementById('successBox').style.display = 'block';
+            document.getElementById('loginForm').style.display = 'none';
+        });
+
+        function copyToken() {
+            const token = document.getElementById('jwtToken').textContent;
+            navigator.clipboard.writeText(token).then(() => {
+                const btn = event.target;
+                const originalText = btn.textContent;
+                btn.textContent = '✓ Copied!';
+                btn.style.background = '#218838';
+                setTimeout(() => {
+                    btn.textContent = originalText;
+                    btn.style.background = '#28a745';
+                }, 2000);
+            });
+        }
+    </script>
+</body>
+</html>

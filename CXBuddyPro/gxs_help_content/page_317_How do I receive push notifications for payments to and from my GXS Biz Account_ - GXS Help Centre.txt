@@ -1,0 +1,13 @@
+Title: How do I receive push notifications for payments to and from my GXS Biz Account? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/Manage_GXS_Biz_Account/How_do_I_receive_push_notifications_for_payments_to_and_from_my_GXS_Biz_Account%3F
+Scraped: 2025-11-28T02:09:34.137715
+Word Count: 79
+Is FAQ Answer: True
+
+================================================================================
+
+When you sign up with us, the GXS Bank app would have prompted you to allow push notifications. Whenever there's a payment to your GXS Biz Account, you will receive an email and a push notification. You will still receive an email even if you do not allow push notifications.
+To turn on push notifications,
+On the GXS Bank app home screen, tap on 'Profile'.
+Tap on 'Notifications and emails'.
+Toggle on to receive notifications from us. Easy peezy!

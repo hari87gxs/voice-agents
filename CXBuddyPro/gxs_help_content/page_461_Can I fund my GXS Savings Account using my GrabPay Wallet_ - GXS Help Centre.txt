@@ -1,0 +1,12 @@
+Title: Can I fund my GXS Savings Account using my GrabPay Wallet? - GXS Help Centre
+URL: https://help.gxs.com.sg/Grab_and_Singtel_Experiences/GXS_on_Grab/Can_I_fund_my_GXS_Savings_Account_using_my_GrabPay_Wallet%3F
+Scraped: 2025-11-28T02:17:28.280459
+Word Count: 91
+Is FAQ Answer: True
+
+================================================================================
+
+Yes, you can!
+To move funds from your GrabPay Wallet to your GXS account, you can use the 'Transfer' function in the Grab app in two ways:
+If you've set up your GXS Savings Account as your PayNow account via Phone Number, it will be available to select under 'Transfer to your PayNow account'.
+You can also send money via your account number by pressing 'Bank account' under Transfer to a different account and adding a recipient with GXS Bank as the Bank name and your account number (starting with 888).

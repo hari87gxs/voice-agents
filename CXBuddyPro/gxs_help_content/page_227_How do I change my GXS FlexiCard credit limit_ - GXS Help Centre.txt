@@ -1,0 +1,9 @@
+Title: How do I change my GXS FlexiCard credit limit? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiCard/Usage_of_GXS_FlexiCard/How_do_I_change_my_GXS_FlexiCard_credit_limit%3F
+Scraped: 2025-11-28T02:04:45.218870
+Word Count: 23
+Is FAQ Answer: True
+
+================================================================================
+
+Oops, you won’t be able to change the credit limit of S$500 as this is the limit set for all GXS FlexiCard holders.

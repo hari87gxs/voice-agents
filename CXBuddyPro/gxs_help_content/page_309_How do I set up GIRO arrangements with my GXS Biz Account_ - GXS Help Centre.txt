@@ -1,0 +1,9 @@
+Title: How do I set up GIRO arrangements with my GXS Biz Account? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/Manage_GXS_Biz_Account/How_do_I_set_up_GIRO_arrangements_with_my_GXS_Biz_Account%3F
+Scraped: 2025-11-28T02:09:08.879884
+Word Count: 21
+Is FAQ Answer: True
+
+================================================================================
+
+We don’t support GIRO arrangements to debit/credit funds from/to your GXS Biz Account at the moment. Keep a lookout for updates!

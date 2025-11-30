@@ -1,0 +1,12 @@
+Title: Can I receive funds to my GXS FlexiLoan via GIRO? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Send_Money/Can_I_receive_funds_to_my_GXS_FlexiLoan_via_GIRO%3F
+Scraped: 2025-11-28T02:11:00.405982
+Word Count: 22
+Is FAQ Answer: True
+
+================================================================================
+
+We are currently unable to accept repayments for GXS FlexiLoans via GIRO.
+For the acceptable modes of repayment, please refer
+here
+.

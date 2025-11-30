@@ -1,0 +1,10 @@
+Title: How many users can operate the GXS Biz Account and GXS FlexiLoan Biz? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/Open_a_GXS_Biz_Account/How_many_users_can_operate_the_GXS_Biz_Account_and_GXS_FlexiLoan_Biz%3F#elm-main-content
+Scraped: 2025-11-28T02:29:45.846837
+Word Count: 50
+Is FAQ Answer: True
+
+================================================================================
+
+Only one authorised person can operate and manage the GXS Biz Account and GXS FlexiLoan Biz.
+To protect your GXS Bank account, do not share your device where the GXS Bank app is logged in, avoid logging in on a different phone, and never share your GXS Bank app credentials.

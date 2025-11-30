@@ -1,0 +1,10 @@
+Title: What happens if my GXS FlexiLoan Biz repayment due date falls on a Public Holiday? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan_Biz/GXS_FlexiLoan_Biz_Repayment/What_happens_if_my_GXS_FlexiLoan_Biz_repayment_due_date_falls_on_a_Public_Holiday%3F#elm-main-content
+Scraped: 2025-11-28T02:34:16.566148
+Word Count: 44
+Is FAQ Answer: True
+
+================================================================================
+
+Not to worry! Repayment dates are not affected by public holidays and will remain the same date you initially chose.
+However, if the day does not exist within the month, then your due date will be defaulted to the last day of the month.

@@ -1,0 +1,10 @@
+Title: Can I send funds from my GXS Savings Account via GIRO? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Send_Money/Can_I_send_funds_from_my_GXS_Savings_Account_via_GIRO%3F
+Scraped: 2025-11-28T02:09:01.785479
+Word Count: 36
+Is FAQ Answer: True
+
+================================================================================
+
+You can receive funds to your GXS Savings Account via GIRO.
+We currently don't support sending of funds from your GXS Savings Account via GIRO. However, you can send funds instantly via PayNow and FAST services.

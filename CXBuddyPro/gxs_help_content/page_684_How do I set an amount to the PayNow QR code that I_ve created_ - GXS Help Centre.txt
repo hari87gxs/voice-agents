@@ -1,0 +1,9 @@
+Title: How do I set an amount to the PayNow QR code that I've created? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/GXS_Biz_Account_Payments/How_do_I_set_an_amount_to_the_PayNow_QR_code_that_I've_created%3F#elm-main-content
+Scraped: 2025-11-28T02:29:58.108422
+Word Count: 35
+Is FAQ Answer: True
+
+================================================================================
+
+Currently, you can't set an amount to the PayNow QR code. But rest assured that we're continuously working on enhancing this feature. Stay tuned for upcoming releases – this might be one of the enhancements!

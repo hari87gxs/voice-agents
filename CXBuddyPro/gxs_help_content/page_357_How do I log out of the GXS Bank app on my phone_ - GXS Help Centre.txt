@@ -1,0 +1,11 @@
+Title: How do I log out of the GXS Bank app on my phone? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Using_the_App/How_do_I_log_out_of_the_GXS_Bank_app_on_my_phone%3F
+Scraped: 2025-11-28T02:11:38.800064
+Word Count: 41
+Is FAQ Answer: True
+
+================================================================================
+
+On the app, go to 'Me'.
+Tap 'Log out' on the top right corner of the screen. You’re logged out. It’s that easy!
+Alternatively, you will be logged out if you’ve been inactive on the app for more than 5 minutes.

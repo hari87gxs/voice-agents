@@ -1,0 +1,14 @@
+Title: How will I know when my GXS Invest account is opened? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/Opening_a_GXS_Invest_Account/How_will_I_know_when_my_GXS_Invest_account_is_opened%3F
+Scraped: 2025-11-28T02:13:39.779905
+Word Count: 64
+Is FAQ Answer: True
+
+================================================================================
+
+Once your GXS Invest account is opened, you’ll receive a welcome message and an email. You can also turn on your notifications on your device so as to be notified directly.
+To turn on push notifications:
+1. Log in to the GXS Bank app.
+2. On the homescreen, tap on ‘Me’.
+3. Select notifications and emails.
+4. Toggle 'on' to receive notifications from us.

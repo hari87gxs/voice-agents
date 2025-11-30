@@ -1,0 +1,7 @@
+Title: Why can't I register for GXS if my mobile phone does not have passcode protection turned on? - GXS Help Centre
+URL: https://help.gxs.com.sg/Emergencies/Sign_Up_Issues/Why_can't_I_register_for_GXS_if_my_mobile_phone_does_not_have_passcode_protection_turned_on%3F
+Scraped: 2025-11-28T01:07:39.217015
+
+================================================================================
+
+For security reasons, we are not able to provide access to devices which are not passcode protected. You can go to your phone settings to set a passcode or access your GXS account on a passcode-protected device.

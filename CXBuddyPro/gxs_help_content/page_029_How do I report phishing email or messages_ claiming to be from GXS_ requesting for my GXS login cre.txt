@@ -1,0 +1,19 @@
+Title: How do I report phishing email or messages, claiming to be from GXS, requesting for my GXS login credentials? - GXS Help Centre
+URL: https://help.gxs.com.sg/Emergencies/Security_Issues/How_do_I_report_phishing_email_or_messages%2C_claiming_to_be_from_GXS%2C_requesting_for_my_GXS_login_credentials%3F
+Scraped: 2025-11-28T01:08:27.573320
+
+================================================================================
+
+If you've responded to the emails or messages and shared your GXS credentials,
+1. Contact us immediately to suspend your account(s) and let us take you through the fraud reporting process. Here's how:
+GXS Bank app, Help Centre: GXS Chat
+GXS Hotline: 1800 866 6685 or (+65) 6866 6685 (from overseas)
+2.  Lodge a police report either through:
+Online: Singapore Police Force (SPF) e-services portal.
+Urgent: SMS 70999 or call '999'. Non-urgent: call '1800-255-0000'
+In person: Visit any police station.
+If you did not share your credentials,
+Forward the email or screenshots of the messages (containing the contact details) to
+report.phishing@gxs.com.sg
+. We’ll get in touch with you if we need more information.
+You can also refer to the official SPF website for the latest advisory, whether or not you have shared your credentials.

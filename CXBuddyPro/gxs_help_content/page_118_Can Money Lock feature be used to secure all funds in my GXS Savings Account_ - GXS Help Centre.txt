@@ -1,0 +1,23 @@
+Title: Can Money Lock feature be used to secure all funds in my GXS Savings Account? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Savings_Account/Money_Lock/Can_Money_Lock_feature_be_used_to_secure_all_funds_in_my_GXS_Savings_Account%3F
+Scraped: 2025-11-28T01:13:39.568760
+
+================================================================================
+
+At the moment, only funds in your Saving Pocket(s) can be locked.
+To lock your funds, simply create a new Saving Pocket or add more money to an existing locked Saving Pocket from your Main Account. Here’s how:
+Create a new Saving Pocket
+1. Log in to GXS Bank app.
+2. Tap on ‘Pockets'.
+3. Under 'Create Pocket', select ‘Saving Pocket'.
+4. Tap on 'Create Now’ and follow the guided instructions.
+5. Once you have confirmed and created the Saving Pocket amount, tap on ‘Settings’.
+6. Tap on ‘Enable Money Lock’ and select ‘Confirm’ to proceed.
+Add funds to an existing Saving Pocket
+1. Log in to GXS Bank app.
+2. Tap on your Saving Pocket.
+3. Tap on ‘+ Fund’.
+4. Key in the amount you would like to add.
+5. Once you confirm, you will see the following message ‘Your newly added funds will be locked’.
+You will receive a push and email  notification once the lock is successful.
+Do note that the lock is immediate, and unlocking the Money Lock feature will require a successful video verification.

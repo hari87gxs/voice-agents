@@ -1,0 +1,10 @@
+Title: For Grab transactions that fail, will I still earn GrabCoins for subsequent retries? - GXS Help Centre
+URL: https://help.gxs.com.sg/Grab_and_Singtel_Experiences/GXS_on_Grab_Rewards/For_Grab_transactions_that_fail%2C_will_I_still_earn_GrabCoins_for_subsequent_retries%3F#elm-main-content
+Scraped: 2025-11-28T02:33:34.429147
+Word Count: 61
+Is FAQ Answer: True
+
+================================================================================
+
+If your Grab transaction is eligible and successful, you'll receive GrabCoins automatically. You can view your GrabCoins history to check if the reward points have been credited. Do note this is subject to the applicable Grab terms and conditions.
+If you did not receive GrabCoins or have any queries, please reach out to the friendly folks at the Grab Help Centre.

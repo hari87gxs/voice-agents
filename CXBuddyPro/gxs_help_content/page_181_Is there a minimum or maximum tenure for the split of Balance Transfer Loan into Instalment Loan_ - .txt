@@ -1,0 +1,8 @@
+Title: Is there a minimum or maximum tenure for the split of Balance Transfer Loan into Instalment Loan? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan/Split_a_Balance_Transfer/Is_there_a_minimum_or_maximum_tenure_for_the_split_of_Balance_Transfer_Loan_into_Instalment_Loan%3F
+Scraped: 2025-11-28T01:16:54.034561
+
+================================================================================
+
+The minimum tenure of the new Instalment Loan is 2 months.
+The maximum tenure for the new Instalment Loan will be determined based on the remaining balance of your Balance Transfer Loan and your eligibility. Your maximum tenure will be provided during the splitting process.

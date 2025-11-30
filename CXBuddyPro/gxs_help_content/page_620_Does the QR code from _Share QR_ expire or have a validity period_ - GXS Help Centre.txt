@@ -1,0 +1,9 @@
+Title: Does the QR code from 'Share QR' expire or have a validity period? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/GXS_Biz_Account_Payments/Does_the_QR_code_from_'Share_QR'_expire_or_have_a_validity_period%3F
+Scraped: 2025-11-28T02:28:25.975968
+Word Count: 35
+Is FAQ Answer: True
+
+================================================================================
+
+The QR code from 'Share QR' does not expire or have a validity period. Once you share the QR code with your customers, they can use it to send you funds whenever they need to.

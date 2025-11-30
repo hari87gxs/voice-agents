@@ -1,0 +1,19 @@
+Title: What does overlimit mean for my GXS FlexiCard? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiCard/Usage_of_GXS_FlexiCard/1What_does_overlimit_mean_for_my_GXS_FlexiCard%3F
+Scraped: 2025-11-28T02:05:18.433555
+Word Count: 138
+Is FAQ Answer: True
+
+================================================================================
+
+Your GXS FlexiCard enters an overlimit state if the total outstanding balance, including unbilled amounts, exceeds your assigned credit limit.
+The overlimit amount will be detailed in your statement of account and represents the balance that exceeds your credit limit. This amount must be repaid immediately.
+Please note that the minimum payment amount set out in your statement will take into consideration the overlimit amount.
+Scenario
+Statement generation date: 22 October 2024
+Current statement outstanding balance: S$495
+Due date: 5 November 2024
+On 28 October 2024, your FlexiCard account incurred a charge of $37.50 that went through and this exceeded the credit limit by S$32.50. This overlimit amount of S$32.50 will be added to your outstanding balance, but the overspent amount has to be paid immediately.
+To learn more about GXS FlexiCard minimum payment amount, click
+here
+.

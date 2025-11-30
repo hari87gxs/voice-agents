@@ -1,0 +1,10 @@
+Title: Will I earn interest when my deposit amount reaches the maximum balance amount? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Savings_Account/Interest_and_Fees/Will_I_earn_interest_when_my_deposit_amount_reaches_the_maximum_balance_amount%3F
+Scraped: 2025-11-28T01:10:39.973339
+
+================================================================================
+
+Definitely! The funds in your GXS Savings Account will continue to earn interest even after you’ve hit your maximum balance amount.
+Here is an example, based on an interest rate of 1.08% per annum:
+On 20 June 2025, your balance in your Saving Pocket(s) is S$95,000 at the end of the day. You will earn an interest of S$2.81 and it will be credited to your account on 21 June 2025. Your account balance on 21 June 2025 is now S$95,002.81. You will continue to earn interest based on this S$95,002.81 amount at the end of the day.
+For your information, your deposits with GXS are aggregated and insured up to S$100,000 by the Singapore Deposit Insurance Corporation (SDIC).

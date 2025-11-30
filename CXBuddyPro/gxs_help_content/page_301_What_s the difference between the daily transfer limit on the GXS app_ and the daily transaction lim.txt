@@ -1,0 +1,13 @@
+Title: What's the difference between the daily transfer limit on the GXS app, and the daily transaction limit for my linked GXS Savings Account on the Dash app? - GXS Help Centre
+URL: https://help.gxs.com.sg/Grab_and_Singtel_Experiences/GXS_on_Singtel_Dash/What's_the_difference_between_the_daily_transfer_limit_on_the_GXS_app%2C_and_the_daily_transaction_limit_for_my_linked_GXS_Savings_Account_on_the_Dash_app%3F
+Scraped: 2025-11-28T02:08:44.976961
+Word Count: 81
+Is FAQ Answer: True
+
+================================================================================
+
+Daily transfer limit on GXS Bank app:
+This refers to daily amount you can transfer from your GXS Savings Account to other bank accounts, through the various modes of transfer (e.g. PayNow, local bank transfers).
+Daily transaction limit for linked GXS Savings Account on Dash app:
+This refers to the total daily transactions you can make from your GXS Savings Account on Dash app, including top-ups to your Dash wallet.
+Please note that the transfer and transaction limits are not related.

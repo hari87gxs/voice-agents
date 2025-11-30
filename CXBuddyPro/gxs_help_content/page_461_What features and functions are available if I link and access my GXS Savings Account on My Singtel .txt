@@ -1,0 +1,11 @@
+Title: What features and functions are available if I link and access my GXS Savings Account on My Singtel app? - GXS Help Centre
+URL: https://help.gxs.com.sg/Grab_and_Singtel_Experiences/My_Singtel_App/What_features_and_functions_are_available_if_I_link_and_access_my_GXS_Savings_Account_on_My_Singtel_app%3F
+Scraped: 2025-11-28T02:16:56.419224
+Word Count: 47
+Is FAQ Answer: True
+
+================================================================================
+
+If you link your GXS Savings Account to My Singtel app, you'll have access to several features:
+1. You can link or unlink your GXS Savings Account directly from My Singtel app.
+2. You can pay your Singtel bills using your GXS Savings Account within the app.

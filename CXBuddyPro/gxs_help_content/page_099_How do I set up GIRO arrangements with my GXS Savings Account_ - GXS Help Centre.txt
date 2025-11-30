@@ -1,0 +1,7 @@
+Title: How do I set up GIRO arrangements with my GXS Savings Account? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Savings_Account/Manage_Account/How_do_I_set_up_GIRO_arrangements_with_my_GXS_Savings_Account%3F
+Scraped: 2025-11-28T01:12:20.655506
+
+================================================================================
+
+We don’t support GIRO arrangements to debit funds from your GXS Savings Account at the moment. Keep a lookout for updates!

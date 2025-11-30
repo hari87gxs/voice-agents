@@ -1,0 +1,12 @@
+Title: What are these security vulnerabilities? - GXS Help Centre
+URL: https://help.gxs.com.sg/Emergencies/Malware_Threats/What_are_these_security_vulnerabilities%3F
+Scraped: 2025-11-28T01:09:35.302528
+
+================================================================================
+
+From 1 December 2023, your access to the GXS Bank app will be blocked if the following are detected on your mobile device:
+Known malware applications and jailbroken or rooted mobile devices.
+Apps that are not from trusted or official app stores with accessibility service permission enabled on your devices.
+When live screen sharing, screen mirroring or screen recording
+is detected while the GXS Bank app is opened.
+Apps that allow remote access to your device.

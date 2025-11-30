@@ -1,0 +1,10 @@
+Title: I closed the GXS Bank app while applying for a GXS Biz Account. What should I do? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/Open_a_GXS_Biz_Account/I_closed_the_GXS_Bank_app_while_applying_for_a_GXS_Biz_Account._What_should_I_do%3F#elm-main-content
+Scraped: 2025-11-28T02:38:12.157329
+Word Count: 51
+Is FAQ Answer: True
+
+================================================================================
+
+Fret not. If you closed the GXS Bank app after setting your passcode, simply log in to the app and finish your application within 30 days.
+If you didn’t manage to set a passcode, your information would have been deleted for security reasons and you'll have to start a new application.

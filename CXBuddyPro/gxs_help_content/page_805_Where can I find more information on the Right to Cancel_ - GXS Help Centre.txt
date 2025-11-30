@@ -1,0 +1,13 @@
+Title: Where can I find more information on the Right to Cancel? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/7_Day_Cancellation_Period/Where_can_I_find_more_information_on_the_Right_to_Cancel%3F#elm-main-content
+Scraped: 2025-11-28T02:36:08.650492
+Word Count: 35
+Is FAQ Answer: True
+
+================================================================================
+
+You can refer to the Cancellation Notice via the following steps:
+1. Log in to the GXS Bank app.
+2. Proceed to the GXS Invest homescreen.
+3. Tap on 'More'.
+4. Tap on 'Cancellation Notice'.

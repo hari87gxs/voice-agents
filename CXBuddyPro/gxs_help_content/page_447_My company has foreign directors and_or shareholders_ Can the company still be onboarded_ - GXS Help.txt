@@ -1,0 +1,14 @@
+Title: My company has foreign directors and/or shareholders. Can the company still be onboarded? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/Open_a_GXS_Biz_Account/My_company_has_foreign_directors_and%2F%2For_shareholders._Can_the_company_still_be_onboarded%3F
+Scraped: 2025-11-28T02:16:39.254528
+Word Count: 63
+Is FAQ Answer: True
+
+================================================================================
+
+We are unable to onboard if all directors and major shareholders in your company are foreign nationals without Singapore PR status.
+To be eligible, your company must meet these two requirements:
+Directors:
+At least two directors must be a Singapore Citizen or Singapore Permanent Resident.
+Shareholders:
+All major shareholders (holding 25% or more of shares) must be a Singapore Citizen or Singapore PR.

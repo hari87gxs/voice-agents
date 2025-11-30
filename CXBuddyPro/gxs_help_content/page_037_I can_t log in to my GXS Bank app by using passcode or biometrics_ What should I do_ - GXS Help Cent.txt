@@ -1,0 +1,13 @@
+Title: I can’t log in to my GXS Bank app by using passcode or biometrics. What should I do? - GXS Help Centre
+URL: https://help.gxs.com.sg/Emergencies/Login_Issues/I_can%E2%80%99t_log_in_to_my_GXS_Bank_app_by_using_passcode_or_biometrics._What_should_I_do%3F
+Scraped: 2025-11-28T01:08:51.741115
+
+================================================================================
+
+You can reset your passcode by re-authenticating with Singpass. Once you’ve verified your identity, you will be prompted to create and confirm a new passcode. If you still have trouble accessing your account, let us help you via
+GXS Hotline: 1800 866 6685 or (+65) 6866 6685 (from overseas)
+GXS Customer Support Email:
+help@gxs.com.sg
+If you are encountering issues with your Singpass login, do have a read
+here
+.

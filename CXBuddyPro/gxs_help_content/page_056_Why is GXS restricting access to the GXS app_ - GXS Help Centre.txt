@@ -1,0 +1,8 @@
+Title: Why is GXS restricting access to the GXS app? - GXS Help Centre
+URL: https://help.gxs.com.sg/Emergencies/Malware_Threats/Why_is_GXS_restricting_access_to_the_GXS_app%3F
+Scraped: 2025-11-28T01:09:50.885419
+
+================================================================================
+
+We are joining arms with other banks in Singapore to protect you from potential malware threats.
+Malware installed on your device can potentially steal your personal information and take control of your device to make fraudulent banking transactions without your consent. This is why, access to your GXS Bank app is being restricted, when security vulnerabilities are detected.

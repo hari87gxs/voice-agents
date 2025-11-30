@@ -1,0 +1,7 @@
+Title: How do I stop my GIRO arrangements? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Savings_Account/Manage_Account/How_do_I_stop_my_GIRO_arrangements%3F
+Scraped: 2025-11-28T01:12:23.398841
+
+================================================================================
+
+We don’t support any GIRO arrangement to debit funds from your GXS Savings Account at the moment.

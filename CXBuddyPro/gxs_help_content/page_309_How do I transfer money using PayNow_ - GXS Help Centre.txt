@@ -1,0 +1,16 @@
+Title: How do I transfer money using PayNow? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Using_PayNow/How_do_I_transfer_money_using_PayNow%3F
+Scraped: 2025-11-28T02:09:08.744328
+Word Count: 114
+Is FAQ Answer: True
+
+================================================================================
+
+Applicable to retail accounts only
+You can send money to an existing contact on your phone, or through the recipient’s PayNow details.
+To send money to one of your contact’s mobile number, remember to give GXS access to your contact list. You should be able to grant or change these permissions any time in your phone’s settings.
+To send money via PayNow,
+Click 'Send Money' on the GXS Bank app homepage.
+In the 'Search' bar, enter the recipient’s PayNow details (e.g. phone number, NRIC/FIN, UEN or VPA).
+Confirm your recipient and check that their details are correct.
+Enter the amount you wish to transfer, a message if you wish, and you’re good to go!

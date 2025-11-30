@@ -1,0 +1,11 @@
+Title: I recently registered a new business entity with ACRA. Why isn't the business name appearing on the GXS Bank app? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/Open_a_GXS_Biz_Account/I_recently_registered_a_new_business_entity_with_ACRA._Why_isn't_the_business_name_appearing_on_the_GXS_Bank_app%3F#elm-main-content
+Scraped: 2025-11-28T02:36:55.842034
+Word Count: 48
+Is FAQ Answer: True
+
+================================================================================
+
+Congrats on registering your new business!
+Please allow 1 business day for your newly registered business name to appear on the GXS Bank app.
+If you have previously tried to apply for a GXS Business Banking account, please note that you can only reapply after 14 calendar days.

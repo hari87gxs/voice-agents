@@ -1,0 +1,8 @@
+Title: How is interest for a Boost Pocket calculated? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Savings_Account/Boost_Pocket/How_is_interest_for_a_Boost_Pocket_calculated%3F
+Scraped: 2025-11-28T01:11:13.558416
+
+================================================================================
+
+The base interest for a Boost Pocket is calculated on each day end balance. The interest is accrued and credited daily.
+The bonus interest is calculated on the principal amount and will be credited only at the end of the tenure.

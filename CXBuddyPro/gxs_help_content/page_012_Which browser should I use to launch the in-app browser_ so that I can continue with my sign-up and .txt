@@ -1,0 +1,10 @@
+Title: Which browser should I use to launch the in-app browser, so that I can continue with my sign-up and login process? - GXS Help Centre
+URL: https://help.gxs.com.sg/Emergencies/Sign_Up_Issues/Which_browser_should_I_use_to_launch_the_in-app_browser%2C_so_that_I_can_continue_with_my_sign-up_and_login_process%3F
+Scraped: 2025-11-28T01:07:36.122250
+
+================================================================================
+
+We do recommend you using one of the following browsers to sign up and login the GXS Bank app via Singpass:
+Chrome
+Samsung Internet
+Safari (iOS only)

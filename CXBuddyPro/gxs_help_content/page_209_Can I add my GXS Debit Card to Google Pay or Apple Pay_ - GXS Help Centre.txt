@@ -1,0 +1,9 @@
+Title: Can I add my GXS Debit Card to Google Pay or Apple Pay? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Debit_Card/Usage_of_GXS_Debit_Card/Can_I_add_my_GXS_Debit_Card_to_Google_Pay_or_Apple_Pay%3F
+Scraped: 2025-11-28T02:03:47.401873
+Word Count: 32
+Is FAQ Answer: True
+
+================================================================================
+
+Yes, you can now add Google Pay to your GXS Debit Card to pay for transactions. Unfortunately for Apple Pay, that feature isn't quite ready yet. Do stay tuned for more updates!

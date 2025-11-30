@@ -1,0 +1,11 @@
+Title: How do I receive push notifications for payments to and from my GXS Savings Account? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Savings_Account/Manage_Account/How_do_I_receive_push_notifications_for_payments_to_and_from_my_GXS_Savings_Account%3F
+Scraped: 2025-11-28T01:12:14.287919
+
+================================================================================
+
+When you sign up with us, the GXS Bank app would have prompted you to allow push notifications from the app. When there is a payment to your GXS Savings Account, you will receive an email and a push notification. You will still receive an email even if you do not allow push notifications.
+To turn on push notifications,
+On the GXS Bank app home screen, tap on 'Me'.
+Click 'Notifications and emails'.
+Toggle on to receive notifications from us :)

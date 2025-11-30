@@ -1,0 +1,24 @@
+Title: How do I apply for a GXS Biz Account? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/Open_a_GXS_Biz_Account/How_do_I_apply_for_a_GXS_Biz_Account%3F#elm-main-content
+Scraped: 2025-11-28T02:36:35.203743
+Word Count: 212
+Is FAQ Answer: True
+
+================================================================================
+
+Thank you for your support!
+The GXS Biz Account is currently available for sole proprietors and Private Limited companies.
+To apply, simply download the GXS Bank app through the iOS App Store or Google Play Store. Launch the app and select 'Business banking'. After which, tap on 'Sign up' and we will guide you the rest of the way.
+You'll need to:
+Be at least 18 years old.
+Have a residential address in Singapore.
+Be a Singapore citizen or Singapore Permanent Resident.
+Have a Singpass Myinfo account.
+Have an active ACRA registration account.
+Not currently hold, and never have held, a GXS Savings Account, GXS FlexiLoan Account, or GXS FlexiCard.
+Not currently hold, and never have held, a GXS Biz Account or a GXS FlexiLoan Biz.
+Do note: We currently do not accept applications from US citizens or residents. If we require additional documents, we will email or send you a notification on the GXS Bank app. Your GXS Biz Account will be opened shortly after your documents have been reviewed and approved.
+We would like to share that your deposits with GXS Bank are aggregated and insured up to S$100,000 by the Singapore Deposit Insurance Corporation (SDIC).
+If you require assistance on your Singpass access, you may contact
+Singpass Helpdesk
+directly.

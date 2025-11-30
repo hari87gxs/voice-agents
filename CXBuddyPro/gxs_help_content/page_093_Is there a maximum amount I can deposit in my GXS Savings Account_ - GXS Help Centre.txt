@@ -1,0 +1,12 @@
+Title: Is there a maximum amount I can deposit in my GXS Savings Account? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Savings_Account/Fund_Account/Is_there_a_maximum_amount_I_can_deposit_in_my_GXS_Savings_Account%3F
+Scraped: 2025-11-28T01:12:02.406290
+
+================================================================================
+
+You can deposit up to the maximum balance amount into your GXS Savings Account, which consists of your Main Account and Pocket(s). This maximum balance amount may vary for different customers, and can be up to S$95,000.
+Follow these simple steps to find out this maximum balance amount for your GXS Savings Account:
+Tap on the 3 dots next to your ‘GXS SAVINGS ACCOUNT'.
+Followed by ‘View balance info’.
+For example, if your maximum balance amount is S$20,000, and you already have S$19,500 in your account. Then you deposit S$500 to bring your balance up to S$20,000. This means you'll be unable to add more funds to your account.
+Do note that you will continue to earn interest even if your account balance reaches the maximum balance amount.

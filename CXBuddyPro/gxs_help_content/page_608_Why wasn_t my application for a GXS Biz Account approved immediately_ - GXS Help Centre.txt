@@ -1,0 +1,10 @@
+Title: Why wasn’t my application for a GXS Biz Account approved immediately? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/Open_a_GXS_Biz_Account/Why_wasn%E2%80%99t_my_application_for_a_GXS_Biz_Account_approved_immediately%3F
+Scraped: 2025-11-28T02:26:05.651384
+Word Count: 46
+Is FAQ Answer: True
+
+================================================================================
+
+We don’t like to keep you waiting too.
+Our approvals are typically instant for applications that satisfy our eligibility criteria (which includes prevailing laws, regulations, and our policies). If we need more information to approve your application, we’ll send you an email or a push notification.

@@ -1,0 +1,10 @@
+Title: What happens if my account balance drops below S$100,000 even for one day? - GXS Help Centre
+URL: https://help.gxs.com.sg/Promotions/GXS_Biz_Account_2025_Year-End_Promotion/What_happens_if_my_account_balance_drops_below_S%24100%2C000_even_for_one_day%3F#elm-main-content
+Scraped: 2025-11-28T02:27:23.494314
+Word Count: 52
+Is FAQ Answer: True
+
+================================================================================
+
+Your end-of-day account balance must remain at or above S$100,000 for 60 consecutive days. If the end-of-day balance drops below this amount at any time during the 60-day period, you will not be eligible for the reward under this promotion.
+However, you will still receive the usual daily interest of 1.08% p.a.

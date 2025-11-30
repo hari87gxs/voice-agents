@@ -1,0 +1,18 @@
+Title: Will withdrawing my consent lead to the termination of my account? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Withdraw%2C_Access%2C_or_Correct_Your_Data/Will_withdrawing_my_consent_lead_to_the_termination_of_my_account%3F
+Scraped: 2025-11-28T02:09:38.627341
+Word Count: 145
+Is FAQ Answer: True
+
+================================================================================
+
+You can withdraw your consent from marketing messages or third party data sharing at any time. This will not terminate your account.
+However, withdrawing your consent means that we might not be able to provide you with the full GXS experience to all our products and services. For example, if you withdraw consent to the bank’s
+Data Privacy Policy
+or Terms and Conditions, GXS cannot service your account. You will need to terminate your account in such cases.
+To find out more on how we use your data, refer to 'What We Use Personal Data For' in GXS Bank’s Data Privacy Policy. If you’d like to terminate your account, please contact us at:
+GXS Bank app, Help Centre: GXS Chat (recommended)
+GXS Bank app, Help Centre: Submit an enquiry
+GXS Hotline: 1800 866 6685 or (+65) 6866 6685 (from overseas)
+GXS Customer Support Email:
+help@gxs.com.sg

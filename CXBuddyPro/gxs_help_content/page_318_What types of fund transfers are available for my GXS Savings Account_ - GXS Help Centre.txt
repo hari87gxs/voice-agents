@@ -1,0 +1,19 @@
+Title: What types of fund transfers are available for my GXS Savings Account? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Send_Money/What_types_of_fund_transfers_are_available_for_my_GXS_Savings_Account%3F
+Scraped: 2025-11-28T02:09:34.347819
+Word Count: 79
+Is FAQ Answer: True
+
+================================================================================
+
+Here are several ways to receive funds in and transfer funds from your GXS Savings Account:
+You can send funds via:
+FAST
+PayNow
+Intrabank (applies to GXS Savings Account only)
+e-GIRO
+You can receive funds via:
+FAST
+Inter-bank GIRO
+PayNow (you must register your GXS Savings Account for PayNow to be eligible)
+At the moment, GXS Savings Account is not able to send or receive funds via the following methods: Telegraphic Transfer, Cheque and Non-FAST transactions such as MEPS.

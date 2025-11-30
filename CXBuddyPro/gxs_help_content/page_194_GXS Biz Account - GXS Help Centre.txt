@@ -1,0 +1,125 @@
+Title: GXS Biz Account - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account
+Scraped: 2025-11-28T02:02:57.375802
+Word Count: 1318
+Is FAQ Answer: False
+
+================================================================================
+
+Open a GXS Biz Account
+No image available
+Can a company with a single director open a GXS Biz Account?
+Can I apply for a joint GXS Biz Account?
+Can I open more than one GXS Biz Account?
+Can you onboard a company that has a corporate shareholder?
+Do I have to submit any documents to open a GXS Biz Account?
+Do I need to make a minimum deposit to open a GXS Biz Account?
+How do I apply for a GXS Biz Account?
+How many users can operate the GXS Biz Account and GXS FlexiLoan Biz?
+How will I know when my GXS Biz Account is opened?
+I've submitted my application, but my account isn't open yet. How do I check the status?
+Is there a detailed guide I can refer to for opening a GXS Biz Account?
+I closed the GXS Bank app while applying for a GXS Biz Account. What should I do?
+I encountered an error while applying for a GXS Business Banking account for my newly registered business. When can I reapply?
+I recently registered a new business entity with ACRA. Why isn't the business name appearing on the GXS Bank app?
+My company has foreign directors and/or shareholders. Can the company still be onboarded?
+My GXS Biz Account application has been approved. How soon can I start using it?
+What do I need to open a GXS Biz Account?
+What is GXS Biz Account?
+Why did the GXS Bank app say that my company is not eligible to onboard?
+Why wasn’t my application for a GXS Biz Account approved immediately?
+GXS Biz Account Interest & Fees
+No image available
+Are there any service charges or fees with my GXS Biz Account?
+How is daily interest calculated for GXS Biz Account?
+Is there a service or fall below fee for GXS Biz Account?
+When will the earned interest be credited to my GXS Biz Account?
+Fund GXS Biz Account
+No image available
+Are my GXS Biz Account deposits with GXS Bank protected or insured?
+How can I withdraw cash from my GXS Biz Account?
+How do I fund my GXS Biz Account?
+How do I transfer funds to and from my GXS Biz Account?
+Is there a maximum amount I can deposit in my GXS Biz Account?
+Manage GXS Biz Account
+No image available
+How do I check my GXS Biz Account balance?
+How do I check the account transactions in my GXS Biz Account?
+How do I receive push notifications for payments to and from my GXS Biz Account?
+How do I request an audit confirmation?
+How do I set or change my GXS Biz Account daily fund transfer limit?
+How do I set up GIRO arrangements with my GXS Biz Account?
+I've transferred funds to my GXS Biz Account via GIRO. When will the funds be credited to my account?
+If my GXS Biz Account has been suspended, will I continue to earn daily interest?
+Is my GXS Biz Account bank transfer limit a daily or monthly limit?
+What are the different fund transfer limits for my GXS Biz Account?
+What should I do if there is a change of directorship for my company?
+What should I do if there is a change of shareholder or shareholding for my company?
+What will happen to my GXS Biz Account if I am declared bankrupt?
+Where can I obtain a copy of the Certified Extract of Board Resolutions for my GXS Biz Account application?
+GXS Biz Account Payments
+No image available
+Are there any fees involved for using Scan QR?
+Can I change my PayNow name?
+Can I delete a scheduled transfer?
+Can I download and print my QR code to receive money?
+Can I impose a surcharge or fee on a customer who wishes to pay me via PayNow?
+Can I schedule future or recurring FAST/ PayNow transfers?
+Can I show my QR code to receive money?
+Does the QR code from 'Share QR' expire or have a validity period?
+Do I need to register for PayNow to transfer funds from my GXS Biz Account?
+How can I edit the details of my scheduled transfer?
+How can I use the Recent and/or Favourite recipient tabs?
+How do I add a Favourite recipient for my GXS Biz Account?
+How do I register / deregister for PayNow?
+How do I remove a Favourite recipient from my GXS Biz Account?
+How do I set an amount to the PayNow QR code that I've created?
+How do I transfer funds to my Favourite recipient?
+How do I view my Favourite recipients?
+How do I view my scheduled transfers?
+How many Favourite recipients can I add to my GXS Biz Account?
+How to edit my Favourite recipient's nickname?
+Is there a cooling-off period after I add a Favorite recipient for my GXS Biz Account?
+Is there a daily limit for outgoing PayNow transactions when I use Scan QR on the GXS Bank app?
+I see 2 sections under the ‘Send Money’ screen. What is ‘Recent’ and what is ‘Favourite’?
+My outgoing PayNow transaction failed but money was deducted from my GXS Biz Account. Will I get a refund?
+What info do I need to be sure of before sending money via Scan QR?
+What is a scheduled transfer?
+What QR codes are supported by the GXS Bank app for payment purposes?
+Why can’t I link my GXS Biz Account to PayNow?
+GXS Biz Account Statements
+No image available
+Are GXS Biz Account e-statements considered certified or authorised statements?
+Can I have GXS Biz Account physical statements mailed to my address?
+How do I download my GXS Biz Account monthly statements?
+How do I view my GXS Biz Account details?
+How do I view my GXS Biz Account transaction history?
+How long will my GXS Biz Account monthly statements be available on the GXS Bank app?
+If I didn’t make any transactions in my GXS Biz Account, will e-statements be generated?
+What formats can I download my GXS Biz Account e-statements in?
+When are GXS Biz Account e-statements generated?
+Will I receive any notifications when my GXS e-statement is ready for viewing?
+Close GXS Biz Account
+No image available
+How do I close my GXS Biz Account?
+Keeping your GXS Biz Account Payments and Money Secure
+No image available
+How do I report an alleged fraud attempt or scam?
+How will I be notified of my GXS Biz Account transactions?
+What are my responsibilities as a Protected GXS Biz Account holder?
+What are some of my responsibilities before using any E-Payment?
+What are the E-Payments User Protection Guidelines?
+Grab & Singtel Experiences
+No image available
+Am I able to apply for a GXS Biz Account from my Grab Merchant app?
+How do I redeem my Singtel rewards as a GXS Business Banking customer?
+How do i use my newly opened GXS Biz Account as my Grab Merchant settlement account on my Grab Merchant app?
+I am a GrabFood and GrabPay merchant, and a GXS Biz Account customer. Can I receive benefits from both GrabFood and GrabPay merchant programs?
+I am a GrabFood merchant with multiple outlets, and a GXS Biz Account customer. Will all my outlets qualify for the reward?
+I am a new Grab Merchant and GXS Biz Account customer, am I eligible for the activation fee rebate?
+I had redeemed an earlier Grab reward under the Biz Ecosystem Rewards, am I eligible for this new reward?
+What Grab rewards can I look forward to as both a GXS Business Banking customer and a Grab Merchant?
+What rewards can I look forward to as both a GXS Business Banking customer and a Singtel customer?
+When I access my GXS Biz Account from the Grab Merchant app, am I providing my banking account information to Grab?
+Which Grab Merchant benefits am I eligible for?
+Who can I contact if I have more questions about the Grab merchant benefits?

@@ -1,0 +1,8 @@
+Title: What happens to my existing Boost Pocket when interest rates change? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Savings_Account/Boost_Pocket/What_happens_to_my_existing_Boost_Pocket_when_interest_rates_change%3F
+Scraped: 2025-11-28T01:11:34.386277
+
+================================================================================
+
+The interest rates for your existing Boost Pockets remain locked for the placement period. If your Boost Pocket is set to auto-renew, the new prevailing interest rates at the time of maturity will apply upon renewal.
+If your Boost Pocket is not set to auto-renew, your Boost Pocket funds will then be moved to the Main Account of your GXS Savings Account upon maturity. The Boost Pocket will then be closed.

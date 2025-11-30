@@ -1,0 +1,10 @@
+Title: How is daily interest calculated? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Savings_Account/Interest_and_Fees/How_is_daily_interest_calculated%3F
+Scraped: 2025-11-28T01:10:34.142917
+
+================================================================================
+
+You earn interest daily based on the aggregate balance of your Main Account and Saving Pocket(s) at the end of each day. Interest earned on the balance for each Saving Pocket is 1.18% p.a., and 1.08% p.a. for your Main Account. We multiply your balance by the interest rate per annum over 365 days. Interest will be credited to your account when you earn at least S$0.01 in accumulated interest.
+For example, based on an interest rate of 1.18% p.a. applicable on balances in your Saving Pockets,
+On 30 July 2025, your balance in your Saving Pocket(s) is S$20,000. You will earn an accrued interest of S$0.64657.
+S$0.64 will be credited to your account on the morning of 31 July 2025. Your balance will then be S$20,000.64. The remaining S$0.00657 will continue to accrue the next day.

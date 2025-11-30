@@ -1,0 +1,9 @@
+Title: I made a transaction in a foreign currency with my GXS Debit Card. Why is the final SGD transaction amount debited from my account different? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Debit_Card/Fees_and_Charges_of_GXS_Debit_Card/I_made_a_transaction_in_a_foreign_currency_with_my_GXS_Debit_Card._Why_is_the_final_SGD_transaction_amount_debited_from_my_account_different%3F
+Scraped: 2025-11-28T02:04:05.319536
+Word Count: 22
+Is FAQ Answer: True
+
+================================================================================
+
+The exchange rates used for conversion may vary. The rates may change as they're dependent on when merchants submit transactions for settlement.

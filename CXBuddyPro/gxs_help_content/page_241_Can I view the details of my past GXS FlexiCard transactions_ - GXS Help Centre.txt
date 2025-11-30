@@ -1,0 +1,10 @@
+Title: Can I view the details of my past GXS FlexiCard transactions? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiCard/Usage_of_GXS_FlexiCard/Can_I_view_the_details_of_my_past_GXS_FlexiCard_transactions%3F
+Scraped: 2025-11-28T02:05:27.400092
+Word Count: 28
+Is FAQ Answer: True
+
+================================================================================
+
+Certainly. Simply visit the GXS FlexiCard homescreen within the GXS app. It's that easy!
+You can view transactions made with your GXS FlexiCard from the last 6 months.

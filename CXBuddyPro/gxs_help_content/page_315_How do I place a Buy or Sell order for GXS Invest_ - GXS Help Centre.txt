@@ -1,0 +1,17 @@
+Title: How do I place a Buy or Sell order for GXS Invest? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/GXS_Invest_Orders/How_do_I_place_a_Buy_or_Sell_order_for_GXS_Invest%3F
+Scraped: 2025-11-28T02:09:27.241671
+Word Count: 112
+Is FAQ Answer: True
+
+================================================================================
+
+You can place a Buy or Sell order for Fullerton SGD Cash Fund by following these steps:
+1. Log in to the GXS Bank app.
+2. Proceed to the GXS Invest home screen.
+3. Tap on the ‘Buy’ or ‘Sell’ buttons.
+4. Input or select the amount you wish to buy or sell.
+5. Select your GXS Savings Account to fund the purchase or to credit the proceeds.
+6. Review your order details in the order summary page.
+7. Acknowledge that you have read the Invest Account Terms, Fund Documents as well as Risk Disclosures.
+8. Then tap on ‘Buy’ to proceed with the purchase or ‘Sell’ to proceed with the redemption.

@@ -1,0 +1,9 @@
+Title: Can I change my PayNow name? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/GXS_Biz_Account_Payments/Can_I_change_my_PayNow_name%3F
+Scraped: 2025-11-28T02:26:26.523088
+Word Count: 33
+Is FAQ Answer: True
+
+================================================================================
+
+You can't change your PayNow name. When you link a PayNow proxy to your GXS Biz Account, your company name is used as the name. This is ensure clarity and accuracy customer payments.

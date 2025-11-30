@@ -1,0 +1,29 @@
+Title: How do I calculate the monthly repayment amount of my Balance Transfer loan? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan/Borrow_a_Balance_Transfer/How_do_I_calculate_the_monthly_repayment_amount_of_my_Balance_Transfer_loan%3F
+Scraped: 2025-11-28T01:15:58.521273
+
+================================================================================
+
+You can easily simulate the monthly amount payable when you go through the borrowing journey on the GXS Bank app.
+A minimum percentage of the loan principal will need to be paid each month - you can refer to your app for the minimum percentage payable. The remaining balance will then be payable by the end of the tenure.
+The one-time processing fee forms part of the loan amount payable over the selected tenure.
+For example:
+Interest (APR): 0%
+Selected tenure: 4 months
+One time processing fee: 1.35% (EIR 4.13%)
+Minimum percentage payable each month except for final month: 1%
+Loan Principal = Amount requested by you
+= $10,000
+Monthly repayment each month except for final month = Loan Principal x Minimum percentage payable
+= $10,000 x 1%
+= $100
+Amount payable in final month = Loan Principal - [Monthly repayment each month x (Tenure - 1)]
+= $10,000 - [$100 x (4 - 1)]
+= $10,000 - $300
+= $9,700
+This means that your repayment schedule is as follows:
+Month 1: $100
+Month 2: $100
+Month 3: $100
+Month 4: $9,700
+*The Annual Percentage Rate (APR) represents the total borrowing cost, expressed as a yearly rate, relative to the initial loan amount.

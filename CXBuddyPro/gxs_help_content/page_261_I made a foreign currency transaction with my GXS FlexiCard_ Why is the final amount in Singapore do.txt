@@ -1,0 +1,9 @@
+Title: I made a foreign currency transaction with my GXS FlexiCard. Why is the final amount in Singapore dollars that is charged to my card different? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiCard/GXS_FlexiCard_Fees_and_Charges/I_made_a_foreign_currency_transaction_with_my_GXS_FlexiCard._Why_is_the_final_amount_in_Singapore_dollars_that_is_charged_to_my_card_different%3F
+Scraped: 2025-11-28T02:06:35.424195
+Word Count: 26
+Is FAQ Answer: True
+
+================================================================================
+
+The final amount in Singapore dollars may differ due to varying exchange rates used for conversion, which depend on when merchants submit their transactions for settlement.

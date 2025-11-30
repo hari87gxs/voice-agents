@@ -1,0 +1,17 @@
+Title: How do I borrow a Balance Transfer loan from GXS FlexiLoan? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan/Borrow_a_Balance_Transfer/How_do_I_borrow_a_Balance_Transfer_loan_from_GXS_FlexiLoan%3F
+Scraped: 2025-11-28T01:15:55.164275
+
+================================================================================
+
+Here are the steps to borrow a Balance Transfer loan:
+Open your GXS Bank app. On your GXS FlexiLoan home screen, tap on 'Borrow'.
+Select ‘Balance Transfer’ on the top bar. You may tap on the ‘change’ icon to change your loan type.
+Key in the amount you need. Note that a fee will be deducted from this amount.
+Select the tenure of your loan.
+If this is your first loan, you can choose the date which you prefer to pay monthly e.g. 15th of each month.
+Name your loan (to indicate its purpose!).
+Select where you’d like to transfer your loan to.
+Review the transfer details and click 'Confirm'.
+You can choose to transfer funds into a third-party bank account via PayNow held in your own name.
+However, before taking the Balance Transfer loan, do ensure you have a third-party bank account connected to your PayNow, via mobile number and/or NRIC.

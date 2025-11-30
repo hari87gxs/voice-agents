@@ -1,0 +1,21 @@
+Title: How do I register / deregister for PayNow? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Using_PayNow/How_do_I_register_%2F%2F_deregister_for_PayNow%3F
+Scraped: 2025-11-28T02:10:43.161339
+Word Count: 141
+Is FAQ Answer: True
+
+================================================================================
+
+Applicable to retail accounts only
+Linking or unlinking your account can be done easily within the app, simply perform the following:
+Login to your GXS Bank app. Go to 'Profile'.
+Under 'My payment settings', click 'Manage PayNow'.
+To register for PayNow:
+You can choose to register with your phone number or NRIC.
+Enter a PayNow nickname. This is what others will see when they search for you via NRIC/phone number.
+Click 'Confirm' and your registration is complete!
+To deregister for PayNow:
+In your profile, you will see the identifiers (NRIC or phone number) that are registered with PayNow. You can select which identifiers to deregister as below:
+Tap the three dots on the right of the registered identifier.
+Select 'Deregister' from the pop-up menu.
+Click 'Yes' to confirm your deregistration. We’ve also added in 'No' if you change your mind :)

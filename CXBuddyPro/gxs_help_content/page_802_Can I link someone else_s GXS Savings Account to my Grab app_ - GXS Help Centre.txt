@@ -1,0 +1,9 @@
+Title: Can I link someone else's GXS Savings Account to my Grab app? - GXS Help Centre
+URL: https://help.gxs.com.sg/Grab_and_Singtel_Experiences/Sign_Up_for_GXS_on_Grab/Can_I_link_someone_else's_GXS_Savings_Account_to_my_Grab_app%3F#elm-main-content
+Scraped: 2025-11-28T02:35:58.992759
+Word Count: 28
+Is FAQ Answer: True
+
+================================================================================
+
+This experience is meant for you exclusively. You should only link your GXS Savings Account to your own Grab app. This also helps to keep your account safe!

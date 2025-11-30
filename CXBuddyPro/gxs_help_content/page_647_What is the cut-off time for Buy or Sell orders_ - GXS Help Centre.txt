@@ -1,0 +1,13 @@
+Title: What is the cut-off time for Buy or Sell orders? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Invest/GXS_Invest_Orders/What_is_the_cut-off_time_for_Buy_or_Sell_orders%3F#elm-main-content
+Scraped: 2025-11-28T02:28:04.384708
+Word Count: 135
+Is FAQ Answer: True
+
+================================================================================
+
+This is the specific time on a given dealing day that your transaction will be considered for that day's value. It’s important to know this time so you can plan and ensure your transaction is recorded correctly. The cut-off time to transact on GXS Invest is 3:30pm every business day.
+For Buy orders placed before 3:30pm, your allocated units will be reflected in your account on the next business day.
+For Buy orders placed after 3:30pm or on a non-business day, your allocated units will be reflected in your account the following business day instead.
+For Sell orders placed before 3:30pm, you will receive your proceeds on the next business day.
+For Sell orders placed after 3:30pm or on a non-business day, you can generally expect to receive your proceeds the following business day instead.

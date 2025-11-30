@@ -1,0 +1,11 @@
+Title: What should I do if I face any issues with launching Odyssey? - GXS Help Centre
+URL: https://help.gxs.com.sg/Odyssey/Technical_Issue/What_should_I_do_if_I_face_any_issues_with_launching_Odyssey%3F
+Scraped: 2025-11-28T02:07:30.914452
+Word Count: 45
+Is FAQ Answer: True
+
+================================================================================
+
+If you encounter technical issues on the GXS Bank app, try restarting the app first. If that doesn't work, please contact GXS Customer Support via the in-app chat or email
+help@gxs.com.sg
+. Our team will assist you to resolve the issue as quickly as possible.

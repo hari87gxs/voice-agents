@@ -1,0 +1,13 @@
+Title: How do I change my GXS FlexiLoan credit limit? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan/Manage_GXS_FlexiLoan_Account/How_do_I_change_my_GXS_FlexiLoan_credit_limit%3F
+Scraped: 2025-11-28T01:14:37.539855
+
+================================================================================
+
+Increasing your credit limit is currently not available. However, you can lower the limit with the following four steps:
+(Do note that if you lower your credit limit, you will not be able to increase it later. A reduction in your GXS FlexiLoan credit limit will also lower your Balance Transfer limit)
+Log into your GXS Bank app.
+In your FlexiLoan home screen, tap the Manage icon (beneath your available limit).
+Select 'Lower credit limit'.
+Input your preferred credit limit and click 'Confirm'.
+Your new credit limit will take effect immediately.

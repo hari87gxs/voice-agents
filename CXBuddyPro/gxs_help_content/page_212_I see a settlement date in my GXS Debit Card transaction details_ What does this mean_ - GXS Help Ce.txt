@@ -1,0 +1,11 @@
+Title: I see a settlement date in my GXS Debit Card transaction details. What does this mean? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Debit_Card/Usage_of_GXS_Debit_Card/I_see_a_settlement_date_in_my_GXS_Debit_Card_transaction_details._What_does_this_mean%3F
+Scraped: 2025-11-28T02:03:56.398373
+Word Count: 67
+Is FAQ Answer: True
+
+================================================================================
+
+Settlement date is the date on which the funds you spent with your GXS Debit Card are transferred to the merchant.
+As settlement is initiated by the merchant, the settlement date may happen any time from a few days to weeks after your transaction date.
+From the time of your transaction until the settlement date, the funds were placed on hold and not available for your use.

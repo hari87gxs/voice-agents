@@ -1,0 +1,12 @@
+Title: How do I view my GXS Biz Account transaction history? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/GXS_Biz_Account_Statements/How_do_I_view_my_GXS_Biz_Account_transaction_history%3F
+Scraped: 2025-11-28T02:11:36.855045
+Word Count: 33
+Is FAQ Answer: True
+
+================================================================================
+
+You can view your transaction history when you tap on the 'GXS Biz Account' tile on the home screen.
+To view your monthly statements,
+Tap on 'More' next to 'Account Balance'.
+Select 'Statements'.

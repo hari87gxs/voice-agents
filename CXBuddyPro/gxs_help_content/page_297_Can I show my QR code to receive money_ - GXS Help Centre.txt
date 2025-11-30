@@ -1,0 +1,13 @@
+Title: Can I show my QR code to receive money? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/GXS_Biz_Account_Payments/Can_I_show_my_QR_code_to_receive_money%3F
+Scraped: 2025-11-28T02:08:30.112473
+Word Count: 65
+Is FAQ Answer: True
+
+================================================================================
+
+Absolutely! Receiving payments is super easy using your QR code. Here's how you can show it to your customers:
+1. Open the GXS Bank app.
+2. Tap on 'QR on the top bar.
+3. On 'Receive' within the QR page, you can show your QR code to your customers.
+4. Once they've scanned your QR code, you'll receive the money in your GXS Biz Account.

@@ -1,0 +1,9 @@
+Title: How are interest savings for my Instalment Loans calculated? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan/GXS_FlexiLoan_-_Instalment_Loan_Fees_and_Interest/How_are_interest_savings_for_my_Instalment_Loans_calculated%3F
+Scraped: 2025-11-28T01:15:34.501307
+
+================================================================================
+
+Interest is calculated on a daily, non-compounding basis. You can check your total interest saved upon entering your repayment amount.
+If an early repayment is made, it will be deducted from your outstanding GXS FlexiLoan balance on that day, resulting in interest savings for you as interest is calculated on a reduced outstanding balance instead. The interest amount that you saved will be shown in your GXS Bank app during the repayment process.
+We recommend taking out a loan only when necessary and with careful consideration. GXS FlexiLoan is designed to provide flexibility and support during unexpected situations. While early repayment is possible with interest savings and at no fees, we advise against taking out loans that are not truly needed. The bank conducts periodic reviews to ensure that our customers are using our products responsibly and with prudence. The bank may impose fees/charges and/or interest for the provision of our services and products and has the right to change the amount of such fees/charges and/or interest.

@@ -1,0 +1,7 @@
+Title: Why does my app crash when I try to log in on my Android phone? I can only log successfully on my second try. - GXS Help Centre
+URL: https://help.gxs.com.sg/Emergencies/Login_Issues/Why_does_my_app_crash_when_I_try_to_log_in_on_my_Android_phone%3F_I_can_only_log_successfully_on_my_second_try.
+Scraped: 2025-11-28T01:09:10.940574
+
+================================================================================
+
+Thanks for bringing this to our attention! We’re aware of the issue and are hard at work to fix it. Please keep a lookout for updates.

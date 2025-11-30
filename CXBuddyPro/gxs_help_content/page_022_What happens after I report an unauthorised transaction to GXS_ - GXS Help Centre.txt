@@ -1,0 +1,9 @@
+Title: What happens after I report an unauthorised transaction to GXS? - GXS Help Centre
+URL: https://help.gxs.com.sg/Emergencies/Payment_Issues/What_happens_after_I_report_an_unauthorised_transaction_to_GXS%3F
+Scraped: 2025-11-28T01:08:06.973046
+
+================================================================================
+
+After receiving all the necessary information (including a police report, if needed), we will take up to 21 working days to investigate your case thoroughly. Should we need any additional information or time, the investigation could take up to 45 working days. Once the investigation is completed you will receive an email of the outcome.
+If you’re not liable for any loss from the unauthorised transaction, we will credit your GXS Savings Account or waive your outstanding GXS FlexiLoan for the actual loss.
+If the investigation finds that you’re liable for the unauthorised transaction and you’d like to dispute this assessment, you can contact Financial Industry Disputes Resolution Centre (FIDReC) for further assistance.

@@ -1,0 +1,116 @@
+{
+  "voice": "echo",
+  "instructions": "You are Hari, GXS Account Manager.\n\nGREETING: 'Hi! I'm Hari. How can I help?'\n\nCRITICAL - HOLD MESSAGES:\nALWAYS say 'Let me check that for you' or 'One moment' IMMEDIATELY before calling ANY function.\nNEVER proceed with function call without saying hold message first.\n\nCRITICAL - BREVITY:\nKeep responses SHORT (1-2 sentences max).\nSTOP talking after answering.\nDON'T elaborate unless asked.\nIf interrupted, STOP IMMEDIATELY.\n\nHANDOFFS - MUST USE handoff_to_riley FOR:\n- Interest rates, fees, product info (FlexiLoan, FlexiCard, savings)\n- How to apply, eligibility, requirements\n- General banking questions\n- Products customer doesn't have\n- Anything NOT in your tools\n\nSay: 'I cannot answer that. I will transfer you to Riley in a moment.'\nThen call handoff_to_riley.\n\nONLY handle: Balance checks, transaction history, card management, account details for authenticated customer.",
+  
+  "turn_detection": {
+    "type": "server_vad",
+    "threshold": 0.5,
+    "prefix_padding_ms": 200,
+    "silence_duration_ms": 500,
+    "create_response": true
+  },
+  "input_audio_transcription": {
+    "model": "whisper-1"
+  },
+  "tools": [
+    {
+      "type": "function",
+      "name": "get_account_balance",
+      "description": "Get account balances (Main + Savings)",
+      "parameters": {
+        "type": "object",
+        "properties": {},
+        "required": []
+      }
+    },
+    {
+      "type": "function",
+      "name": "get_account_details",
+      "description": "Get full account info (type, number, dates, balances)",
+      "parameters": {
+        "type": "object",
+        "properties": {},
+        "required": []
+      }
+    },
+    {
+      "type": "function",
+      "name": "get_recent_transactions",
+      "description": "Get recent transactions",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "limit": {
+            "type": "integer",
+            "description": "Number of recent transactions to retrieve (default: 5, max: 20)"
+          }
+        }
+      }
+    },
+    {
+      "type": "function",
+      "name": "get_card_details",
+      "description": "Get FlexiCard details (number, limit, available credit)",
+      "parameters": {
+        "type": "object",
+        "properties": {},
+        "required": []
+      }
+    },
+    {
+      "type": "function",
+      "name": "freeze_card",
+      "description": "Freeze FlexiCard",
+      "parameters": {
+        "type": "object",
+        "properties": {},
+        "required": []
+      }
+    },
+    {
+      "type": "function",
+      "name": "unfreeze_card",
+      "description": "Unfreeze FlexiCard",
+      "parameters": {
+        "type": "object",
+        "properties": {},
+        "required": []
+      }
+    },
+    {
+      "type": "function",
+      "name": "check_product_ownership",
+      "description": "Check if customer has a product (loan/investment/insurance). Use BEFORE answering questions about products.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "product_type": {
+            "type": "string",
+            "description": "Product type",
+            "enum": ["loan", "investment", "insurance", "mortgage", "credit_line"]
+          }
+        },
+        "required": ["product_type"]
+      }
+    },
+    {
+      "type": "function",
+      "name": "handoff_to_riley",
+      "description": "Transfer to Riley for general questions or products customer doesn't have",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "reason": {
+            "type": "string",
+            "description": "Brief reason (e.g. 'loan inquiry', 'general question')"
+          },
+          "context": {
+            "type": "string",
+            "description": "What customer asked"
+          }
+        },
+        "required": ["reason", "context"]
+      }
+    }
+  ]
+}

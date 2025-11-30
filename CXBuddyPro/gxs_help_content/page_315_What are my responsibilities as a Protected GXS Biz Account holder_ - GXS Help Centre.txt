@@ -1,0 +1,32 @@
+Title: What are my responsibilities as a Protected GXS Biz Account holder? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/Keeping_your_GXS_Biz_Account_Payments_and_Money_Secure/What_are_my_responsibilities_as_a_Protected_GXS_Biz_Account_holder%3F
+Scraped: 2025-11-28T02:09:28.295793
+Word Count: 273
+Is FAQ Answer: True
+
+================================================================================
+
+Do:
+Download the GXS Bank app from official app stores only (Apple App store or Google Play Store).
+Install your app and device updates promptly.
+Install and maintain the latest anti-virus software on your device.
+Change your passcode regularly and do not share it with anyone.
+Read notifications that may be sent by the bank very carefully.
+Report to GXS Bank immediately if you notice any unauthorised or erroneous transaction.
+Keep your contact details (such as mobile number and email address) up to date with GXS Bank so that we can send you transaction alerts.
+Monitor your transaction alerts and account statements for any unauthorised and erroneous transactions.
+Do not:
+Disclose your banking credentials such as passcode and Singpass ID to anyone else for any purpose at all, including to initiate or execute payment transactions involving your account.
+Use a passcode that can be easily guessed, such as your birthday, wedding day, or 123456.
+Store or keep a record of your access code or Singpass ID in a way that allows any third party to easily misuse them.
+Click on web links in push notifications or emails to access our website as these may be phishing attempts. Please always type our URL: www.gxs.com.sg/ into the browser’s address bar.
+Allow third parties to register their fingerprint or Face ID on your device.
+The above practices are not exhaustive of all the measures you should take to protect your account. For further information, you can visit:
+Terms of Use
+Acceptable Use Policy
+Security Tips
+Deposit Account Terms
+GXS FlexiLoan Terms and Conditions
+For assistance on your Singpass access, do reach out to
+Singpass Helpdesk
+directly.

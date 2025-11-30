@@ -1,0 +1,10 @@
+Title: Why did I receive a notification to top up my account when I was sending money via PayNow? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Using_PayNow/Why_did_I_receive_a_notification_to_top_up_my_account_when_I_was_sending_money_via_PayNow%3F
+Scraped: 2025-11-28T02:10:54.737031
+Word Count: 31
+Is FAQ Answer: True
+
+================================================================================
+
+Applicable to retail accounts only
+It sounds like you might have insufficient funds. Click on the notification and it will give you instructions on how to add funds to your account.

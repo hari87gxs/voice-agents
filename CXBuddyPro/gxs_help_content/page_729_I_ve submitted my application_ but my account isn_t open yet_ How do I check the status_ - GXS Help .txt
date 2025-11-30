@@ -1,0 +1,10 @@
+Title: I've submitted my application, but my account isn't open yet. How do I check the status? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_Biz_Account/Open_a_GXS_Biz_Account/I've_submitted_my_application%2C_but_my_account_isn't_open_yet._How_do_I_check_the_status%3F#elm-main-content
+Scraped: 2025-11-28T02:32:15.861513
+Word Count: 52
+Is FAQ Answer: True
+
+================================================================================
+
+Thank you for applying! Rest assured that we're actively processing your application. It typically takes us 3 business days to complete all necessary checks before account opening.
+If 3 business days have passed and your account remains pending, please contact us directly so we can check the status for you right away.

@@ -1,0 +1,8 @@
+Title: What's the minimum/maximum Instalment Loan amount I can borrow from my GXS FlexiLoan credit line? - GXS Help Centre
+URL: https://help.gxs.com.sg/GXS_FlexiLoan/Borrow_an_Instalment_Loan/What's_the_minimum%2F%2Fmaximum_Instalment_Loan_amount_I_can_borrow_from_my_GXS_FlexiLoan_credit_line%3F
+Scraped: 2025-11-28T01:15:07.414524
+
+================================================================================
+
+The minimum instalment loan amount you can borrow from your available limit is S$200, while the maximum is capped at your total available credit limit.
+Do note that even though you may have an available credit limit, you cannot borrow more loans if you currently have 10 loans that are not fully repaid.

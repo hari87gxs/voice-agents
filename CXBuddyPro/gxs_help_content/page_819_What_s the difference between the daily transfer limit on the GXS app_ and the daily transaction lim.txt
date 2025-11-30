@@ -1,0 +1,13 @@
+Title: What's the difference between the daily transfer limit on the GXS app, and the daily transaction limit for my linked GXS Savings Account on the Grab app? - GXS Help Centre
+URL: https://help.gxs.com.sg/Grab_and_Singtel_Experiences/GXS_on_Grab/What's_the_difference_between_the_daily_transfer_limit_on_the_GXS_app%2C_and_the_daily_transaction_limit_for_my_linked_GXS_Savings_Account_on_the_Grab_app%3F#elm-main-content
+Scraped: 2025-11-28T02:36:50.035579
+Word Count: 83
+Is FAQ Answer: True
+
+================================================================================
+
+Daily transfer limit on GXS Bank app:
+This refers to the daily amount you can transfer from your GXS Savings Account to other bank accounts, through the various modes of transfer (e.g. PayNow, local bank transfers).
+Daily transaction limit for linked GXS Savings Account on Grab app:
+This refers to the total daily transactions you can make from your GXS Savings Account on Grab app, including top ups to your GrabPay Wallet.
+Please note that the transfer and transaction limits are not related.

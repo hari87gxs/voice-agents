@@ -1,0 +1,15 @@
+Title: How do I enable/disable biometrics login (fingerprint and face ID) on the GXS Bank app? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Using_the_App/How_do_I_enable%2F%2Fdisable_biometrics_login_(fingerprint_and_face_ID)_on_the_GXS_Bank_app%3F#elm-main-content
+Scraped: 2025-11-28T02:27:08.143874
+Word Count: 72
+Is FAQ Answer: True
+
+================================================================================
+
+Enable biometrics login in 3 ways:
+Tap biometrics under 'Me' in the GXS Bank app;
+Before logging in via passcode on the GXS Bank app, click the biometrics icon; or
+When you’re registering your device for the first time, the GXS Bank app will prompt you to enable biometrics.
+Disable biometrics login in 2 steps:
+Tap on 'Me'.
+Toggle off under 'Login with Face ID' (iOS) or 'Login with Touch ID' (Android).

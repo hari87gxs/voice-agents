@@ -1,0 +1,9 @@
+Title: How do I get started on Odyssey? - GXS Help Centre
+URL: https://help.gxs.com.sg/Odyssey/Miscellaneous/How_do_I_get_started_on_Odyssey%3F
+Scraped: 2025-11-28T02:08:28.700348
+Word Count: 31
+Is FAQ Answer: True
+
+================================================================================
+
+We are currently rolling out Odyssey to selected customers as we are still in the beta phase. Once it's available to you, you can access Odyssey via your GXS Bank app.

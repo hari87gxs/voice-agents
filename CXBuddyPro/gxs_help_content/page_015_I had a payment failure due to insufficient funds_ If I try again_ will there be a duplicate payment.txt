@@ -1,0 +1,7 @@
+Title: I had a payment failure due to insufficient funds. If I try again, will there be a duplicate payment? - GXS Help Centre
+URL: https://help.gxs.com.sg/Emergencies/Payment_Issues/I_had_a_payment_failure_due_to_insufficient_funds._If_I_try_again%2C_will_there_be_a_duplicate_payment%3F
+Scraped: 2025-11-28T01:07:45.270166
+
+================================================================================
+
+You will be notified instantly if you don’t have enough funds to make a payment. The transfer will not be complete, so you don’t have to worry about making duplicate payments. When you receive the notification on insufficient funds, you will be prompted to add funds to your GXS Savings Account, or reduce the amount you’re transferring.

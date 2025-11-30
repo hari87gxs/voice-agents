@@ -1,0 +1,14 @@
+Title: How do I update my GXS Bank app notification preferences? - GXS Help Centre
+URL: https://help.gxs.com.sg/Introductions/Using_the_App/How_do_I_update_my_GXS_Bank_app_notification_preferences%3F
+Scraped: 2025-11-28T02:09:05.983185
+Word Count: 52
+Is FAQ Answer: True
+
+================================================================================
+
+On the GXS Bank app, tap on 'Me'.
+Click on
+Notifications and
+'Emails'.
+Select the notifications you'd like to update.
+To keep you safe, not all notifications can be updated. Some notifications (such as transaction notifications and updates to your personal information) are sent to prevent fraud, and cannot be turned off.

@@ -1,0 +1,9 @@
+Title: When link and pay with my GXS Savings Account from My Singtel app, am I providing my GXS Bank banking account information to Singtel? - GXS Help Centre
+URL: https://help.gxs.com.sg/Grab_and_Singtel_Experiences/My_Singtel_App/When_I_access_my_GXS_Savings_Account_from_My_Singtel_app%2C_am_I_providing_my_banking_account_information_to_Singtel%3F
+Scraped: 2025-11-28T02:16:53.405200
+Word Count: 33
+Is FAQ Answer: True
+
+================================================================================
+
+No. Rest assured that your privacy and security is of utmost importance to us. We do not share any personal information with Singtel when you link or make payments on My Singtel app.

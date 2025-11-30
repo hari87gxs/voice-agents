@@ -1,0 +1,10 @@
+Title: I am a GrabFood merchant with multiple outlets, and a GXS Biz Account customer. Will all my outlets qualify for the reward? - GXS Help Centre
+URL: https://help.gxs.com.sg/?title=GXS_Biz_Account/Grab_%26_Singtel_Experiences/I_am_a_GrabFood_merchant_with_multiple_outlets,_and_a_GXS_Biz_Account_customer._Will_all_my_outlets_qualify_for_the_reward%3F
+Scraped: 2025-11-28T02:15:29.613907
+Word Count: 49
+Is FAQ Answer: True
+
+================================================================================
+
+Rewards are issued at the outlet-level, subject to each outlet linking its Grab earnings settlements to the merchant's GXS Biz Account.
+For example, if a GrabFood merchant with 3 outlets links all outlets to its GXS Biz Account, all 3 outlets will enjoy waived Islandwide Delivery (up to 12km).

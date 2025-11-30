@@ -1,0 +1,10 @@
+Title: I tried to log in to the GXS app, but there is an error: "Something went wrong, please try logging in later". How do I proceed? - GXS Help Centre
+URL: https://help.gxs.com.sg/Emergencies/Login_Issues/I_tried_to_log_in_to_the_GXS_app%2C_but_there_is_an_error%3A_%22Something_went_wrong%2C_please_try_logging_in_later%22._How_do_I_proceed%3F
+Scraped: 2025-11-28T01:09:04.550353
+
+================================================================================
+
+If your account has been locked, please wait 30 minutes before trying again. Let us help you if you’re still facing issues:
+GXS Hotline: 1800 866 6685 or (+65) 6866 6685 (from overseas)
+GXS Customer Support Email:
+help@gxs.com.sg

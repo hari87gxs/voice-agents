@@ -1,0 +1,10 @@
+Title: How long do PayNow transfers take? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Using_PayNow/How_long_do_PayNow_transfers_take%3F
+Scraped: 2025-11-28T02:09:37.239480
+Word Count: 16
+Is FAQ Answer: True
+
+================================================================================
+
+Applicable to retail accounts only
+PayNow transfers are immediate, so go forth and make that transfer!

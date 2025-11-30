@@ -1,0 +1,12 @@
+Title: How can I use the Recent and/or Favourite recipient tabs? - GXS Help Centre
+URL: https://help.gxs.com.sg/Payments/Add_Favourite/How_can_I_use_the_Recent_and%2F%2For_Favourite_recipient_tabs%3F
+Scraped: 2025-11-28T02:07:21.593479
+Word Count: 53
+Is FAQ Answer: True
+
+================================================================================
+
+Applicable to retail accounts only
+You can easily initiate transfer to your recipients via either the 'Recent' or 'Favourite' tab.
+If your recipient is a recent recipient or was saved as Favourite, you no longer need to manually key in a recipient's mobile number/NRIC/FIN/UEN/VPA/bank account number.
+Transfers are now just a tap away!

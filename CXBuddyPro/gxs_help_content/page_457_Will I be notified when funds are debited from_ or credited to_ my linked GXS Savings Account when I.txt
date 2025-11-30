@@ -1,0 +1,9 @@
+Title: Will I be notified when funds are debited from, or credited to, my linked GXS Savings Account when I use my Grab app? - GXS Help Centre
+URL: https://help.gxs.com.sg/Grab_and_Singtel_Experiences/GXS_on_Grab/Will_I_be_notified_when_funds_are_debited_from%2C_or_credited_to%2C_my_linked_GXS_Savings_Account_when_I_use_my_Grab_app%3F
+Scraped: 2025-11-28T02:16:43.897527
+Word Count: 36
+Is FAQ Answer: True
+
+================================================================================
+
+You'll receive a push notification on the Grab app that the activity you have funded is successful. In addition, you will receive an email notification from GXS to your registered email address for the associated activity.
